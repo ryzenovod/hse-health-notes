@@ -59,19 +59,23 @@ extra:
 
 nav:
   - Главная: index.md
+  - Конспекты:
+      - Все конспекты: year-1/notes.md
+      - Организация и экономика здравоохранения: module-1/epidemiology-lecture-1.md
+      - Общественный выбор и бюрократия: year-1/public-sector-economics-public-choice.md
   - 1 курс:
       - Обзор дисциплин: year-1/index.md
       - Важное: year-1/important.md
-      - Организация и экономика здравоохранения:
-          - Обзор курса: year-1/healthcare-economics.md
-          - Вводный день: module-1/epidemiology-lecture-1.md
       - Обязательные:
+          - Организация и экономика здравоохранения:
+              - Карта курса: year-1/healthcare-economics.md
+              - Как мы узнаём правду в медицине: module-1/epidemiology-lecture-1.md
           - Правовое обеспечение: year-1/legal-healthcare.md
           - Теория госуправления: year-1/public-administration.md
           - Управление социальной сферой: year-1/social-sector.md
           - Медицинские и страховые организации: year-1/medical-organizations.md
           - Экономика общественного сектора:
-              - Обзор курса: year-1/public-sector-economics.md
+              - Карта курса: year-1/public-sector-economics.md
               - Общественный выбор и бюрократия: year-1/public-sector-economics-public-choice.md
       - Ключевые семинары:
           - Научно-исследовательский семинар: year-1/research-seminar.md

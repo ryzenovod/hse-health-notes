@@ -11,6 +11,7 @@ hide:
 
 На странице видно, по каким предметам есть конспекты, а по каким — только темы из LMS. Список предметов взят из [рабочего учебного плана](https://www.hse.ru/dbs/education/sp_UnitedWorkPlan_28117_22850.pdf).
 
+[Читать конспекты →](notes.md){ .md-button .md-button--primary }
 [Календарь, контроль и курсовая →](important.md){ .md-button }
 
 ## Обязательные дисциплины
@@ -66,7 +67,7 @@ hide:
 
 [Открыть раздел →](public-sector-economics.md)
 
-[Общественный выбор →](public-sector-economics-public-choice.md)
+[Общественный выбор и бюрократия →](public-sector-economics-public-choice.md)
 </article>
 
 </div>

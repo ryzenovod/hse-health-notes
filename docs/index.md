@@ -14,37 +14,27 @@ hide:
 
 Студенческие конспекты магистратуры НИУ ВШЭ. Медицинские термины поясняем для немедиков, экономические и статистические — для врачей.
 
-[Открыть 1 курс](year-1/index.md){ .md-button .md-button--primary }
-[Смотреть конспекты](year-1/public-sector-economics.md){ .md-button }
+[Смотреть конспекты](year-1/notes.md){ .md-button .md-button--primary }
+[Открыть 1 курс](year-1/index.md){ .md-button }
 [Открыть программу ВШЭ](https://www.hse.ru/ma/health/courses){ .md-button }
 
 </section>
 
-## Сейчас в базе
+## Материалы
 
 <div class="feature-grid" markdown>
 
 <article class="feature-card feature-card--accent" markdown>
 
-### Организация и экономика здравоохранения
+### Конспекты
 
-В карте — 13 тем из LMS, преподаватели курса и конспект по доказательной медицине.
+Материалы разложены по предметам и темам. Сейчас есть доказательная медицина, общественный выбор и бюрократия.
 
-[Открыть карту курса →](year-1/healthcare-economics.md)
+[Открыть все конспекты →](year-1/notes.md)
 
-[Перейти к конспекту →](module-1/epidemiology-lecture-1.md)
+[Доказательная медицина →](module-1/epidemiology-lecture-1.md)
 
-</article>
-
-<article class="feature-card" markdown>
-
-### Экономика общественного сектора
-
-На странице — структура курса, оценивание, учебник и конспект по общественному выбору.
-
-[Открыть раздел →](year-1/public-sector-economics.md)
-
-[Читать конспект →](year-1/public-sector-economics-public-choice.md)
+[Общественный выбор и бюрократия →](year-1/public-sector-economics-public-choice.md)
 
 </article>
 
