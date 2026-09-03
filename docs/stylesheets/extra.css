@@ -178,6 +178,25 @@ body {
   box-shadow: 0 0 0 1px var(--notes-line);
 }
 
+.lecture-figure {
+  margin: 1.5rem 0;
+}
+
+.lecture-figure img {
+  display: block;
+  width: 100%;
+  border: 1px solid var(--notes-line);
+  border-radius: 1rem;
+  background: #f5f6fb;
+}
+
+.lecture-figure figcaption {
+  margin-top: 0.55rem;
+  color: var(--notes-muted);
+  font-size: 0.74rem;
+  line-height: 1.45;
+}
+
 .note-figure {
   margin: 1.4rem 0;
   padding: 1rem;
