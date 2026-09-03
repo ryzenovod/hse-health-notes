@@ -1,0 +1,84 @@
+---
+title: Первый курс
+description: Дисциплины первого курса набора 2026 магистратуры НИУ ВШЭ
+hide:
+  - toc
+---
+
+<span class="eyebrow">2026/27 · 60 зачётных единиц</span>
+
+# Первый курс
+
+Пока заполнен один раздел — вводная лекция по организации и экономике здравоохранения. Список предметов взят из [рабочего учебного плана 2026/27](https://www.hse.ru/dbs/education/sp_UnitedWorkPlan_28117_22850.pdf).
+
+## Обязательные дисциплины
+
+<div class="course-grid" markdown>
+
+<article class="course-card" markdown>
+<span class="status-badge status-badge--ready">Есть конспект</span>
+
+### Организация и экономика здравоохранения
+
+[Открыть вводную лекцию →](../module-1/epidemiology-lecture-1.md)
+</article>
+
+<article class="course-card" markdown>
+<span class="status-badge">Нет конспекта</span>
+
+### Правовое обеспечение государственного и частного здравоохранения
+
+[Открыть раздел →](legal-healthcare.md)
+</article>
+
+<article class="course-card" markdown>
+<span class="status-badge">Нет конспекта</span>
+
+### Теория и механизмы государственного управления
+
+[Открыть раздел →](public-administration.md)
+</article>
+
+<article class="course-card" markdown>
+<span class="status-badge">Нет конспекта</span>
+
+### Управление и экономика социальной сферы
+
+[Открыть раздел →](social-sector.md)
+</article>
+
+<article class="course-card" markdown>
+<span class="status-badge">Нет конспекта</span>
+
+### Управление медицинскими и страховыми организациями
+
+[Открыть раздел →](medical-organizations.md)
+</article>
+
+<article class="course-card" markdown>
+<span class="status-badge">Нет конспекта</span>
+
+### Экономика общественного сектора
+
+[Открыть раздел →](public-sector-economics.md)
+</article>
+
+</div>
+
+## Ключевые семинары
+
+- [Научно-исследовательский семинар](research-seminar.md)
+- [Семинар наставника](mentor-seminar.md)
+
+## Дисциплины по выбору
+
+В каждом блоке нужно выбрать одну дисциплину.
+
+| Блок | Варианты |
+| :--- | :--- |
+| **1** | [Бизнес планирование деятельности медицинской организации](business-planning.md) · [Управление качеством в здравоохранении](quality-management.md) |
+| **2** | [Управление человеческими ресурсами в здравоохранении](human-resources.md) · [Ценностно-ориентированное здравоохранение и внедрение инновационных технологий](value-based-healthcare.md) |
+
+## Учебная работа
+
+Кроме предметов, в плане есть **курсовая работа** и дисциплины по выбору из общеуниверситетского пула **МагоЛего**.

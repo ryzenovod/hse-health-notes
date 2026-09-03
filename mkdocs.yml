@@ -1,0 +1,85 @@
+site_name: Конспекты · Управление и экономика здравоохранения
+site_description: Студенческая база знаний магистратуры НИУ ВШЭ
+site_url: https://ryzenovod.github.io/hse-health-notes/
+repo_url: https://github.com/ryzenovod/hse-health-notes
+repo_name: ryzenovod/hse-health-notes
+edit_uri: ""
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: ru
+  font: false
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Включить тёмную тему
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Включить светлую тему
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+
+plugins:
+  - search:
+      lang: ru
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - md_in_html
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Главная: index.md
+  - 1 курс:
+      - Обзор дисциплин: year-1/index.md
+      - Организация и экономика здравоохранения:
+          - Вводный день: module-1/epidemiology-lecture-1.md
+      - Обязательные:
+          - Правовое обеспечение: year-1/legal-healthcare.md
+          - Теория госуправления: year-1/public-administration.md
+          - Управление социальной сферой: year-1/social-sector.md
+          - Медицинские и страховые организации: year-1/medical-organizations.md
+          - Экономика общественного сектора: year-1/public-sector-economics.md
+      - Ключевые семинары:
+          - Научно-исследовательский семинар: year-1/research-seminar.md
+          - Семинар наставника: year-1/mentor-seminar.md
+      - По выбору:
+          - Бизнес-планирование: year-1/business-planning.md
+          - Управление качеством: year-1/quality-management.md
+          - Управление человеческими ресурсами: year-1/human-resources.md
+          - Ценностно-ориентированное здравоохранение: year-1/value-based-healthcare.md
+  - 2 курс:
+      - Обзор дисциплин: year-2/index.md
+      - Информационно-аналитические технологии: year-2/healthcare-analytics.md
+      - Медицинское страхование: year-2/health-insurance.md
+      - Организация и экономика здравоохранения - 2: year-2/healthcare-economics-2.md
+      - Лекарственное обеспечение: year-2/pharmaceutical-provision.md
+  - Добавить конспект: contribute.md
+
+copyright: Материалы студентов · Неофициальный проект · 2026
