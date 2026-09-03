@@ -9,18 +9,23 @@ hide:
 
 # Первый курс
 
-Пока заполнен один раздел — вводная лекция по организации и экономике здравоохранения. Список предметов взят из [рабочего учебного плана 2026/27](https://www.hse.ru/dbs/education/sp_UnitedWorkPlan_28117_22850.pdf).
+На странице видно, по каким предметам есть конспекты, а по каким — только темы из LMS. Список предметов взят из [рабочего учебного плана 2026/27](https://www.hse.ru/dbs/education/sp_UnitedWorkPlan_28117_22850.pdf).
+
+!!! info "Как читать эти страницы"
+    На страницах указаны только модули, преподаватели и темы. Закрытые файлы LMS, личные данные, ведомости, сообщения и приватные ссылки не публикуем. Актуальные дедлайны и правила оценивания проверяйте в LMS и корпоративной почте.
 
 ## Обязательные дисциплины
 
 <div class="course-grid" markdown>
 
 <article class="course-card" markdown>
-<span class="status-badge status-badge--ready">Есть конспект</span>
+<span class="status-badge status-badge--ready">Карта курса + лекция</span>
 
 ### Организация и экономика здравоохранения
 
-[Открыть вводную лекцию →](../module-1/epidemiology-lecture-1.md)
+[Открыть обзор курса →](healthcare-economics.md)
+
+[Вводная лекция →](../module-1/epidemiology-lecture-1.md)
 </article>
 
 <article class="course-card" markdown>
@@ -40,7 +45,7 @@ hide:
 </article>
 
 <article class="course-card" markdown>
-<span class="status-badge">Нет конспекта</span>
+<span class="status-badge">Карта курса</span>
 
 ### Управление и экономика социальной сферы
 
@@ -48,7 +53,7 @@ hide:
 </article>
 
 <article class="course-card" markdown>
-<span class="status-badge">Нет конспекта</span>
+<span class="status-badge">Карта курса</span>
 
 ### Управление медицинскими и страховыми организациями
 
@@ -56,7 +61,7 @@ hide:
 </article>
 
 <article class="course-card" markdown>
-<span class="status-badge">Нет конспекта</span>
+<span class="status-badge">Карта курса</span>
 
 ### Экономика общественного сектора
 

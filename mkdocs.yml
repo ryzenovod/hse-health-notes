@@ -59,6 +59,7 @@ nav:
   - 1 курс:
       - Обзор дисциплин: year-1/index.md
       - Организация и экономика здравоохранения:
+          - Обзор курса: year-1/healthcare-economics.md
           - Вводный день: module-1/epidemiology-lecture-1.md
       - Обязательные:
           - Правовое обеспечение: year-1/legal-healthcare.md
