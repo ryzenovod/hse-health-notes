@@ -14,8 +14,8 @@ hide:
 
 Студенческие конспекты магистратуры НИУ ВШЭ. Медицинские термины поясняем для немедиков, экономические и статистические — для врачей.
 
-[Открыть карту курса](year-1/healthcare-economics.md){ .md-button .md-button--primary }
-[Читать первый конспект](module-1/epidemiology-lecture-1.md){ .md-button }
+[Открыть 1 курс](year-1/index.md){ .md-button .md-button--primary }
+[Смотреть конспекты](year-1/public-sector-economics.md){ .md-button }
 [Открыть программу ВШЭ](https://www.hse.ru/ma/health/courses){ .md-button }
 
 </section>
@@ -28,11 +28,23 @@ hide:
 
 ### Организация и экономика здравоохранения
 
-В карте — 13 тем из LMS, преподаватели курса и конспект вводной лекции В. В. Власова.
+В карте — 13 тем из LMS, преподаватели курса и конспект по доказательной медицине.
 
 [Открыть карту курса →](year-1/healthcare-economics.md)
 
-[Перейти к лекции →](module-1/epidemiology-lecture-1.md)
+[Перейти к конспекту →](module-1/epidemiology-lecture-1.md)
+
+</article>
+
+<article class="feature-card" markdown>
+
+### Экономика общественного сектора
+
+На странице — структура курса, оценивание, учебник и конспект по общественному выбору.
+
+[Открыть раздел →](year-1/public-sector-economics.md)
+
+[Читать конспект →](year-1/public-sector-economics-public-choice.md)
 
 </article>
 

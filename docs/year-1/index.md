@@ -18,13 +18,13 @@ hide:
 <div class="course-grid" markdown>
 
 <article class="course-card" markdown>
-<span class="status-badge status-badge--ready">Карта курса + лекция</span>
+<span class="status-badge status-badge--ready">Карта + конспект</span>
 
 ### Организация и экономика здравоохранения
 
 [Открыть обзор курса →](healthcare-economics.md)
 
-[Вводная лекция →](../module-1/epidemiology-lecture-1.md)
+[Конспект по доказательной медицине →](../module-1/epidemiology-lecture-1.md)
 </article>
 
 <article class="course-card" markdown>
@@ -60,11 +60,13 @@ hide:
 </article>
 
 <article class="course-card" markdown>
-<span class="status-badge">Карта курса</span>
+<span class="status-badge status-badge--ready">Карта + конспект</span>
 
 ### Экономика общественного сектора
 
 [Открыть раздел →](public-sector-economics.md)
+
+[Общественный выбор →](public-sector-economics-public-choice.md)
 </article>
 
 </div>

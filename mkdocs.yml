@@ -70,7 +70,9 @@ nav:
           - Теория госуправления: year-1/public-administration.md
           - Управление социальной сферой: year-1/social-sector.md
           - Медицинские и страховые организации: year-1/medical-organizations.md
-          - Экономика общественного сектора: year-1/public-sector-economics.md
+          - Экономика общественного сектора:
+              - Обзор курса: year-1/public-sector-economics.md
+              - Общественный выбор и бюрократия: year-1/public-sector-economics-public-choice.md
       - Ключевые семинары:
           - Научно-исследовательский семинар: year-1/research-seminar.md
           - Семинар наставника: year-1/mentor-seminar.md
