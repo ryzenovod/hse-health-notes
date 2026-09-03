@@ -6,6 +6,10 @@
   --notes-orange: #f4511e;
 }
 
+.md-footer-meta {
+  display: none;
+}
+
 [data-md-color-scheme="slate"] {
   --notes-ink: #f4f6ff;
   --notes-muted: #b7c0db;

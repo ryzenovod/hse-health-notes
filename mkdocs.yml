@@ -54,10 +54,14 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
 
+extra:
+  generator: false
+
 nav:
   - Главная: index.md
   - 1 курс:
       - Обзор дисциплин: year-1/index.md
+      - Важное: year-1/important.md
       - Организация и экономика здравоохранения:
           - Обзор курса: year-1/healthcare-economics.md
           - Вводный день: module-1/epidemiology-lecture-1.md
@@ -81,4 +85,3 @@ nav:
       - Медицинское страхование: year-2/health-insurance.md
       - Организация и экономика здравоохранения - 2: year-2/healthcare-economics-2.md
       - Лекарственное обеспечение: year-2/pharmaceutical-provision.md
-copyright: Материалы студентов · Неофициальный проект · 2026
