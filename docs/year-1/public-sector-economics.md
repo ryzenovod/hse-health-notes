@@ -41,7 +41,17 @@ description: Карта курса, оценивание, материалы и 
 
 ## Конспекты
 
+- [Микроэкономика для неэкономистов](public-sector-economics-microeconomics.md) — вводный курс Игоря Кима: ограниченность, спрос и предложение, поведение потребителя, фирма, издержки, рыночные структуры и теория игр.
+- [Итоговая шпаргалка по микроэкономике](public-sector-economics-microeconomics-cheatsheet.md) — формулы, типовые различия, алгоритмы решения задач и самоконтроль.
 - [Общественный выбор и бюрократия](public-sector-economics-public-choice.md) — государство, Парето-эффективность, голосование, логроллинг, рента, Нисканен и контроль бюрократии.
+
+### Модули микроэкономики
+
+1. [Предмет экономики, ограниченность, выбор и экономические системы](public-sector-economics-microeconomics-module-1.md)
+2. [Спрос, предложение, равновесие и границы рынка](public-sector-economics-microeconomics-module-2.md)
+3. [Поведение потребителя, исключения из закона спроса и эластичность](public-sector-economics-microeconomics-module-3.md)
+4. [Фирма, производство и издержки](public-sector-economics-microeconomics-module-4.md)
+5. [Предельный анализ, рыночные структуры и стратегическое поведение](public-sector-economics-microeconomics-module-5.md)
 
 ## Учебник
 

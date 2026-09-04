@@ -63,6 +63,14 @@ nav:
       - Все конспекты: year-1/notes.md
       - Организация и экономика здравоохранения: module-1/epidemiology-lecture-1.md
       - Общественный выбор и бюрократия: year-1/public-sector-economics-public-choice.md
+      - Микроэкономика для неэкономистов:
+          - Обзор: year-1/public-sector-economics-microeconomics.md
+          - Модуль 1: year-1/public-sector-economics-microeconomics-module-1.md
+          - Модуль 2: year-1/public-sector-economics-microeconomics-module-2.md
+          - Модуль 3: year-1/public-sector-economics-microeconomics-module-3.md
+          - Модуль 4: year-1/public-sector-economics-microeconomics-module-4.md
+          - Модуль 5: year-1/public-sector-economics-microeconomics-module-5.md
+          - Шпаргалка: year-1/public-sector-economics-microeconomics-cheatsheet.md
   - 1 курс:
       - Обзор дисциплин: year-1/index.md
       - Важное: year-1/important.md
