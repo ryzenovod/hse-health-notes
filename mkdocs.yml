@@ -41,6 +41,7 @@ plugins:
       lang: ru
 
 markdown_extensions:
+  - meta
   - admonition
   - attr_list
   - footnotes
