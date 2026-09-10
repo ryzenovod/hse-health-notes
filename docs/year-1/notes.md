@@ -35,6 +35,16 @@ hide:
 
 </article>
 
+<article class="feature-card" markdown>
+
+### Управление медицинскими и страховыми организациями
+
+[Управление изменениями в здравоохранении](healthcare-management-and-change.md) — цели системы, решения в неопределённости, ИИ и работа с людьми.
+
+[Карта курса →](medical-organizations.md)
+
+</article>
+
 </div>
 
 ## Остальные предметы
@@ -44,7 +54,6 @@ hide:
 - [Правовое обеспечение государственного и частного здравоохранения](legal-healthcare.md)
 - [Теория и механизмы государственного управления](public-administration.md)
 - [Управление и экономика социальной сферы](social-sector.md)
-- [Управление медицинскими и страховыми организациями](medical-organizations.md)
 - [Научно-исследовательский семинар](research-seminar.md)
 - [Семинар наставника](mentor-seminar.md)
 - [Бизнес-планирование](business-planning.md)

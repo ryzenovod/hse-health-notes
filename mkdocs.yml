@@ -63,6 +63,8 @@ nav:
   - Конспекты:
       - Все конспекты: year-1/notes.md
       - Организация и экономика здравоохранения: module-1/epidemiology-lecture-1.md
+      - Управление медицинскими и страховыми организациями:
+          - Управление изменениями: year-1/healthcare-management-and-change.md
       - Общественный выбор и бюрократия: year-1/public-sector-economics-public-choice.md
       - Микроэкономика для неэкономистов:
           - Обзор: year-1/public-sector-economics-microeconomics.md
@@ -82,7 +84,9 @@ nav:
           - Правовое обеспечение: year-1/legal-healthcare.md
           - Теория госуправления: year-1/public-administration.md
           - Управление социальной сферой: year-1/social-sector.md
-          - Медицинские и страховые организации: year-1/medical-organizations.md
+          - Медицинские и страховые организации:
+              - Карта курса: year-1/medical-organizations.md
+              - Управление изменениями: year-1/healthcare-management-and-change.md
           - Экономика общественного сектора:
               - Карта курса: year-1/public-sector-economics.md
               - Общественный выбор и бюрократия: year-1/public-sector-economics-public-choice.md
