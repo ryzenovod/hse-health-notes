@@ -72,6 +72,8 @@ hide:
 [Открыть раздел →](public-sector-economics.md)
 
 [Общественный выбор и бюрократия →](public-sector-economics-public-choice.md)
+
+[Налоги, доходы и бюджетный федерализм →](public-sector-economics-lecture-tax-system.md)
 </article>
 
 </div>

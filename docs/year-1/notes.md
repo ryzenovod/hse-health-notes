@@ -32,6 +32,8 @@ hide:
 
 [Общественный выбор и бюрократия](public-sector-economics-public-choice.md) — правила голосования, Кондорсе, Эрроу, коалиции, рента и модель Нисканена.
 
+[Налоги, доходы и бюджетный федерализм](public-sector-economics-lecture-tax-system.md) — налоги, акцизы, труд и капитал, публичные финансы, федерализм.
+
 [Карта курса →](public-sector-economics.md)
 
 </article>
