@@ -26,6 +26,8 @@ hide:
 [Открыть обзор курса →](healthcare-economics.md)
 
 [Конспект по доказательной медицине →](../module-1/epidemiology-lecture-1.md)
+
+[Социальные основы медицины и доказательная медицина →](../module-1/epidemiology-social-medicine-proof.md)
 </article>
 
 <article class="course-card" markdown>
