@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" role="img" aria-labelledby="title desc">
+  <title id="title">Эффективное освещение общественного блага</title>
+  <desc id="desc">Сумма предельных выгод равна 600 минус 3H до 150 часов, затем 450 минус 2H до 200 часов, затем 250 минус H до 250 часов. Стоимость часа равна 200. Пересечение при H равном 133 и одной трети часа.</desc>
+  <rect width="760" height="440" rx="12" fill="#faf9f6"/>
+  <g font-family="Arial, sans-serif" font-size="15" fill="#273244">
+    <text x="60" y="31" font-size="19" font-weight="bold">Освещение: сумма выгод от одного общего часа</text>
+    <text x="60" y="57">Рублей за дополнительный час</text>
+    <g stroke="#dfdfd9" stroke-width="1">
+      <path d="M80 85H705 M80 175H705 M80 265H705 M80 355H705"/>
+    </g>
+    <path d="M80 76V355H710" fill="none" stroke="#273244" stroke-width="2"/>
+    <g text-anchor="end"><text x="68" y="90">600</text><text x="68" y="180">400</text><text x="68" y="270">200</text><text x="68" y="360">0</text></g>
+    <g text-anchor="middle"><text x="205" y="378">50</text><text x="330" y="378">100</text><text x="455" y="378">150</text><text x="580" y="378">200</text><text x="705" y="378">250</text></g>
+    <path d="M80 85L455 287.5L580 332.5L705 355" stroke="#3e568e" stroke-width="4" fill="none"/>
+    <path d="M80 265H705" stroke="#b9683c" stroke-width="3"/>
+    <path d="M413.333 265V355" stroke="#3e568e" stroke-width="2" stroke-dasharray="5 5"/>
+    <circle cx="413.333" cy="265" r="6" fill="#3e568e"/>
+    <text x="498" y="246" fill="#9b522d">Стоимость часа = 200</text>
+    <text x="180" y="105" fill="#3e568e">MB = 600 − 3H</text>
+    <text x="300" y="321" fill="#3e568e" font-weight="bold">H* = 133⅓</text>
+    <text x="475" y="413">Часы освещения в месяц, H</text>
+  </g>
+</svg>
