@@ -21,7 +21,12 @@ $$P_D - P_S = t$$
 
 Возникает чистая потеря общественного благосостояния:
 
-$$DWL > 0$$
+$DWL > 0$
+
+<figure class="lecture-figure" markdown>
+[![Налоговый клин, налоговые поступления и чистые потери благосостояния](../assets/eos-materials/tax-incidence-dwl.svg)](../assets/eos-materials/tax-incidence-dwl.svg)
+<figcaption>Налоговый клин: разрыв между ценой покупателя и ценой продавца, налоговые поступления и чистые потери благосостояния.</figcaption>
+</figure>
 
 ---
 
@@ -73,6 +78,11 @@ $$\varepsilon_D \rightarrow \infty$$
 - объём рынка сокращается;
 - возникает значительный $DWL$.
 
+<figure class="lecture-figure" markdown>
+[![Четыре крайних случая распределения налогового бремени при абсолютной эластичности спроса и предложения](../assets/eos-materials/tax-incidence-elasticity-extremes.svg)](../assets/eos-materials/tax-incidence-elasticity-extremes.svg)
+<figcaption>Крайние случаи эластичности: кто несёт налоговое бремя и когда возникает чистая потеря благосостояния.</figcaption>
+</figure>
+
 ---
 
 ## 4. Специфический и адвалорный налог
@@ -92,6 +102,11 @@ $$P_S(Q)=P(Q)+t$$
 $$P_S(Q)=P(Q)(1+t)$$
 
 Вызывает изменение наклона кривой предложения.
+
+<figure class="lecture-figure" markdown>
+[![Сравнение специфического и адвалорного налогов: параллельный сдвиг и изменение наклона предложения](../assets/eos-materials/tax-specific-vs-advalorem.svg)](../assets/eos-materials/tax-specific-vs-advalorem.svg)
+<figcaption>Специфический налог даёт постоянный вертикальный разрыв; адвалорный меняет наклон кривой предложения.</figcaption>
+</figure>
 
 ---
 
