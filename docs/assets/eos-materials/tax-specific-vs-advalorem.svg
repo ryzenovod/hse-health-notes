@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Специфический и адвалорный налог</title>
+  <desc id="desc">Сравнение параллельного сдвига предложения при специфическом налоге и поворота кривой при адвалорном налоге.</desc>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0L10 5L0 10Z" fill="#5f6b85"/>
+    </marker>
+    <style>
+      .bg{fill:#fff}.card{fill:#f5f6ff;stroke:#d9def2;stroke-width:1.5}
+      .title{font:700 24px Inter,Arial,sans-serif;fill:#18213a}.sub{font:700 17px Inter,Arial,sans-serif;fill:#18213a}
+      .small{font:500 13px Inter,Arial,sans-serif;fill:#5f6b85}.axis{stroke:#5f6b85;stroke-width:2}
+      .s{stroke:#2e7d32;stroke-width:4;fill:none}.new{stroke:#f4511e;stroke-width:4;fill:none}.ray{stroke:#3f51b5;stroke-width:2;stroke-dasharray:5 5;fill:none}
+      .dot{fill:#18213a}.note{font:700 13px Inter,Arial,sans-serif;fill:#f4511e}
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="560" rx="28"/>
+  <text x="60" y="48" class="title">Специфический и адвалорный налог</text>
+  <text x="60" y="76" class="small">Форма налога меняет геометрию кривой: фиксированная сумма даёт параллельный сдвиг, процент от цены — изменение наклона.</text>
+
+  <rect class="card" x="45" y="105" width="535" height="405" rx="22"/>
+  <rect class="card" x="620" y="105" width="535" height="405" rx="22"/>
+  <text x="75" y="145" class="sub">Специфический налог · t рублей за единицу</text>
+  <text x="650" y="145" class="sub">Адвалорный налог · τ% от цены</text>
+
+  <!-- specific -->
+  <line x1="105" y1="450" x2="105" y2="175" class="axis" marker-end="url(#a)"/>
+  <line x1="105" y1="450" x2="520" y2="450" class="axis" marker-end="url(#a)"/>
+  <path d="M120 420 L500 205" class="s"/>
+  <path d="M120 360 L500 145" class="new"/>
+  <path d="M120 205 L500 420" class="ray"/>
+  <text x="498" y="210" class="small" fill="#2e7d32">S₀</text><text x="498" y="150" class="note">S₀+t</text>
+  <text x="170" y="270" class="small">одинаковый вертикальный разрыв = t</text>
+  <line x1="260" y1="278" x2="260" y2="338" stroke="#f4511e" stroke-width="3"/>
+  <text x="275" y="312" class="note">t</text>
+  <text x="105" y="492" class="small">Кривая просто сдвигается вверх на t.</text>
+
+  <!-- ad valorem -->
+  <line x1="680" y1="450" x2="680" y2="175" class="axis" marker-end="url(#a)"/>
+  <line x1="680" y1="450" x2="1095" y2="450" class="axis" marker-end="url(#a)"/>
+  <path d="M700 420 L1070 205" class="s"/>
+  <path d="M700 420 L1070 120" class="new"/>
+  <path d="M700 205 L1070 420" class="ray"/>
+  <circle cx="700" cy="420" r="6" class="dot"/>
+  <text x="1068" y="210" class="small" fill="#2e7d32">S₀</text><text x="1068" y="125" class="note">S₀(1+τ)</text>
+  <text x="735" y="265" class="small">кривые выходят из общей точки</text>
+  <text x="700" y="492" class="small">Чем выше исходная цена, тем больше абсолютный налог.</text>
+</svg>
