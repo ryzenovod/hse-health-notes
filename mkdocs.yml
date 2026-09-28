@@ -48,6 +48,8 @@ markdown_extensions:
   - md_in_html
   - tables
   - pymdownx.details
+  - pymdownx.arithmatex:
+      generic: true
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
@@ -126,3 +128,7 @@ nav:
       - Медицинское страхование: year-2/health-insurance.md
       - Организация и экономика здравоохранения - 2: year-2/healthcare-economics-2.md
       - Лекарственное обеспечение: year-2/pharmaceutical-provision.md
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
