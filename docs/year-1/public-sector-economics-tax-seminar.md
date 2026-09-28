@@ -218,16 +218,18 @@ $$5 - 0{,}5(6 - T_B) = 8 - T_B \implies 2 + 0{,}5 T_B = 8 - T_B \implies 1{,}5 T
 ---
 
 <figure class="lecture-figure" markdown>
+[![Налоговый клин, налоговые поступления и чистые потери благосостояния](../assets/eos-materials/tax-incidence-dwl.svg)](../assets/eos-materials/tax-incidence-dwl.svg)
+<figcaption>Налоговый клин: разрыв между ценой покупателя и ценой продавца, налоговые поступления и чистые потери благосостояния.</figcaption>
+</figure>
+
+<figure class="lecture-figure" markdown>
 [![Сравнение налогового бремени на рынке водки с неэластичным спросом и шоколада с эластичным спросом](../assets/eos-materials/tax-incidence-vodka-chocolate.svg)](../assets/eos-materials/tax-incidence-vodka-chocolate.svg)
 <figcaption>График к задаче 18: при неэластичном спросе большая часть налога переносится на покупателя; при эластичном спросе большая часть бремени остаётся на продавце.</figcaption>
 </figure>
 
 ---
 
-<figure class="lecture-figure" markdown>
-[![Налоговый клин, налоговые поступления и чистые потери благосостояния](../assets/eos-materials/tax-incidence-dwl.svg)](../assets/eos-materials/tax-incidence-dwl.svg)
-<figcaption>Налоговый клин: разрыв между ценой покупателя и ценой продавца, налоговые поступления и чистые потери благосостояния.</figcaption>
-</figure>
+
 
 ### Задача 21. Распределение налогового бремени в зависимости от эластичности
 
