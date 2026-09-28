@@ -233,3 +233,31 @@ body {
     padding: 0.65rem;
   }
 }
+
+/* Math: keep equations readable in both light and dark themes. */
+.arithmatex {
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 0.1rem 0;
+}
+
+.arithmatex > .MathJax {
+  max-width: 100%;
+}
+
+.md-typeset :is(h1, h2, h3, h4)[id] {
+  scroll-margin-top: 5rem;
+}
+
+/* Material places navigation.top in the center below the header.
+   Keep it from covering headings while scrolling. */
+.md-top {
+  top: auto !important;
+  right: 1.25rem !important;
+  bottom: 1.25rem !important;
+  left: auto !important;
+  transform: none !important;
+  margin: 0 !important;
+  z-index: 4;
+  border-radius: 999px;
+}
