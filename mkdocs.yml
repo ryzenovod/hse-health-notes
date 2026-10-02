@@ -62,29 +62,7 @@ extra:
 
 nav:
   - Главная: index.md
-  - Конспекты:
-      - Все конспекты: year-1/notes.md
-      - Организация и экономика здравоохранения: module-1/epidemiology-lecture-1.md
-      - Продольные исследования и доказательная практика: module-1/epidemiology-lecture-2.md
-      - Социальные основы медицины и доказательная медицина: module-1/epidemiology-social-medicine-proof.md
-      - "Власов: клинические испытания и доказательная медицина": module-1/vlasov-clinical-trials-evidence.md
-      - Курсовая книга по Экономике общественного сектора: year-1/public-sector-economics-coursebook.md
-      - Управление медицинскими и страховыми организациями:
-          - Управление изменениями: year-1/healthcare-management-and-change.md
-      - Общественный выбор и бюрократия: year-1/public-sector-economics-public-choice.md
-      - Налоги и бюджетный федерализм: year-1/public-sector-economics-lecture-tax-system.md
-      - Налоговое бремя и эластичность: year-1/public-sector-economics-lecture-tax-incidence.md
-      - Шпаргалка по налоговому бремени: year-1/public-sector-economics-tax-incidence-cheatsheet.md
-      - "Семинар: налогообложение, справедливость и налоговое бремя": year-1/public-sector-economics-tax-seminar.md
-      - Материалы и подготовка по ЭОС: year-1/public-sector-economics-materials.md
-      - Микроэкономика для неэкономистов:
-          - Обзор: year-1/public-sector-economics-microeconomics.md
-          - Модуль 1: year-1/public-sector-economics-microeconomics-module-1.md
-          - Модуль 2: year-1/public-sector-economics-microeconomics-module-2.md
-          - Модуль 3: year-1/public-sector-economics-microeconomics-module-3.md
-          - Модуль 4: year-1/public-sector-economics-microeconomics-module-4.md
-          - Модуль 5: year-1/public-sector-economics-microeconomics-module-5.md
-          - Шпаргалка: year-1/public-sector-economics-microeconomics-cheatsheet.md
+  - Конспекты: year-1/notes.md
   - 1 курс:
       - Обзор дисциплин: year-1/index.md
       - Важное: year-1/important.md
@@ -95,16 +73,20 @@ nav:
               - Продольные исследования и доказательная практика: module-1/epidemiology-lecture-2.md
               - Социальные основы медицины и доказательная медицина: module-1/epidemiology-social-medicine-proof.md
               - "Власов: клинические испытания и доказательная медицина": module-1/vlasov-clinical-trials-evidence.md
+              - Диагностические тесты и скрининг: module-1/diagnostic-tests-and-screening.md
+              - Медицинское право и клинические решения: module-1/healthcare-law-and-clinical-decisions.md
           - Правовое обеспечение: year-1/legal-healthcare.md
           - Теория госуправления: year-1/public-administration.md
           - Управление социальной сферой: year-1/social-sector.md
           - Медицинские и страховые организации:
               - Карта курса: year-1/medical-organizations.md
               - Управление изменениями: year-1/healthcare-management-and-change.md
+              - Разбор управленческих кейсов: year-1/medical-organization-cases.md
           - Экономика общественного сектора:
               - Карта курса: year-1/public-sector-economics.md
               - Курсовая книга: year-1/public-sector-economics-coursebook.md
               - Общественный выбор и бюрократия: year-1/public-sector-economics-public-choice.md
+              - Роль государства и перераспределение: year-1/public-sector-economics-market-failures-redistribution.md
               - Налоги и бюджетный федерализм: year-1/public-sector-economics-lecture-tax-system.md
               - Налоговое бремя и эластичность: year-1/public-sector-economics-lecture-tax-incidence.md
               - Шпаргалка по налоговому бремени: year-1/public-sector-economics-tax-incidence-cheatsheet.md
@@ -114,6 +96,14 @@ nav:
               - Задачи с решениями: year-1/public-sector-economics-practice-archive.md
               - Словарь: year-1/public-sector-economics-dictionary.md
               - Вопросы и тесты: year-1/public-sector-economics-exam-bank.md
+              - Микроэкономика для неэкономистов:
+                  - Обзор: year-1/public-sector-economics-microeconomics.md
+                  - Модуль 1: year-1/public-sector-economics-microeconomics-module-1.md
+                  - Модуль 2: year-1/public-sector-economics-microeconomics-module-2.md
+                  - Модуль 3: year-1/public-sector-economics-microeconomics-module-3.md
+                  - Модуль 4: year-1/public-sector-economics-microeconomics-module-4.md
+                  - Модуль 5: year-1/public-sector-economics-microeconomics-module-5.md
+                  - Шпаргалка: year-1/public-sector-economics-microeconomics-cheatsheet.md
       - Ключевые семинары:
           - Научно-исследовательский семинар: year-1/research-seminar.md
           - Семинар наставника: year-1/mentor-seminar.md
@@ -131,4 +121,3 @@ nav:
 
 extra_javascript:
   - javascripts/mathjax.js
-  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js

@@ -19,7 +19,7 @@ hide:
 <div class="course-grid" markdown>
 
 <article class="course-card" markdown>
-<span class="status-badge status-badge--ready">Карта + конспект</span>
+<span class="status-badge status-badge--ready">Конспекты</span>
 
 ### Организация и экономика здравоохранения
 
@@ -28,6 +28,8 @@ hide:
 [Конспект по доказательной медицине →](../module-1/epidemiology-lecture-1.md)
 
 [Социальные основы медицины и доказательная медицина →](../module-1/epidemiology-social-medicine-proof.md)
+
+[Диагностика и скрининг →](../module-1/diagnostic-tests-and-screening.md)
 </article>
 
 <article class="course-card" markdown>
@@ -62,6 +64,8 @@ hide:
 [Открыть раздел →](medical-organizations.md)
 
 [Управление изменениями в здравоохранении →](healthcare-management-and-change.md)
+
+[Управленческие кейсы →](medical-organization-cases.md)
 </article>
 
 <article class="course-card" markdown>
@@ -74,6 +78,10 @@ hide:
 [Общественный выбор и бюрократия →](public-sector-economics-public-choice.md)
 
 [Налоги, доходы и бюджетный федерализм →](public-sector-economics-lecture-tax-system.md)
+
+[Роль государства и перераспределение →](public-sector-economics-market-failures-redistribution.md)
+
+[Налоговый семинар с решениями →](public-sector-economics-tax-seminar.md)
 </article>
 
 </div>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 475" role="img" aria-labelledby="title desc">
+<title id="title">Бюджет интеграции: 30 млн ₽</title><desc id="desc">Обучение и развитие12млн, мотивация и адаптация10млн, условия труда5млн, приёмное отделение3млн.</desc>
+<style>text{font-family:system-ui,-apple-system,Segoe UI,sans-serif;fill:#18213a;font-size:18px} .small{font-size:16px;fill:#54627a} .heading{font-size:23px;font-weight:650}</style>
+<rect width="760" height="475" rx="10" fill="#fff"/>
+<text x="32.00" y="38.00" text-anchor="start" class="heading" style="fill:#18213a">Бюджет интеграции: 30 млн ₽</text>
+<text x="35.00" y="105.00" text-anchor="start" class="" style="fill:#18213a">Обучение и развитие</text>
+<rect x="35" y="117" width="480.0" height="25" rx="4" fill="#3859b5"/>
+<text x="550.00" y="139.00" text-anchor="start" class="" style="fill:#18213a">12 млн · 40,0%</text>
+<text x="35.00" y="188.00" text-anchor="start" class="" style="fill:#18213a">Мотивация и адаптация</text>
+<rect x="35" y="200" width="400.0" height="25" rx="4" fill="#178477"/>
+<text x="550.00" y="222.00" text-anchor="start" class="" style="fill:#18213a">10 млн · 33,3%</text>
+<text x="35.00" y="271.00" text-anchor="start" class="" style="fill:#18213a">Условия труда</text>
+<rect x="35" y="283" width="200.0" height="25" rx="4" fill="#dd5a24"/>
+<text x="550.00" y="305.00" text-anchor="start" class="" style="fill:#18213a">5 млн · 16,7%</text>
+<text x="35.00" y="354.00" text-anchor="start" class="" style="fill:#18213a">Приёмное отделение</text>
+<rect x="35" y="366" width="120.0" height="25" rx="4" fill="#b23b54"/>
+<text x="550.00" y="388.00" text-anchor="start" class="" style="fill:#18213a">3 млн · 10,0%</text>
+<text x="35.00" y="454.00" text-anchor="start" class="small" style="fill:#18213a">Распределение средств из разбора кейса</text>
+</svg>

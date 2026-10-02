@@ -7,6 +7,20 @@ description: Теория с графиками, задачи с решения�
 
 # Материалы и подготовка
 
+## Новые занятия и разборы
+
+- [Роль государства и перераспределение — 1 октября](public-sector-economics-market-failures-redistribution.md): конспект презентации и обсуждения, примеры и расчёты.
+- [Налоговый семинар — задачи № 12–22](public-sector-economics-tax-seminar.md): пошаговые решения, перерисованные графики и численный пример налога.
+- [Налоговое бремя и эластичность](public-sector-economics-lecture-tax-incidence.md) · [Шпаргалка](public-sector-economics-tax-incidence-cheatsheet.md).
+
+| Исходный файл | Содержание |
+| :--- | :--- |
+| [Лекция ЭОС 1 октября](../materials/eos/eos-lecture-2026-10-01.pdf) · PDF | 74 страницы: роль государства, перераспределение, социальная помощь, контракты и ГЧП. |
+| [Налоги и не только](../materials/eos/tax-seminar-slides.pptx) · PPTX | 11 слайдов: виды налогов, ставки и налоговое бремя. |
+| [Налоги: теория и задача](../materials/eos/tax-theory-and-task.pdf) · PDF | Шесть страниц: графики и решение задачи о налоге при линейном спросе и предложении. |
+
+## Подготовка по темам
+
 <div class="feature-grid" markdown>
 
 <article class="feature-card feature-card--accent" markdown>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 555" role="img" aria-labelledby="title desc">
+<title id="title">Положительный тест и распространённость</title><desc id="desc">Чувствительность и специфичность95%,10000 обследованных. При распространённости1%:95 истинных и495 ложных положительных;10%:950 и450;50%:4750 и250.</desc>
+<style>text{font-family:system-ui,-apple-system,Segoe UI,sans-serif;fill:#18213a;font-size:18px} .small{font-size:16px;fill:#54627a} .heading{font-size:23px;font-weight:650}</style>
+<rect width="760" height="555" rx="10" fill="#fff"/>
+<text x="32.00" y="38.00" text-anchor="start" class="heading" style="fill:#18213a">Положительный тест и распространённость</text>
+<text x="35.00" y="105.00" text-anchor="start" class="" style="fill:#18213a">Распространённость 1% · PPV 16,1%</text>
+<rect x="35" y="123" width="106.27118644067795" height="32" rx="0" fill="#178477"/>
+<rect x="141.27118644067795" y="123" width="553.728813559322" height="32" rx="0" fill="#dd5a24"/>
+<text x="35.00" y="183.00" text-anchor="start" class="small" style="fill:#18213a">Истинно положительные: 95; ложноположительные: 495</text>
+<text x="35.00" y="233.00" text-anchor="start" class="" style="fill:#18213a">Распространённость 10% · PPV 67,9%</text>
+<rect x="35" y="251" width="447.8571428571429" height="32" rx="0" fill="#178477"/>
+<rect x="482.8571428571429" y="251" width="212.1428571428571" height="32" rx="0" fill="#dd5a24"/>
+<text x="35.00" y="311.00" text-anchor="start" class="small" style="fill:#18213a">Истинно положительные: 950; ложноположительные: 450</text>
+<text x="35.00" y="361.00" text-anchor="start" class="" style="fill:#18213a">Распространённость 50% · PPV 95,0%</text>
+<rect x="35" y="379" width="627.0" height="32" rx="0" fill="#178477"/>
+<rect x="662.0" y="379" width="33.00000000000003" height="32" rx="0" fill="#dd5a24"/>
+<text x="35.00" y="439.00" text-anchor="start" class="small" style="fill:#18213a">Истинно положительные: 4750; ложноположительные: 250</text>
+<path d="M35.000,489.000 L63.000,489.000" fill="none" stroke="#178477" stroke-width="4"/>
+<text x="75.00" y="494.00" text-anchor="start" class="small" style="fill:#18213a">Болезнь есть среди положительных результатов</text>
+<path d="M35.000,517.000 L63.000,517.000" fill="none" stroke="#dd5a24" stroke-width="4"/>
+<text x="75.00" y="522.00" text-anchor="start" class="small" style="fill:#18213a">Болезни нет среди положительных результатов</text>
+</svg>

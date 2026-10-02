@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 610" role="img" aria-labelledby="title desc">
+<title id="title">Резкое и постепенное снятие пособия</title><desc id="desc">Учебная налоговая ставка13%,пособие12тыс. При резком снятии после заработка20 доход падает с29.4 до18.27 при заработке21. Постепенное сокращение на30% даёт предельную нагрузку43%.</desc>
+<style>text{font-family:system-ui,-apple-system,Segoe UI,sans-serif;fill:#18213a;font-size:18px} .small{font-size:16px;fill:#54627a} .heading{font-size:23px;font-weight:650}</style>
+<rect width="760" height="610" rx="10" fill="#fff"/>
+<text x="32.00" y="38.00" text-anchor="start" class="heading" style="fill:#18213a">Резкое и постепенное снятие пособия</text>
+<path d="M90.000,408.000 L670.000,408.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<path d="M90.000,408.000 L90.000,68.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="678.00" y="414.00" text-anchor="start" class="" style="fill:#18213a">E</text>
+<text x="70.00" y="63.00" text-anchor="start" class="" style="fill:#18213a">D</text>
+<polyline points="90.000,325.500 318.000,205.875" fill="none" fill-opacity="1" stroke="#dd5a24" stroke-width="3" stroke-linejoin="round"/>
+<polyline points="318.000,288.375 660.000,108.938" fill="none" fill-opacity="1" stroke="#dd5a24" stroke-width="3" stroke-linejoin="round"/>
+<path d="M318.000,288.375 L318.000,205.875" fill="none" stroke="#dd5a24" stroke-width="1" stroke-dasharray="6 6"/>
+<polyline points="90.000,325.500 546.000,168.750 660.000,108.938" fill="none" fill-opacity="1" stroke="#178477" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="318.000" cy="205.875" r="4" fill="#dd5a24"/>
+<circle cx="329.400" cy="282.394" r="4" fill="#dd5a24"/>
+<path d="M90.000,408.000 L90.000,413.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="90.00" y="434.00" text-anchor="middle" class="small" style="fill:#18213a">0</text>
+<path d="M204.000,408.000 L204.000,413.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="204.00" y="434.00" text-anchor="middle" class="small" style="fill:#18213a">10</text>
+<path d="M318.000,408.000 L318.000,413.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="318.00" y="434.00" text-anchor="middle" class="small" style="fill:#18213a">20</text>
+<path d="M432.000,408.000 L432.000,413.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="432.00" y="434.00" text-anchor="middle" class="small" style="fill:#18213a">30</text>
+<path d="M546.000,408.000 L546.000,413.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="546.00" y="434.00" text-anchor="middle" class="small" style="fill:#18213a">40</text>
+<path d="M660.000,408.000 L660.000,413.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="660.00" y="434.00" text-anchor="middle" class="small" style="fill:#18213a">50</text>
+<path d="M85.000,408.000 L90.000,408.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="78.00" y="414.00" text-anchor="end" class="small" style="fill:#18213a">0</text>
+<path d="M85.000,339.250 L90.000,339.250" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="78.00" y="345.25" text-anchor="end" class="small" style="fill:#18213a">10</text>
+<path d="M85.000,270.500 L90.000,270.500" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="78.00" y="276.50" text-anchor="end" class="small" style="fill:#18213a">20</text>
+<path d="M85.000,201.750 L90.000,201.750" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="78.00" y="207.75" text-anchor="end" class="small" style="fill:#18213a">30</text>
+<path d="M85.000,133.000 L90.000,133.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="78.00" y="139.00" text-anchor="end" class="small" style="fill:#18213a">40</text>
+<path d="M70.000,483.000 L98.000,483.000" fill="none" stroke="#dd5a24" stroke-width="4"/>
+<text x="110.00" y="488.00" text-anchor="start" class="small" style="fill:#18213a">Резкое снятие 12 тыс. при E &gt; 20 тыс.</text>
+<path d="M70.000,511.000 L98.000,511.000" fill="none" stroke="#178477" stroke-width="4"/>
+<text x="110.00" y="516.00" text-anchor="start" class="small" style="fill:#18213a">Плавное снятие: пособие = max(0; 12 − 0,30E)</text>
+<text x="70.00" y="565.00" text-anchor="start" class="small" style="fill:#18213a">E: заработок; D: располагаемый доход; тыс. денежных единиц</text>
+<text x="70.00" y="594.00" text-anchor="start" class="small" style="fill:#18213a">Налог 13% — параметр учебной модели</text>
+</svg>

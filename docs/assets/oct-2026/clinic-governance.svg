@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 700" role="img" aria-labelledby="title desc">
+<title id="title">Управление сетью из 11 клиник</title><desc id="desc">Учредители определяют стратегию и инвестиции; функциональные директора отвечают за операции, качество и финансы; главные врачи принимают решения в пределах бюджета.</desc>
+<style>text{font-family:system-ui,-apple-system,Segoe UI,sans-serif;fill:#18213a;font-size:18px} .small{font-size:16px;fill:#54627a} .heading{font-size:23px;font-weight:650}</style>
+<rect width="760" height="700" rx="10" fill="#fff"/>
+<text x="32.00" y="38.00" text-anchor="start" class="heading" style="fill:#18213a">Управление сетью из 11 клиник</text>
+<rect x="65" y="75" width="630" height="120" rx="8" fill="#f1f4fa"/>
+<rect x="65" y="75" width="6" height="120" rx="0" fill="#3859b5"/>
+<text x="88.00" y="107.00" text-anchor="start" class="" style="font-size:21px;fill:#18213a">Учредители</text>
+<text x="88.00" y="138.00" text-anchor="start" class="small" style="fill:#18213a">Стратегия · инвестиции · бренд</text>
+<text x="88.00" y="164.00" text-anchor="start" class="small" style="fill:#18213a">Утверждение бюджета и решений за его пределами</text>
+<rect x="65" y="275" width="630" height="120" rx="8" fill="#f1f4fa"/>
+<rect x="65" y="275" width="6" height="120" rx="0" fill="#178477"/>
+<text x="88.00" y="307.00" text-anchor="start" class="" style="font-size:21px;fill:#18213a">Функциональные директора</text>
+<text x="88.00" y="338.00" text-anchor="start" class="small" style="fill:#18213a">Операции · медицинское качество · финансы</text>
+<text x="88.00" y="364.00" text-anchor="start" class="small" style="fill:#18213a">Общие стандарты, ресурсы и показатели сети</text>
+<rect x="65" y="475" width="630" height="120" rx="8" fill="#f1f4fa"/>
+<rect x="65" y="475" width="6" height="120" rx="0" fill="#dd5a24"/>
+<text x="88.00" y="507.00" text-anchor="start" class="" style="font-size:21px;fill:#18213a">Главные врачи 11 филиалов</text>
+<text x="88.00" y="538.00" text-anchor="start" class="small" style="fill:#18213a">Текущая работа и команда клиники</text>
+<text x="88.00" y="564.00" text-anchor="start" class="small" style="fill:#18213a">Самостоятельные решения в рамках полномочий</text>
+<path d="M380.000,195.000 L380.000,270.000" fill="none" stroke="#54627a" stroke-width="2"/>
+<polyline points="372.000,260.000 380.000,270.000 388.000,260.000" fill="none" fill-opacity="1" stroke="#54627a" stroke-width="2" stroke-linejoin="round"/>
+<text x="410.00" y="239.00" text-anchor="start" class="small" style="fill:#18213a">Цели, лимиты, поддержка</text>
+<path d="M380.000,395.000 L380.000,470.000" fill="none" stroke="#54627a" stroke-width="2"/>
+<polyline points="372.000,460.000 380.000,470.000 388.000,460.000" fill="none" fill-opacity="1" stroke="#54627a" stroke-width="2" stroke-linejoin="round"/>
+<text x="410.00" y="439.00" text-anchor="start" class="small" style="fill:#18213a">Цели, лимиты, поддержка</text>
+<text x="65.00" y="650.00" text-anchor="start" class="small" style="fill:#18213a">Обратная связь: результаты, отклонения и вопросы для эскалации</text>
+</svg>

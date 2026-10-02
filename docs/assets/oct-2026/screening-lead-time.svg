@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 505" role="img" aria-labelledby="title desc">
+<title id="title">Смещение времени опережения</title><desc id="desc">Болезнь начинается в50лет, скрининг обнаруживает в55, симптомы приводят к диагнозу в60; смерть в70 в обоих сценариях. Наблюдаемая выживаемость15 и10лет.</desc>
+<style>text{font-family:system-ui,-apple-system,Segoe UI,sans-serif;fill:#18213a;font-size:18px} .small{font-size:16px;fill:#54627a} .heading{font-size:23px;font-weight:650}</style>
+<rect width="760" height="505" rx="10" fill="#fff"/>
+<text x="32.00" y="38.00" text-anchor="start" class="heading" style="fill:#18213a">Смещение времени опережения</text>
+<text x="35.00" y="97.00" text-anchor="start" class="" style="font-size:21px;fill:#18213a">Диагноз по симптомам</text>
+<path d="M100.000,170.000 L620.000,170.000" fill="none" stroke="#54627a" stroke-width="2"/>
+<path d="M360.000,170.000 L620.000,170.000" fill="none" stroke="#178477" stroke-width="7"/>
+<circle cx="100.000" cy="170.000" r="4" fill="#18213a"/>
+<text x="100.00" y="199.00" text-anchor="middle" class="" style="fill:#18213a">50</text>
+<text x="100.00" y="227.00" text-anchor="middle" class="small" style="fill:#18213a">Начало</text>
+<circle cx="360.000" cy="170.000" r="4" fill="#18213a"/>
+<text x="360.00" y="199.00" text-anchor="middle" class="" style="fill:#18213a">60</text>
+<text x="360.00" y="227.00" text-anchor="middle" class="small" style="fill:#18213a">Диагноз</text>
+<circle cx="620.000" cy="170.000" r="4" fill="#18213a"/>
+<text x="620.00" y="199.00" text-anchor="middle" class="" style="fill:#18213a">70</text>
+<text x="620.00" y="227.00" text-anchor="middle" class="small" style="fill:#18213a">Смерть</text>
+<text x="490.00" y="146.00" text-anchor="middle" class="" style="fill:#178477">10 лет</text>
+<text x="35.00" y="267.00" text-anchor="start" class="" style="font-size:21px;fill:#18213a">Диагноз при скрининге</text>
+<path d="M100.000,340.000 L620.000,340.000" fill="none" stroke="#54627a" stroke-width="2"/>
+<path d="M230.000,340.000 L620.000,340.000" fill="none" stroke="#178477" stroke-width="7"/>
+<circle cx="100.000" cy="340.000" r="4" fill="#18213a"/>
+<text x="100.00" y="369.00" text-anchor="middle" class="" style="fill:#18213a">50</text>
+<text x="100.00" y="397.00" text-anchor="middle" class="small" style="fill:#18213a">Начало</text>
+<circle cx="230.000" cy="340.000" r="4" fill="#18213a"/>
+<text x="230.00" y="369.00" text-anchor="middle" class="" style="fill:#18213a">55</text>
+<text x="230.00" y="397.00" text-anchor="middle" class="small" style="fill:#18213a">Диагноз</text>
+<circle cx="620.000" cy="340.000" r="4" fill="#18213a"/>
+<text x="620.00" y="369.00" text-anchor="middle" class="" style="fill:#18213a">70</text>
+<text x="620.00" y="397.00" text-anchor="middle" class="small" style="fill:#18213a">Смерть</text>
+<text x="425.00" y="316.00" text-anchor="middle" class="" style="fill:#178477">15 лет</text>
+<text x="35.00" y="469.00" text-anchor="start" class="small" style="fill:#18213a">Одинаковый возраст смерти; разное время отсчёта выживаемости</text>
+</svg>

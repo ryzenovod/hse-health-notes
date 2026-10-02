@@ -34,8 +34,8 @@ body {
 }
 
 .md-typeset h1 {
-  font-size: clamp(2rem, 5vw, 3.5rem);
-  line-height: 1.05;
+  font-size: clamp(1.65rem, 4vw, 2.5rem);
+  line-height: 1.15;
   margin-bottom: 1rem;
 }
 
@@ -47,24 +47,12 @@ body {
   position: relative;
   overflow: hidden;
   margin: 0 0 1.5rem;
-  padding: clamp(2rem, 7vw, 5.5rem) clamp(1.25rem, 5vw, 4rem);
+  padding: clamp(1.5rem, 4vw, 3rem) clamp(1.25rem, 4vw, 2.5rem);
   border: 1px solid var(--notes-line);
   border-radius: 1.4rem;
   background:
     radial-gradient(circle at 88% 12%, rgba(244, 81, 30, 0.2), transparent 24rem),
     linear-gradient(145deg, var(--notes-surface), transparent 75%);
-}
-
-.hero::after {
-  position: absolute;
-  right: -4rem;
-  bottom: -6rem;
-  width: 17rem;
-  height: 17rem;
-  border: 2.8rem solid rgba(63, 81, 181, 0.1);
-  border-radius: 50%;
-  content: "";
-  pointer-events: none;
 }
 
 .hero > * {
@@ -190,6 +178,32 @@ body {
   background: var(--notes-surface);
 }
 
+.md-content,
+.md-content__inner,
+.figure-grid > .lecture-figure,
+.feature-card,
+.course-card {
+  min-width: 0;
+}
+
+.figure-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.figure-grid .lecture-figure {
+  margin: 0;
+}
+
+.md-typeset .md-typeset__table {
+  max-width: 100%;
+}
+
+.md-typeset a {
+  overflow-wrap: anywhere;
+}
+
 .lecture-figure img {
   display: block;
   width: 100%;
@@ -226,7 +240,8 @@ body {
   }
 
   .feature-grid,
-  .course-grid {
+  .course-grid,
+  .figure-grid {
     grid-template-columns: 1fr;
   }
   .lecture-figure {
@@ -235,13 +250,21 @@ body {
 }
 
 /* Math: keep equations readable in both light and dark themes. */
-.arithmatex {
+.md-typeset div.arithmatex {
   overflow-x: auto;
   overflow-y: hidden;
   padding: 0.1rem 0;
 }
 
-.arithmatex > .MathJax {
+.md-typeset div.arithmatex mjx-container {
+  min-width: min-content;
+}
+
+.md-typeset span.arithmatex {
+  display: inline;
+}
+
+.md-typeset span.arithmatex mjx-container {
   max-width: 100%;
 }
 

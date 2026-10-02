@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 570" role="img" aria-labelledby="title desc">
+<title id="title">Средняя и предельная ставки</title><desc id="desc">Доходы2,4,6,8,10; налог1.14,2.41,3.95,5.28,6.84. Средние57,60.25,65.8333,66,68.4%; предельные по интервалам63.5,77,66.5,78%.</desc>
+<style>text{font-family:system-ui,-apple-system,Segoe UI,sans-serif;fill:#18213a;font-size:18px} .small{font-size:16px;fill:#54627a} .heading{font-size:23px;font-weight:650}</style>
+<rect width="760" height="570" rx="10" fill="#fff"/>
+<text x="32.00" y="38.00" text-anchor="start" class="heading" style="fill:#18213a">Средняя и предельная ставки</text>
+<path d="M90.000,408.000 L670.000,408.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<path d="M90.000,408.000 L90.000,68.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="678.00" y="414.00" text-anchor="start" class="" style="fill:#18213a">w</text>
+<text x="70.00" y="63.00" text-anchor="start" class="" style="fill:#18213a">%</text>
+<polyline points="193.636,186.706 297.273,174.088 400.909,152.412 504.545,151.765 608.182,142.447" fill="none" fill-opacity="1" stroke="#3859b5" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="193.636" cy="186.706" r="4" fill="#3859b5"/>
+<circle cx="297.273" cy="174.088" r="4" fill="#3859b5"/>
+<circle cx="400.909" cy="152.412" r="4" fill="#3859b5"/>
+<circle cx="504.545" cy="151.765" r="4" fill="#3859b5"/>
+<circle cx="608.182" cy="142.447" r="4" fill="#3859b5"/>
+<polyline points="193.636,161.471 297.273,161.471" fill="none" fill-opacity="1" stroke="#dd5a24" stroke-width="3" stroke-linejoin="round"/>
+<polyline points="297.273,109.059 400.909,109.059" fill="none" fill-opacity="1" stroke="#dd5a24" stroke-width="3" stroke-linejoin="round"/>
+<polyline points="400.909,149.824 504.545,149.824" fill="none" fill-opacity="1" stroke="#dd5a24" stroke-width="3" stroke-linejoin="round"/>
+<polyline points="504.545,105.176 608.182,105.176" fill="none" fill-opacity="1" stroke="#dd5a24" stroke-width="3" stroke-linejoin="round"/>
+<path d="M193.636,408.000 L193.636,413.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="193.64" y="434.00" text-anchor="middle" class="small" style="fill:#18213a">2</text>
+<path d="M297.273,408.000 L297.273,413.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="297.27" y="434.00" text-anchor="middle" class="small" style="fill:#18213a">4</text>
+<path d="M400.909,408.000 L400.909,413.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="400.91" y="434.00" text-anchor="middle" class="small" style="fill:#18213a">6</text>
+<path d="M504.545,408.000 L504.545,413.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="504.55" y="434.00" text-anchor="middle" class="small" style="fill:#18213a">8</text>
+<path d="M608.182,408.000 L608.182,413.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="608.18" y="434.00" text-anchor="middle" class="small" style="fill:#18213a">10</text>
+<path d="M85.000,408.000 L90.000,408.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="78.00" y="414.00" text-anchor="end" class="small" style="fill:#18213a">0</text>
+<path d="M85.000,330.353 L90.000,330.353" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="78.00" y="336.35" text-anchor="end" class="small" style="fill:#18213a">20</text>
+<path d="M85.000,252.706 L90.000,252.706" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="78.00" y="258.71" text-anchor="end" class="small" style="fill:#18213a">40</text>
+<path d="M85.000,175.059 L90.000,175.059" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="78.00" y="181.06" text-anchor="end" class="small" style="fill:#18213a">60</text>
+<path d="M85.000,97.412 L90.000,97.412" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="78.00" y="103.41" text-anchor="end" class="small" style="fill:#18213a">80</text>
+<path d="M70.000,477.000 L98.000,477.000" fill="none" stroke="#3859b5" stroke-width="4"/>
+<text x="110.00" y="482.00" text-anchor="start" class="small" style="fill:#18213a">ATR = T(w) / w: ставка на весь доход</text>
+<path d="M70.000,505.000 L98.000,505.000" fill="none" stroke="#dd5a24" stroke-width="4"/>
+<text x="110.00" y="510.00" text-anchor="start" class="small" style="fill:#18213a">MTR = ΔT / Δw: ставка на прирост дохода</text>
+</svg>
