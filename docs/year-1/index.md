@@ -63,6 +63,8 @@ hide:
 
 [Открыть раздел →](medical-organizations.md)
 
+[ОМС, госгарантии и тарифы →](medical-organizations-oms-and-tariffs.md)
+
 [Управление изменениями в здравоохранении →](healthcare-management-and-change.md)
 
 [Управленческие кейсы →](medical-organization-cases.md)

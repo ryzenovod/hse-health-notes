@@ -22,6 +22,7 @@ hide:
 
 ## Последние занятия
 
+- **Управление организациями, 5 октября:** [ОМС, госгарантии и оплата медицинской помощи](year-1/medical-organizations-oms-and-tariffs.md).
 - **ЭОС, 1 октября:** [роль государства, провалы рынка и перераспределение](year-1/public-sector-economics-market-failures-redistribution.md).
 - **УЭЗ, 30 сентября:** [диагностические тесты и скрининг](module-1/diagnostic-tests-and-screening.md), [медицинское право и клинические решения](module-1/healthcare-law-and-clinical-decisions.md).
 - **Управление организациями, 28 сентября:** [интеграция больниц, поддержка персонала и управление сетью клиник](year-1/medical-organization-cases.md).
