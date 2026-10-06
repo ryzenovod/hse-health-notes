@@ -26,6 +26,7 @@ IGNORED_SCHEMES = {"data", "mailto", "tel"}
 SVG_METADATA_PREFIXES = (
     Path("assets/oct-2026"),
     Path("assets/eos-materials"),
+    Path("assets/seminar-3"),
 )
 VOID_TAGS = {
     "area",

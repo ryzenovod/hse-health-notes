@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 760" role="img" aria-labelledby="title desc">
+<title id="title">Площади в задаче Лоренца</title>
+<desc id="desc">Отдельная схема: треугольник 60 на 20 имеет площадь 600; трапеция с вертикальными основаниями 20 и 100 и расстоянием 40 имеет площадь 2400.</desc>
+<style>text{font-family:system-ui,-apple-system,Segoe UI,sans-serif;fill:#18213a;font-size:22px}.heading{font-size:26px;font-weight:650}.axis{font-size:22px;font-weight:600}.tick{font-size:20px;fill:#5b667a}.small{font-size:20px;fill:#5b667a}.note{font-size:23px;font-weight:650}.label{font-size:22px;font-weight:650}</style>
+<rect width="760" height="760" rx="10" fill="#ffffff"/>
+<text x="34.00" y="42.00" text-anchor="start" class="heading" style="fill:#18213a">Площади в задаче Лоренца</text>
+<text x="85.00" y="88.00" text-anchor="start" class="axis" style="fill:#18213a">Треугольник: основание 60, высота 20</text>
+<polygon points="105.000,240.000 345.000,240.000 345.000,160.000" fill="#e9eefb" fill-opacity="0.95" stroke="#3859b5" stroke-width="2" data-shape="triangle" data-base="60" data-height="20" data-area="600"/>
+<path d="M105.000,240.000 L345.000,240.000" fill="none" stroke="#3859b5" stroke-width="3" stroke-linecap="round"/>
+<path d="M345.000,240.000 L345.000,160.000" fill="none" stroke="#3859b5" stroke-width="3" stroke-linecap="round"/>
+<text x="225.00" y="276.00" text-anchor="middle" class="label" style="fill:#3859b5">60</text>
+<text x="368.00" y="205.00" text-anchor="start" class="label" style="fill:#3859b5">20</text>
+<text x="105.00" y="320.00" text-anchor="start" class="note" style="fill:#3859b5">S = 60 × 20 / 2 = 600</text>
+<text x="85.00" y="405.00" text-anchor="start" class="axis" style="fill:#18213a">Трапеция: основания 20 и 100, расстояние 40</text>
+<polygon points="215.000,680.000 215.000,630.000 315.000,430.000 315.000,680.000" fill="#fdeadd" fill-opacity="0.95" stroke="#dd5a24" stroke-width="2" data-shape="trapezoid" data-bases="20,100" data-distance="40" data-area="2400"/>
+<path d="M215.000,680.000 L215.000,630.000" fill="none" stroke="#dd5a24" stroke-width="3" stroke-linecap="round"/>
+<path d="M315.000,680.000 L315.000,430.000" fill="none" stroke="#dd5a24" stroke-width="3" stroke-linecap="round"/>
+<path d="M215.000,700.000 L315.000,700.000" fill="none" stroke="#5b667a" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="7 7"/>
+<text x="193.00" y="660.00" text-anchor="end" class="label" style="fill:#dd5a24">20</text>
+<text x="337.00" y="560.00" text-anchor="start" class="label" style="fill:#dd5a24">100</text>
+<text x="265.00" y="730.00" text-anchor="middle" class="label" style="fill:#5b667a">40</text>
+<text x="410.00" y="535.00" text-anchor="start" class="note" style="fill:#dd5a24">S = (20 + 100)</text>
+<text x="410.00" y="572.00" text-anchor="start" class="note" style="fill:#dd5a24">÷ 2 × 40 = 2 400</text>
+</svg>

@@ -22,6 +22,7 @@ hide:
 
 ## Последние занятия
 
+- **ЭОС, 6 октября:** [семинар 3 — государство, доходы, Джини и выбор налоговой ставки](year-1/public-sector-economics-seminar-3.md).
 - **Управление организациями, 5 октября:** [ОМС, госгарантии и оплата медицинской помощи](year-1/medical-organizations-oms-and-tariffs.md).
 - **ЭОС, 1 октября:** [роль государства, провалы рынка и перераспределение](year-1/public-sector-economics-market-failures-redistribution.md).
 - **УЭЗ, 30 сентября:** [диагностические тесты и скрининг](module-1/diagnostic-tests-and-screening.md), [медицинское право и клинические решения](module-1/healthcare-law-and-clinical-decisions.md).

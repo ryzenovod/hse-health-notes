@@ -83,6 +83,8 @@ hide:
 
 [Роль государства и перераспределение →](public-sector-economics-market-failures-redistribution.md)
 
+[Семинар 3: доходы, Джини и справедливость →](public-sector-economics-seminar-3.md)
+
 [Налоговый семинар с решениями →](public-sector-economics-tax-seminar.md)
 </article>
 

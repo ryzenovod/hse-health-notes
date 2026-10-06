@@ -79,7 +79,10 @@ class CourseFigureTests(unittest.TestCase):
         root = self.svg("oct-2026/eos-lorenz-gini.svg")
         points = self.circles(root)
         for q, p in cumulative:
-            self.assert_point(points, Fraction(q), Fraction(p), 100, 100)
+            expected = (130 + 500 * q / 100, 105 + 500 * (1 - p / 100))
+            self.assertTrue(any(abs(x - expected[0]) < 0.01 and abs(y - expected[1]) < 0.01 for x, y in points))
+        origin, endpoint = points[0], points[-1]
+        self.assertEqual(endpoint[0] - origin[0], origin[1] - endpoint[1])
         self.assertIn("G = 1 − 2 × 0,30 = 0,40", self.text(root))
 
     def test_diagnostic_bayes_positive_predictive_value_drives_bar_width(self) -> None:

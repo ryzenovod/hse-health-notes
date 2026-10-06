@@ -1,49 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 585" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 810" role="img" aria-labelledby="title desc">
 <title id="title">Кривая Лоренца и коэффициент Джини</title><desc id="desc">Пять равных групп имеют доходы10,20,30,40,100,внутри групп доходы одинаковы. Накопленные доли5,15,30,50,100%. Площадь под кривой.30, Джини.40.</desc>
 <style>text{font-family:system-ui,-apple-system,Segoe UI,sans-serif;fill:#18213a;font-size:18px} .small{font-size:16px;fill:#54627a} .heading{font-size:23px;font-weight:650}</style>
-<rect width="760" height="585" rx="10" fill="#fff"/>
+<rect width="760" height="810" rx="10" fill="#fff"/>
 <text x="32.00" y="38.00" text-anchor="start" class="heading" style="fill:#18213a">Кривая Лоренца и коэффициент Джини</text>
-<path d="M90.000,403.000 L670.000,403.000" fill="none" stroke="#18213a" stroke-width="2"/>
-<path d="M90.000,403.000 L90.000,68.000" fill="none" stroke="#18213a" stroke-width="2"/>
-<text x="678.00" y="409.00" text-anchor="start" class="" style="fill:#18213a">%</text>
-<text x="70.00" y="63.00" text-anchor="start" class="" style="fill:#18213a">%</text>
-<polyline points="90.000,403.000 660.000,78.000 660.000,78.000 546.000,240.500 432.000,305.500 318.000,354.250 204.000,386.750 90.000,403.000" fill="#dd5a24" fill-opacity="0.15" stroke="#dd5a24" stroke-width="0" stroke-linejoin="round"/>
-<polyline points="90.000,403.000 660.000,78.000" fill="none" fill-opacity="1" stroke="#54627a" stroke-width="2" stroke-linejoin="round"/>
-<polyline points="90.000,403.000 204.000,386.750 318.000,354.250 432.000,305.500 546.000,240.500 660.000,78.000" fill="none" fill-opacity="1" stroke="#3859b5" stroke-width="3" stroke-linejoin="round"/>
-<circle cx="90.000" cy="403.000" r="4" fill="#3859b5"/>
-<circle cx="204.000" cy="386.750" r="4" fill="#3859b5"/>
-<circle cx="318.000" cy="354.250" r="4" fill="#3859b5"/>
-<circle cx="432.000" cy="305.500" r="4" fill="#3859b5"/>
-<circle cx="546.000" cy="240.500" r="4" fill="#3859b5"/>
-<circle cx="660.000" cy="78.000" r="4" fill="#3859b5"/>
-<path d="M90.000,403.000 L90.000,408.000" fill="none" stroke="#18213a" stroke-width="2"/>
-<text x="90.00" y="429.00" text-anchor="middle" class="small" style="fill:#18213a">0</text>
-<path d="M204.000,403.000 L204.000,408.000" fill="none" stroke="#18213a" stroke-width="2"/>
-<text x="204.00" y="429.00" text-anchor="middle" class="small" style="fill:#18213a">20</text>
-<path d="M318.000,403.000 L318.000,408.000" fill="none" stroke="#18213a" stroke-width="2"/>
-<text x="318.00" y="429.00" text-anchor="middle" class="small" style="fill:#18213a">40</text>
-<path d="M432.000,403.000 L432.000,408.000" fill="none" stroke="#18213a" stroke-width="2"/>
-<text x="432.00" y="429.00" text-anchor="middle" class="small" style="fill:#18213a">60</text>
-<path d="M546.000,403.000 L546.000,408.000" fill="none" stroke="#18213a" stroke-width="2"/>
-<text x="546.00" y="429.00" text-anchor="middle" class="small" style="fill:#18213a">80</text>
-<path d="M660.000,403.000 L660.000,408.000" fill="none" stroke="#18213a" stroke-width="2"/>
-<text x="660.00" y="429.00" text-anchor="middle" class="small" style="fill:#18213a">100</text>
-<path d="M85.000,403.000 L90.000,403.000" fill="none" stroke="#18213a" stroke-width="2"/>
-<text x="78.00" y="409.00" text-anchor="end" class="small" style="fill:#18213a">0</text>
-<path d="M85.000,338.000 L90.000,338.000" fill="none" stroke="#18213a" stroke-width="2"/>
-<text x="78.00" y="344.00" text-anchor="end" class="small" style="fill:#18213a">20</text>
-<path d="M85.000,273.000 L90.000,273.000" fill="none" stroke="#18213a" stroke-width="2"/>
-<text x="78.00" y="279.00" text-anchor="end" class="small" style="fill:#18213a">40</text>
-<path d="M85.000,208.000 L90.000,208.000" fill="none" stroke="#18213a" stroke-width="2"/>
-<text x="78.00" y="214.00" text-anchor="end" class="small" style="fill:#18213a">60</text>
-<path d="M85.000,143.000 L90.000,143.000" fill="none" stroke="#18213a" stroke-width="2"/>
-<text x="78.00" y="149.00" text-anchor="end" class="small" style="fill:#18213a">80</text>
-<path d="M85.000,78.000 L90.000,78.000" fill="none" stroke="#18213a" stroke-width="2"/>
-<text x="78.00" y="84.00" text-anchor="end" class="small" style="fill:#18213a">100</text>
-<text x="90.00" y="479.00" text-anchor="start" class="small" style="fill:#18213a">По горизонтали — доля населения; по вертикали — доходов</text>
-<path d="M70.000,510.000 L98.000,510.000" fill="none" stroke="#3859b5" stroke-width="4"/>
-<text x="110.00" y="515.00" text-anchor="start" class="small" style="fill:#18213a">Лоренц: накопленные доли дохода</text>
-<path d="M70.000,538.000 L98.000,538.000" fill="none" stroke="#54627a" stroke-width="4"/>
-<text x="110.00" y="543.00" text-anchor="start" class="small" style="fill:#18213a">Равенство: одинаковые доли населения и дохода</text>
-<text x="90.00" y="573.00" text-anchor="start" class="small" style="fill:#18213a">G = 1 − 2 × 0,30 = 0,40</text>
+<style>text{font-size:22px}.small{font-size:20px}</style>
+<path d="M130.000,605.000 L640.000,605.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<path d="M130.000,605.000 L130.000,95.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="648.00" y="611.00" text-anchor="start" class="" style="fill:#18213a"></text>
+<text x="110.00" y="90.00" text-anchor="start" class="" style="fill:#18213a"></text>
+<text x="130.00" y="80.00" text-anchor="start" class="" style="fill:#18213a">Доля дохода, %</text>
+<polyline points="130.000,605.000 630.000,105.000 630.000,105.000 530.000,355.000 430.000,455.000 330.000,530.000 230.000,580.000 130.000,605.000" fill="#dd5a24" fill-opacity="0.15" stroke="#dd5a24" stroke-width="0" stroke-linejoin="round"/>
+<polyline points="130.000,605.000 630.000,105.000" fill="none" fill-opacity="1" stroke="#54627a" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="130.000,605.000 230.000,580.000 330.000,530.000 430.000,455.000 530.000,355.000 630.000,105.000" fill="none" fill-opacity="1" stroke="#3859b5" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="130.000" cy="605.000" r="4" fill="#3859b5"/>
+<circle cx="230.000" cy="580.000" r="4" fill="#3859b5"/>
+<circle cx="330.000" cy="530.000" r="4" fill="#3859b5"/>
+<circle cx="430.000" cy="455.000" r="4" fill="#3859b5"/>
+<circle cx="530.000" cy="355.000" r="4" fill="#3859b5"/>
+<circle cx="630.000" cy="105.000" r="4" fill="#3859b5"/>
+<path d="M130.000,605.000 L130.000,610.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="130.00" y="631.00" text-anchor="middle" class="small" style="fill:#18213a">0</text>
+<path d="M230.000,605.000 L230.000,610.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="230.00" y="631.00" text-anchor="middle" class="small" style="fill:#18213a">20</text>
+<path d="M330.000,605.000 L330.000,610.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="330.00" y="631.00" text-anchor="middle" class="small" style="fill:#18213a">40</text>
+<path d="M430.000,605.000 L430.000,610.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="430.00" y="631.00" text-anchor="middle" class="small" style="fill:#18213a">60</text>
+<path d="M530.000,605.000 L530.000,610.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="530.00" y="631.00" text-anchor="middle" class="small" style="fill:#18213a">80</text>
+<path d="M630.000,605.000 L630.000,610.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="630.00" y="631.00" text-anchor="middle" class="small" style="fill:#18213a">100</text>
+<path d="M125.000,605.000 L130.000,605.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="118.00" y="611.00" text-anchor="end" class="small" style="fill:#18213a">0</text>
+<path d="M125.000,505.000 L130.000,505.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="118.00" y="511.00" text-anchor="end" class="small" style="fill:#18213a">20</text>
+<path d="M125.000,405.000 L130.000,405.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="118.00" y="411.00" text-anchor="end" class="small" style="fill:#18213a">40</text>
+<path d="M125.000,305.000 L130.000,305.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="118.00" y="311.00" text-anchor="end" class="small" style="fill:#18213a">60</text>
+<path d="M125.000,205.000 L130.000,205.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="118.00" y="211.00" text-anchor="end" class="small" style="fill:#18213a">80</text>
+<path d="M125.000,105.000 L130.000,105.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="118.00" y="111.00" text-anchor="end" class="small" style="fill:#18213a">100</text>
+<text x="380.00" y="662.00" text-anchor="middle" class="" style="fill:#18213a">Доля населения, %</text>
+<path d="M70.000,703.000 L98.000,703.000" fill="none" stroke="#3859b5" stroke-width="4"/>
+<text x="110.00" y="708.00" text-anchor="start" class="small" style="fill:#18213a">Лоренц: накопленная доля дохода</text>
+<path d="M70.000,735.000 L98.000,735.000" fill="none" stroke="#54627a" stroke-width="4"/>
+<text x="110.00" y="740.00" text-anchor="start" class="small" style="fill:#18213a">Диагональ равенства</text>
+<text x="90.00" y="785.00" text-anchor="start" class="" style="fill:#18213a">G = 1 − 2 × 0,30 = 0,40</text>
 </svg>

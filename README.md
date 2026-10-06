@@ -40,4 +40,10 @@ python3 -m venv .venv
 .venv/bin/python scripts/generate_course_figures.py
 ```
 
+`scripts/generate_seminar3_figures.py` строит пять SVG семинара 3: геометрию площадей, Лоренц до и после налога, сравнение распределений и шесть точек налоговых поступлений. Расчёты выполняются на `Fraction`; тесты проверяют площади, Джини и все строки налоговой таблицы.
+
+```bash
+.venv/bin/python scripts/generate_seminar3_figures.py
+```
+
 Названия дисциплин сверены с [учебным планом](https://www.hse.ru/dbs/education/sp_UnitedLearnPlan_28117.pdf).

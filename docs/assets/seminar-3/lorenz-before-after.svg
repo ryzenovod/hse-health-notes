@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 710" role="img" aria-labelledby="title desc">
+<title id="title">Лоренц: до и после налога</title>
+<desc id="desc">Сравнение кривых Лоренца до налога и после перераспределения: средняя точка поднимается с 20 до 36 процентов дохода.</desc>
+<style>text{font-family:system-ui,-apple-system,Segoe UI,sans-serif;fill:#18213a;font-size:22px}.heading{font-size:26px;font-weight:650}.axis{font-size:22px;font-weight:600}.tick{font-size:20px;fill:#5b667a}.small{font-size:20px;fill:#5b667a}.note{font-size:23px;font-weight:650}.label{font-size:22px;font-weight:650}</style>
+<rect width="760" height="710" rx="10" fill="#ffffff"/>
+<text x="34.00" y="42.00" text-anchor="start" class="heading" style="fill:#18213a">Лоренц: до и после налога</text>
+<path d="M120.000,78.000 L120.000,548.000" fill="none" stroke="#d9dfeb" stroke-width="1" stroke-linecap="round"/>
+<path d="M120.000,548.000 L590.000,548.000" fill="none" stroke="#d9dfeb" stroke-width="1" stroke-linecap="round"/>
+<text x="120.00" y="575.00" text-anchor="middle" class="tick" style="fill:#18213a">0</text>
+<text x="103.00" y="554.00" text-anchor="end" class="tick" style="fill:#18213a">0</text>
+<path d="M214.000,78.000 L214.000,548.000" fill="none" stroke="#d9dfeb" stroke-width="1" stroke-linecap="round"/>
+<path d="M120.000,454.000 L590.000,454.000" fill="none" stroke="#d9dfeb" stroke-width="1" stroke-linecap="round"/>
+<text x="214.00" y="575.00" text-anchor="middle" class="tick" style="fill:#18213a">20</text>
+<text x="103.00" y="460.00" text-anchor="end" class="tick" style="fill:#18213a">20</text>
+<path d="M308.000,78.000 L308.000,548.000" fill="none" stroke="#d9dfeb" stroke-width="1" stroke-linecap="round"/>
+<path d="M120.000,360.000 L590.000,360.000" fill="none" stroke="#d9dfeb" stroke-width="1" stroke-linecap="round"/>
+<text x="308.00" y="575.00" text-anchor="middle" class="tick" style="fill:#18213a">40</text>
+<text x="103.00" y="366.00" text-anchor="end" class="tick" style="fill:#18213a">40</text>
+<path d="M402.000,78.000 L402.000,548.000" fill="none" stroke="#d9dfeb" stroke-width="1" stroke-linecap="round"/>
+<path d="M120.000,266.000 L590.000,266.000" fill="none" stroke="#d9dfeb" stroke-width="1" stroke-linecap="round"/>
+<text x="402.00" y="575.00" text-anchor="middle" class="tick" style="fill:#18213a">60</text>
+<text x="103.00" y="272.00" text-anchor="end" class="tick" style="fill:#18213a">60</text>
+<path d="M496.000,78.000 L496.000,548.000" fill="none" stroke="#d9dfeb" stroke-width="1" stroke-linecap="round"/>
+<path d="M120.000,172.000 L590.000,172.000" fill="none" stroke="#d9dfeb" stroke-width="1" stroke-linecap="round"/>
+<text x="496.00" y="575.00" text-anchor="middle" class="tick" style="fill:#18213a">80</text>
+<text x="103.00" y="178.00" text-anchor="end" class="tick" style="fill:#18213a">80</text>
+<path d="M590.000,78.000 L590.000,548.000" fill="none" stroke="#d9dfeb" stroke-width="1" stroke-linecap="round"/>
+<path d="M120.000,78.000 L590.000,78.000" fill="none" stroke="#d9dfeb" stroke-width="1" stroke-linecap="round"/>
+<text x="590.00" y="575.00" text-anchor="middle" class="tick" style="fill:#18213a">100</text>
+<text x="103.00" y="84.00" text-anchor="end" class="tick" style="fill:#18213a">100</text>
+<path d="M120.000,548.000 L598.000,548.000" fill="none" stroke="#18213a" stroke-width="2.3" stroke-linecap="round"/>
+<path d="M120.000,548.000 L120.000,70.000" fill="none" stroke="#18213a" stroke-width="2.3" stroke-linecap="round"/>
+<text x="355.00" y="610.00" text-anchor="middle" class="axis" style="fill:#18213a">Доля населения, %</text>
+<text x="48.00" y="313.00" text-anchor="middle" class="axis" transform="rotate(-90.0 48.00 313.00)" style="fill:#18213a">Доля дохода, %</text>
+<polygon points="120.000,548.000 402.000,378.800 402.000,454.000" fill="#e7f4ef" fill-opacity="0.95" stroke="#178477" stroke-width="2" data-transfer-lift="60,20->60,36"/>
+<polyline points="120.000,548.000 590.000,78.000" fill="none" stroke="#5b667a" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="120.000,548.000 402.000,454.000 590.000,78.000" fill="none" stroke="#dd5a24" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="120.000,548.000 402.000,378.800 590.000,78.000" fill="none" stroke="#3859b5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="120.000" cy="548.000" r="5" fill="#dd5a24" data-before-point="0,0"/>
+<circle cx="402.000" cy="454.000" r="5" fill="#dd5a24" data-before-point="3/5,1/5"/>
+<circle cx="590.000" cy="78.000" r="5" fill="#dd5a24" data-before-point="1,1"/>
+<circle cx="120.000" cy="548.000" r="5.5" fill="#3859b5" data-after-point="0,0"/>
+<circle cx="402.000" cy="378.800" r="5.5" fill="#3859b5" data-after-point="3/5,9/25"/>
+<circle cx="590.000" cy="78.000" r="5.5" fill="#3859b5" data-after-point="1,1"/>
+<path d="M120.000,454.000 L402.000,454.000" fill="none" stroke="#5b667a" stroke-width="1.4" stroke-linecap="round" stroke-dasharray="7 7"/>
+<path d="M402.000,548.000 L402.000,454.000" fill="none" stroke="#5b667a" stroke-width="1.4" stroke-linecap="round" stroke-dasharray="7 7"/>
+<path d="M120.000,378.800 L402.000,378.800" fill="none" stroke="#5b667a" stroke-width="1.4" stroke-linecap="round" stroke-dasharray="7 7"/>
+<path d="M402.000,548.000 L402.000,378.800" fill="none" stroke="#5b667a" stroke-width="1.4" stroke-linecap="round" stroke-dasharray="7 7"/>
+<text x="414.00" y="462.00" text-anchor="start" class="label" style="fill:#dd5a24">до: (60; 20)</text>
+<text x="414.00" y="366.80" text-anchor="start" class="label" style="fill:#3859b5">после: (60; 36)</text>
+<path d="M374.000,378.800 L374.000,454.000" fill="none" stroke="#178477" stroke-width="3" stroke-linecap="round"/>
+<text x="120.00" y="651.00" text-anchor="start" class="note" style="fill:#178477">Джини: 0,40 → 0,24</text>
+<text x="120.00" y="684.00" text-anchor="start" class="small" style="fill:#18213a">Нижние 60% получают 36% дохода вместо 20%</text>
+</svg>
