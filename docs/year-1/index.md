@@ -30,6 +30,8 @@ hide:
 [Социальные основы медицины и доказательная медицина →](../module-1/epidemiology-social-medicine-proof.md)
 
 [Диагностика и скрининг →](../module-1/diagnostic-tests-and-screening.md)
+
+[Медицинские технологии, QALY и случай–контроль →](../module-1/vlasov-health-technology-assessment.md)
 </article>
 
 <article class="course-card" markdown>

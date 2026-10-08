@@ -5,6 +5,7 @@ Coordinates are calculated from the stated models; no source photographs are use
 from pathlib import Path
 from html import escape
 from math import sqrt
+from fractions import Fraction
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'docs/assets/oct-2026'
@@ -346,8 +347,51 @@ def deduction():
     s.text(70,594,'Pˢₗ > P₀; (1 − τ)Pˢₗ < P₀; Qₗ > Q₀',cls='small')
     s.save('medical-tax-deduction.svg')
 
+QALY_TREATMENT = ((0, 1, Fraction(2, 5)), (1, 4, Fraction(4, 5)))
+QALY_COMPARATOR = ((0, 1, Fraction(7, 10)), (1, 3, Fraction(3, 5)), (3, 4, Fraction(0)))
+
+def qaly_total(segments):
+    return sum(((end - start) * utility for start, end, utility in segments), Fraction(0))
+
+def qaly():
+    s=SVG('QALY: потеря сегодня, выигрыш позже',
+          'Учебный пример. Вмешательство: 0,4 в первый год, 0,8 в следующие три. '
+          'Альтернатива: 0,7 в первый год, 0,6 в следующие два, затем 0. '
+          'Площади 2,8 и 1,9 QALY; потеря 0,3, выигрыш 1,2, разница 0,9 QALY.', h=670)
+    s.items.append('<style>text{font-size:22px}.small{font-size:20px}.heading{font-size:24px}</style>')
+    s.legend([(BLUE,'Вмешательство: 2,8 QALY'),(ORANGE,'Альтернатива: 1,9 QALY')],78,x=90,step=31)
+    s.text(90,151,'Вес полезности u',cls='small')
+    p=Plot(s,4,1,x=90,y=180,w=580,h=300,xlabel='лет',ylabel='')
+    for u in (Fraction(1,2),1):
+        p.line([(0,u),(4,u)],GRID,1)
+    # Difference rectangles share exactly the same coordinate transform as trajectories.
+    p.area([(0,Fraction(2,5)),(1,Fraction(2,5)),(1,Fraction(7,10)),(0,Fraction(7,10))],RED,.22)
+    p.area([(1,Fraction(3,5)),(3,Fraction(3,5)),(3,Fraction(4,5)),(1,Fraction(4,5))],TEAL,.23)
+    p.area([(3,0),(4,0),(4,Fraction(4,5)),(3,Fraction(4,5))],TEAL,.23)
+    for segments,color in ((QALY_TREATMENT,BLUE),(QALY_COMPARATOR,ORANGE)):
+        points=[]
+        for start,end,u in segments:
+            points.extend([(start,u),(end,u)])
+        p.line(points,color,4)
+    p.ticks([0,1,2,3,4],[0,Fraction(1,2),1])
+    # Fraction tick is replaced with the conventional decimal notation for the chart.
+    s.items=[item.replace('>1/2</text>','>0,5</text>') for item in s.items]
+    for q,u,label,color in ((Fraction(1,2),Fraction(2,5),'0,4',BLUE),
+                            (Fraction(1,2),Fraction(7,10),'0,7',ORANGE),
+                            (2,Fraction(3,5),'0,6',ORANGE),(2,Fraction(4,5),'0,8',BLUE)):
+        p.label(q,u,label,color,dx=0,dy=28 if label=='0,6' else -12,anchor='middle')
+    p.label(Fraction(1,2),Fraction(11,20),'−0,3',RED,dx=0,dy=7,anchor='middle')
+    p.label(2,Fraction(7,10),'+0,4',TEAL,dx=0,dy=7,anchor='middle')
+    p.label(Fraction(7,2),Fraction(2,5),'+0,8',TEAL,dx=0,dy=7,anchor='middle')
+    s.text(90,550,'Потеря: 0,3 QALY',RED)
+    s.text(90,581,'Выигрыш: 0,4 + 0,8 = 1,2 QALY',TEAL)
+    s.text(90,614,'Разница: 1,2 − 0,3 = 0,9 QALY')
+    s.text(90,648,'Учебный пример · площадь = годы × вес полезности',cls='small')
+    s.save('vlasov-qaly.svg')
+
 if __name__=='__main__':
     numerical();numerical(True);generic_wedge();combined_extremes();rates();sacrifice()
     labor(True);labor(False);vodka();specific_advalorem();budget();governance()
     bayes();roc();leadtime();externality();lorenz();trap();lindahl();deduction()
+    qaly()
     print('Generated',len(list(OUT.glob('*.svg'))),'new and 5 replacement SVG figures.')

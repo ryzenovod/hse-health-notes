@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 670" role="img" aria-labelledby="title desc">
+<title id="title">QALY: потеря сегодня, выигрыш позже</title><desc id="desc">Учебный пример. Вмешательство: 0,4 в первый год, 0,8 в следующие три. Альтернатива: 0,7 в первый год, 0,6 в следующие два, затем 0. Площади 2,8 и 1,9 QALY; потеря 0,3, выигрыш 1,2, разница 0,9 QALY.</desc>
+<style>text{font-family:system-ui,-apple-system,Segoe UI,sans-serif;fill:#18213a;font-size:18px} .small{font-size:16px;fill:#54627a} .heading{font-size:23px;font-weight:650}</style>
+<rect width="760" height="670" rx="10" fill="#fff"/>
+<text x="32.00" y="38.00" text-anchor="start" class="heading" style="fill:#18213a">QALY: потеря сегодня, выигрыш позже</text>
+<style>text{font-size:22px}.small{font-size:20px}.heading{font-size:24px}</style>
+<path d="M90.000,73.000 L118.000,73.000" fill="none" stroke="#3859b5" stroke-width="4"/>
+<text x="130.00" y="78.00" text-anchor="start" class="small" style="fill:#18213a">Вмешательство: 2,8 QALY</text>
+<path d="M90.000,104.000 L118.000,104.000" fill="none" stroke="#dd5a24" stroke-width="4"/>
+<text x="130.00" y="109.00" text-anchor="start" class="small" style="fill:#18213a">Альтернатива: 1,9 QALY</text>
+<text x="90.00" y="151.00" text-anchor="start" class="small" style="fill:#18213a">Вес полезности u</text>
+<path d="M90.000,480.000 L680.000,480.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<path d="M90.000,480.000 L90.000,170.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="688.00" y="486.00" text-anchor="start" class="" style="fill:#18213a">лет</text>
+<text x="70.00" y="165.00" text-anchor="start" class="" style="fill:#18213a"></text>
+<polyline points="90.000,330.000 670.000,330.000" fill="none" fill-opacity="1" stroke="#e0e5ee" stroke-width="1" stroke-linejoin="round"/>
+<polyline points="90.000,180.000 670.000,180.000" fill="none" fill-opacity="1" stroke="#e0e5ee" stroke-width="1" stroke-linejoin="round"/>
+<polyline points="90.000,360.000 235.000,360.000 235.000,270.000 90.000,270.000" fill="#b23b54" fill-opacity="0.22" stroke="#b23b54" stroke-width="0" stroke-linejoin="round"/>
+<polyline points="235.000,300.000 525.000,300.000 525.000,240.000 235.000,240.000" fill="#178477" fill-opacity="0.23" stroke="#178477" stroke-width="0" stroke-linejoin="round"/>
+<polyline points="525.000,480.000 670.000,480.000 670.000,240.000 525.000,240.000" fill="#178477" fill-opacity="0.23" stroke="#178477" stroke-width="0" stroke-linejoin="round"/>
+<polyline points="90.000,360.000 235.000,360.000 235.000,240.000 670.000,240.000" fill="none" fill-opacity="1" stroke="#3859b5" stroke-width="4" stroke-linejoin="round"/>
+<polyline points="90.000,270.000 235.000,270.000 235.000,300.000 525.000,300.000 525.000,480.000 670.000,480.000" fill="none" fill-opacity="1" stroke="#dd5a24" stroke-width="4" stroke-linejoin="round"/>
+<path d="M90.000,480.000 L90.000,485.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="90.00" y="506.00" text-anchor="middle" class="small" style="fill:#18213a">0</text>
+<path d="M235.000,480.000 L235.000,485.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="235.00" y="506.00" text-anchor="middle" class="small" style="fill:#18213a">1</text>
+<path d="M380.000,480.000 L380.000,485.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="380.00" y="506.00" text-anchor="middle" class="small" style="fill:#18213a">2</text>
+<path d="M525.000,480.000 L525.000,485.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="525.00" y="506.00" text-anchor="middle" class="small" style="fill:#18213a">3</text>
+<path d="M670.000,480.000 L670.000,485.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="670.00" y="506.00" text-anchor="middle" class="small" style="fill:#18213a">4</text>
+<path d="M85.000,480.000 L90.000,480.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="78.00" y="486.00" text-anchor="end" class="small" style="fill:#18213a">0</text>
+<path d="M85.000,330.000 L90.000,330.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="78.00" y="336.00" text-anchor="end" class="small" style="fill:#18213a">0,5</text>
+<path d="M85.000,180.000 L90.000,180.000" fill="none" stroke="#18213a" stroke-width="2"/>
+<text x="78.00" y="186.00" text-anchor="end" class="small" style="fill:#18213a">1</text>
+<text x="162.50" y="348.00" text-anchor="middle" class="" style="fill:#3859b5">0,4</text>
+<text x="162.50" y="258.00" text-anchor="middle" class="" style="fill:#dd5a24">0,7</text>
+<text x="380.00" y="328.00" text-anchor="middle" class="" style="fill:#dd5a24">0,6</text>
+<text x="380.00" y="228.00" text-anchor="middle" class="" style="fill:#3859b5">0,8</text>
+<text x="162.50" y="322.00" text-anchor="middle" class="" style="fill:#b23b54">−0,3</text>
+<text x="380.00" y="277.00" text-anchor="middle" class="" style="fill:#178477">+0,4</text>
+<text x="597.50" y="367.00" text-anchor="middle" class="" style="fill:#178477">+0,8</text>
+<text x="90.00" y="550.00" text-anchor="start" class="" style="fill:#b23b54">Потеря: 0,3 QALY</text>
+<text x="90.00" y="581.00" text-anchor="start" class="" style="fill:#178477">Выигрыш: 0,4 + 0,8 = 1,2 QALY</text>
+<text x="90.00" y="614.00" text-anchor="start" class="" style="fill:#18213a">Разница: 1,2 − 0,3 = 0,9 QALY</text>
+<text x="90.00" y="648.00" text-anchor="start" class="small" style="fill:#18213a">Учебный пример · площадь = годы × вес полезности</text>
+</svg>

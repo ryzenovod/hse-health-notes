@@ -22,6 +22,7 @@ hide:
 
 ## Последние занятия
 
+- **УЭЗ, 7 октября:** [медицинские технологии, QALY, оплата за результат и исследования «случай–контроль»](module-1/vlasov-health-technology-assessment.md).
 - **ЭОС, 6 октября:** [семинар 3 — государство, доходы, Джини и выбор налоговой ставки](year-1/public-sector-economics-seminar-3.md).
 - **Управление организациями, 5 октября:** [ОМС, госгарантии и оплата медицинской помощи](year-1/medical-organizations-oms-and-tariffs.md).
 - **ЭОС, 1 октября:** [роль государства, провалы рынка и перераспределение](year-1/public-sector-economics-market-failures-redistribution.md).
