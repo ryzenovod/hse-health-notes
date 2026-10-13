@@ -9,6 +9,10 @@ description: Теория с графиками, задачи с решения�
 
 ## Новые занятия и разборы
 
+- [Лекция 8 октября — общественные расходы, здравоохранение и образование](public-sector-economics-spending-health-education.md).
+- [Семинар №4 — семь задач с решениями](public-sector-economics-seminar-4.md).
+- [Лоренц и справедливость — новые материалы к семинару №3](public-sector-economics-welfare-supplement.md).
+
 - [Семинар 3 — 6 октября](public-sector-economics-seminar-3.md): девять заданий; подробные вычисления доходов, Джини и справедливой налоговой ставки.
 - [Роль государства и перераспределение — 1 октября](public-sector-economics-market-failures-redistribution.md): конспект презентации и обсуждения, примеры и расчёты.
 - [Налоговый семинар — задачи № 12–22](public-sector-economics-tax-seminar.md): пошаговые решения, перерисованные графики и численный пример налога.
