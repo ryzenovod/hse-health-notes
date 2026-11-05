@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 410" role="img" aria-labelledby="title desc">
+<title id="title">Цепочка кадрового планирования медицинской организации</title><desc id="desc">От демографического анализа прикрепленного населения к штатному расписанию и бюджету ФОТ.</desc>
+<style>text{font-family:Inter,system-ui,-apple-system,sans-serif;fill:#18213a;font-size:16px} .small{font-size:14px;fill:#54627a} .heading{font-size:21px;font-weight:700} .bold{font-weight:600}</style>
+<rect width="760" height="410" rx="12" fill="#fff"/>
+<text x="32.00" y="40.00" text-anchor="start" class="heading" style="fill:#18213a">Цепочка кадрового планирования медицинской организации</text>
+<text x="32.00" y="68.00" text-anchor="start" class="small" style="fill:#18213a">Алгоритм перехода от потребностей жителей к штатным единицам и расходам ПФХД</text>
+<rect x="32.00" y="95.00" width="160.00" height="42.00" rx="6" fill="#3859b5"/>
+<text x="44.00" y="121.00" text-anchor="start" class="bold" style="font-size:13px;fill:#fff">1. Население</text>
+<rect x="204.00" y="95.00" width="524.00" height="42.00" rx="6" fill="#f5f6ff" stroke="#3859b5" stroke-width="1"/>
+<text x="220.00" y="121.00" text-anchor="start" class="" style="font-size:13px;fill:#18213a">Численность, пол, возраст (0–4 и 55+), профиль заболеваемости</text>
+<path d="M112.000,137.000 L112.000,150.000" fill="none" stroke="#3859b5" stroke-width="2"/>
+<rect x="32.00" y="150.00" width="160.00" height="42.00" rx="6" fill="#178477"/>
+<text x="44.00" y="176.00" text-anchor="start" class="bold" style="font-size:13px;fill:#fff">2. Инфраструктура</text>
+<rect x="204.00" y="150.00" width="524.00" height="42.00" rx="6" fill="#f5f6ff" stroke="#178477" stroke-width="1"/>
+<text x="220.00" y="176.00" text-anchor="start" class="" style="font-size:13px;fill:#18213a">Мощность объектов («домиков»), койки, визиты в смену, ФАПы</text>
+<path d="M112.000,192.000 L112.000,205.000" fill="none" stroke="#178477" stroke-width="2"/>
+<rect x="32.00" y="205.00" width="160.00" height="42.00" rx="6" fill="#6a3cbc"/>
+<text x="44.00" y="231.00" text-anchor="start" class="bold" style="font-size:13px;fill:#fff">3. Параметры помощи</text>
+<rect x="204.00" y="205.00" width="524.00" height="42.00" rx="6" fill="#f5f6ff" stroke="#6a3cbc" stroke-width="1"/>
+<text x="220.00" y="231.00" text-anchor="start" class="" style="font-size:13px;fill:#18213a">3 формы (экстренная/неотложная/плановая), 4 вида, 4 условия</text>
+<path d="M112.000,247.000 L112.000,260.000" fill="none" stroke="#6a3cbc" stroke-width="2"/>
+<rect x="32.00" y="260.00" width="160.00" height="42.00" rx="6" fill="#dd5a24"/>
+<text x="44.00" y="286.00" text-anchor="start" class="bold" style="font-size:13px;fill:#fff">4. Нормативы Порядков</text>
+<rect x="204.00" y="260.00" width="524.00" height="42.00" rx="6" fill="#f5f6ff" stroke="#dd5a24" stroke-width="1"/>
+<text x="220.00" y="286.00" text-anchor="start" class="" style="font-size:13px;fill:#18213a">Более 90 порядков медпомощи (напр. 1 уролог на 20 тыс. взр.)</text>
+<path d="M112.000,302.000 L112.000,315.000" fill="none" stroke="#dd5a24" stroke-width="2"/>
+<rect x="32.00" y="315.00" width="160.00" height="42.00" rx="6" fill="#b23b54"/>
+<text x="44.00" y="341.00" text-anchor="start" class="bold" style="font-size:13px;fill:#fff">5. Штаты и ФОТ</text>
+<rect x="204.00" y="315.00" width="524.00" height="42.00" rx="6" fill="#f5f6ff" stroke="#b23b54" stroke-width="1"/>
+<text x="220.00" y="341.00" text-anchor="start" class="" style="font-size:13px;fill:#18213a">Штатное расписание, ставки, совместительство, ФОТ в ПФХД</text>
+<text x="32.00" y="385.00" text-anchor="start" class="small" style="fill:#18213a">Дробные доли ставок (0,25 или 0,5) на уровне отдельной клиники требуют найма целого физлица.</text>
+</svg>

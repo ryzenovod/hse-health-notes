@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" role="img" aria-labelledby="title desc">
+<title id="title">Норматив структуры фонда оплаты труда медорганизации</title><desc id="desc">Соотношение медицинского и административно-управленческого персонала в ФОТ по рекомендациям РТК.</desc>
+<style>text{font-family:Inter,system-ui,-apple-system,sans-serif;fill:#18213a;font-size:16px} .small{font-size:14px;fill:#54627a} .heading{font-size:21px;font-weight:700} .bold{font-weight:600}</style>
+<rect width="760" height="400" rx="12" fill="#fff"/>
+<text x="32.00" y="40.00" text-anchor="start" class="heading" style="fill:#18213a">Норматив структуры фонда оплаты труда медорганизации</text>
+<text x="32.00" y="68.00" text-anchor="start" class="small" style="fill:#18213a">Единые рекомендации Российской трехсторонней комиссии по социально-трудовым отношениям</text>
+<rect x="32.00" y="110.00" width="417.60" height="48.00" rx="6" fill="#3859b5"/>
+<rect x="449.60" y="110.00" width="278.40" height="48.00" rx="6" fill="#dd5a24"/>
+<rect x="445.60" y="110.00" width="8.00" height="48.00" rx="0" fill="#dd5a24"/>
+<text x="240.80" y="140.00" text-anchor="middle" class="bold" style="font-size:14px;fill:#fff">Медицинский персонал: не менее 60% ФОТ</text>
+<text x="588.80" y="140.00" text-anchor="middle" class="bold" style="font-size:13px;fill:#fff">АУП и прочие: не более 40%</text>
+<rect x="32.00" y="185.00" width="417.60" height="165.00" rx="8" fill="#f0f4ff" stroke="#3859b5" stroke-width="2"/>
+<text x="48.00" y="213.00" text-anchor="start" class="bold" style="font-size:15px;fill:#3859b5">Непосредственно лечебный состав</text>
+<text x="48.00" y="241.00" text-anchor="start" class="" style="font-size:13px;fill:#18213a">• Врачи всех специальностей</text>
+<text x="48.00" y="265.00" text-anchor="start" class="" style="font-size:13px;fill:#18213a">• Средний медперсонал (СМП: медсестры, фельдшеры, акушеры)</text>
+<text x="48.00" y="289.00" text-anchor="start" class="" style="font-size:13px;fill:#18213a">• Младший медперсонал (ММП: санитары, младшие медсестры)</text>
+<text x="48.00" y="313.00" text-anchor="start" class="" style="font-size:12px;fill:#54627a">• Немедицинские специалисты (психологи, биологи, эксперты лабораторий)</text>
+<text x="48.00" y="335.00" text-anchor="start" class="bold" style="font-size:11px;fill:#3859b5">Целевой ориентир майских указов: врачи 200%, СМП/ММП 100% средней по региону</text>
+<rect x="461.60" y="185.00" width="266.40" height="165.00" rx="8" fill="#fff5eb" stroke="#dd5a24" stroke-width="2"/>
+<text x="477.60" y="213.00" text-anchor="start" class="bold" style="font-size:15px;fill:#dd5a24">АУП и вспомогательные службы</text>
+<text x="477.60" y="241.00" text-anchor="start" class="" style="font-size:13px;fill:#18213a">• Главный врач и его заместители</text>
+<text x="477.60" y="265.00" text-anchor="start" class="" style="font-size:13px;fill:#18213a">• Бухгалтерия, экономический отдел, юристы</text>
+<text x="477.60" y="289.00" text-anchor="start" class="" style="font-size:13px;fill:#18213a">• Отдел кадров, IT-служба, инженеры</text>
+<text x="477.60" y="313.00" text-anchor="start" class="" style="font-size:13px;fill:#18213a">• Хозяйственные и эксплуатационные службы</text>
+<text x="477.60" y="335.00" text-anchor="start" class="bold" style="font-size:11px;fill:#dd5a24">Превышение 40% лимита — маркер неэффективности</text>
+<text x="32.00" y="380.00" text-anchor="start" class="small" style="fill:#18213a">Заведующие отделениями относятся к АУП, но обычно совмещают ставку врача.</text>
+</svg>

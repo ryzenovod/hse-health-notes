@@ -69,6 +69,8 @@ hide:
 
 [ОМС, госгарантии и тарифы →](medical-organizations-oms-and-tariffs.md)
 
+[ПФХД, кадры и нормирование труда →](medical-organizations-pfhd-and-staffing.md)
+
 [Управление изменениями в здравоохранении →](healthcare-management-and-change.md)
 
 [Управленческие кейсы →](medical-organization-cases.md)
