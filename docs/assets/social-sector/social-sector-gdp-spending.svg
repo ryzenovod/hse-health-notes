@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 490" role="img" aria-labelledby="title desc">
+<title id="title">Расходы на отрасли социальной сферы (% ВВП)</title><desc id="desc">Сравнение масштабов расходов на здравоохранение, образование и соцзащиту в мире и отдельных странах.</desc>
+<style>text{font-family:Inter,system-ui,-apple-system,sans-serif;fill:#18213a;font-size:16px} .small{font-size:14px;fill:#54627a} .heading{font-size:21px;font-weight:700} .bold{font-weight:600}</style>
+<rect width="760" height="490" rx="12" fill="#fff"/>
+<text x="32.00" y="40.00" text-anchor="start" class="heading" style="fill:#18213a">Расходы на отрасли социальной сферы (% ВВП)</text>
+<text x="32.00" y="70.00" text-anchor="start" class="small" style="fill:#18213a">Доли совокупных (гос. + частных) расходов по данным World Bank и ОЭСР</text>
+<path d="M102.000,90.000 L102.000,433.000" fill="none" stroke="#e0e5ee" stroke-width="1" stroke-dasharray="6 6"/>
+<text x="102.00" y="84.00" text-anchor="middle" class="" style="font-size:12px;fill:#54627a">5%</text>
+<path d="M172.000,90.000 L172.000,433.000" fill="none" stroke="#e0e5ee" stroke-width="1" stroke-dasharray="6 6"/>
+<text x="172.00" y="84.00" text-anchor="middle" class="" style="font-size:12px;fill:#54627a">10%</text>
+<path d="M242.000,90.000 L242.000,433.000" fill="none" stroke="#e0e5ee" stroke-width="1" stroke-dasharray="6 6"/>
+<text x="242.00" y="84.00" text-anchor="middle" class="" style="font-size:12px;fill:#54627a">15%</text>
+<path d="M312.000,90.000 L312.000,433.000" fill="none" stroke="#e0e5ee" stroke-width="1" stroke-dasharray="6 6"/>
+<text x="312.00" y="84.00" text-anchor="middle" class="" style="font-size:12px;fill:#54627a">20%</text>
+<path d="M382.000,90.000 L382.000,433.000" fill="none" stroke="#e0e5ee" stroke-width="1" stroke-dasharray="6 6"/>
+<text x="382.00" y="84.00" text-anchor="middle" class="" style="font-size:12px;fill:#54627a">25%</text>
+<path d="M452.000,90.000 L452.000,433.000" fill="none" stroke="#e0e5ee" stroke-width="1" stroke-dasharray="6 6"/>
+<text x="452.00" y="84.00" text-anchor="middle" class="" style="font-size:12px;fill:#54627a">30%</text>
+<text x="32.00" y="116.00" text-anchor="start" class="bold" style="font-size:14px;fill:#18213a">Соцрасходы (Франция, Германия)</text>
+<rect x="32.00" y="124.00" width="371.00" height="20.00" rx="4" fill="#b23b54"/>
+<text x="417.00" y="139.00" text-anchor="start" class="bold" style="font-size:14px;fill:#18213a">25–29% ВВП</text>
+<text x="32.00" y="174.00" text-anchor="start" class="bold" style="font-size:14px;fill:#18213a">Соцрасходы (Великобритания, Россия, Израиль)</text>
+<rect x="32.00" y="182.00" width="196.00" height="20.00" rx="4" fill="#dd5a24"/>
+<text x="242.00" y="197.00" text-anchor="start" class="bold" style="font-size:14px;fill:#18213a">13–15% ВВП</text>
+<text x="32.00" y="232.00" text-anchor="start" class="bold" style="font-size:14px;fill:#18213a">Здравоохранение: страны с высоким доходом</text>
+<rect x="32.00" y="240.00" width="161.00" height="20.00" rx="4" fill="#3859b5"/>
+<text x="207.00" y="255.00" text-anchor="start" class="bold" style="font-size:14px;fill:#18213a">~11–12% ВВП</text>
+<text x="32.00" y="290.00" text-anchor="start" class="bold" style="font-size:14px;fill:#18213a">Здравоохранение: среднемировой уровень</text>
+<rect x="32.00" y="298.00" width="140.00" height="20.00" rx="4" fill="#178477"/>
+<text x="186.00" y="313.00" text-anchor="start" class="bold" style="font-size:14px;fill:#18213a">~10% ВВП</text>
+<text x="32.00" y="348.00" text-anchor="start" class="bold" style="font-size:14px;fill:#18213a">Здравоохранение: низкий и средний доход</text>
+<rect x="32.00" y="356.00" width="63.00" height="20.00" rx="4" fill="#6a3cbc"/>
+<text x="109.00" y="371.00" text-anchor="start" class="bold" style="font-size:14px;fill:#18213a">3,5–5% ВВП</text>
+<text x="32.00" y="406.00" text-anchor="start" class="bold" style="font-size:14px;fill:#18213a">Образование: государственные расходы в мире</text>
+<rect x="32.00" y="414.00" width="56.00" height="20.00" rx="4" fill="#3f51b5"/>
+<text x="102.00" y="429.00" text-anchor="start" class="bold" style="font-size:14px;fill:#18213a">3,5–4,5% ВВП</text>
+<text x="32.00" y="465.00" text-anchor="start" class="small" style="fill:#18213a">Совокупно отрасли социальной сферы в развитых странах аккумулируют не менее 30–35% ВВП</text>
+</svg>

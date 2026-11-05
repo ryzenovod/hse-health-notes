@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" role="img" aria-labelledby="title desc">
+<title id="title">Структура учреждений госсектора в России (Минфин РФ)</title><desc id="desc">Распределение государственных и муниципальных учреждений по типам: БУ, КУ, АУ.</desc>
+<style>text{font-family:Inter,system-ui,-apple-system,sans-serif;fill:#18213a;font-size:16px} .small{font-size:14px;fill:#54627a} .heading{font-size:21px;font-weight:700} .bold{font-weight:600}</style>
+<rect width="760" height="400" rx="12" fill="#fff"/>
+<text x="32.00" y="40.00" text-anchor="start" class="heading" style="fill:#18213a">Структура учреждений госсектора в России (Минфин РФ)</text>
+<text x="32.00" y="68.00" text-anchor="start" class="small" style="fill:#18213a">Всего в РФ: 178,8 тыс. учреждений (по закону № 83-ФЗ)</text>
+<rect x="32.00" y="95.00" width="216.00" height="240.00" rx="8" fill="#f5f6ff" stroke="#3859b5" stroke-width="2"/>
+<rect x="32.00" y="95.00" width="216.00" height="42.00" rx="8" fill="#3859b5"/>
+<rect x="32.00" y="125.00" width="216.00" height="12.00" rx="0" fill="#3859b5"/>
+<text x="140.00" y="121.00" text-anchor="middle" class="bold" style="font-size:15px;fill:#fff">Бюджетные (БУ)</text>
+<text x="140.00" y="175.00" text-anchor="middle" class="heading" style="font-size:24px;fill:#18213a">118,2 тыс.</text>
+<text x="140.00" y="205.00" text-anchor="middle" class="bold" style="font-size:16px;fill:#3859b5">доля: 66,1%</text>
+<text x="44.00" y="240.00" text-anchor="start" class="" style="font-size:12px;fill:#54627a">• Субсидии на госзадание</text>
+<text x="44.00" y="260.00" text-anchor="start" class="" style="font-size:12px;fill:#54627a">• закупки по 44-ФЗ и 223-ФЗ</text>
+<text x="44.00" y="280.00" text-anchor="start" class="" style="font-size:12px;fill:#54627a">• счета в казначействе</text>
+<rect x="272.00" y="95.00" width="216.00" height="240.00" rx="8" fill="#f5f6ff" stroke="#dd5a24" stroke-width="2"/>
+<rect x="272.00" y="95.00" width="216.00" height="42.00" rx="8" fill="#dd5a24"/>
+<rect x="272.00" y="125.00" width="216.00" height="12.00" rx="0" fill="#dd5a24"/>
+<text x="380.00" y="121.00" text-anchor="middle" class="bold" style="font-size:15px;fill:#fff">Казенные (КУ)</text>
+<text x="380.00" y="175.00" text-anchor="middle" class="heading" style="font-size:24px;fill:#18213a">49,1 тыс.</text>
+<text x="380.00" y="205.00" text-anchor="middle" class="bold" style="font-size:16px;fill:#dd5a24">доля: 27,5%</text>
+<text x="284.00" y="240.00" text-anchor="start" class="" style="font-size:12px;fill:#54627a">• Строгая постатейная смета</text>
+<text x="284.00" y="260.00" text-anchor="start" class="" style="font-size:12px;fill:#54627a">• доходы в бюджет</text>
+<text x="284.00" y="280.00" text-anchor="start" class="" style="font-size:12px;fill:#54627a">• субсидиарная ответственность</text>
+<rect x="512.00" y="95.00" width="216.00" height="240.00" rx="8" fill="#f5f6ff" stroke="#178477" stroke-width="2"/>
+<rect x="512.00" y="95.00" width="216.00" height="42.00" rx="8" fill="#178477"/>
+<rect x="512.00" y="125.00" width="216.00" height="12.00" rx="0" fill="#178477"/>
+<text x="620.00" y="121.00" text-anchor="middle" class="bold" style="font-size:15px;fill:#fff">Автономные (АУ)</text>
+<text x="620.00" y="175.00" text-anchor="middle" class="heading" style="font-size:24px;fill:#18213a">11,5 тыс.</text>
+<text x="620.00" y="205.00" text-anchor="middle" class="bold" style="font-size:16px;fill:#178477">доля: 6,4%</text>
+<text x="524.00" y="240.00" text-anchor="start" class="" style="font-size:12px;fill:#54627a">• Субсидии</text>
+<text x="524.00" y="260.00" text-anchor="start" class="" style="font-size:12px;fill:#54627a">• счета в банках</text>
+<text x="524.00" y="280.00" text-anchor="start" class="" style="font-size:12px;fill:#54627a">• закупки по 223-ФЗ</text>
+<text x="524.00" y="300.00" text-anchor="start" class="" style="font-size:12px;fill:#54627a">• Наблюдательный совет</text>
+<text x="32.00" y="375.00" text-anchor="start" class="small" style="fill:#18213a">Реформа 83-ФЗ перевела большую часть учреждений (БУ и АУ) на модель субсидий взамен смет.</text>
+</svg>

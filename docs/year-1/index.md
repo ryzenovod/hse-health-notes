@@ -51,11 +51,13 @@ hide:
 </article>
 
 <article class="course-card" markdown>
-<span class="status-badge">Карта курса</span>
+<span class="status-badge status-badge--ready">Карта + конспект</span>
 
 ### Управление и экономика социальной сферы
 
 [Открыть раздел →](social-sector.md)
+
+[Понятие и организационные формы социальной сферы →](social-sector-intro-and-organizations.md)
 </article>
 
 <article class="course-card" markdown>

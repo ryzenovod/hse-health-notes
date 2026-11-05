@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 430" role="img" aria-labelledby="title desc">
+<title id="title">Модель управления английским больничным трастом (NHS Trust)</title><desc id="desc">Схема разделения полномочий и общественного контроля в автономной медицинской организации.</desc>
+<style>text{font-family:Inter,system-ui,-apple-system,sans-serif;fill:#18213a;font-size:16px} .small{font-size:14px;fill:#54627a} .heading{font-size:21px;font-weight:700} .bold{font-weight:600}</style>
+<rect width="760" height="430" rx="12" fill="#fff"/>
+<text x="32.00" y="40.00" text-anchor="start" class="heading" style="fill:#18213a">Модель управления английским больничным трастом (NHS Trust)</text>
+<text x="32.00" y="68.00" text-anchor="start" class="small" style="fill:#18213a">Замена прямого бюрократического контроля институтом общественного представительства</text>
+<rect x="230.00" y="95.00" width="300.00" height="52.00" rx="6" fill="#3859b5"/>
+<text x="380.00" y="118.00" text-anchor="middle" class="bold" style="font-size:13px;fill:#fff">Госсекретарь (Министр) здравоохранения</text>
+<text x="380.00" y="136.00" text-anchor="middle" class="" style="font-size:11px;fill:#e0e5ee">Назначает председателя совета директоров</text>
+<path d="M380.000,147.000 L380.000,180.000" fill="none" stroke="#3859b5" stroke-width="2"/>
+<rect x="130.00" y="180.00" width="500.00" height="85.00" rx="8" fill="#eef1fa" stroke="#3859b5" stroke-width="2"/>
+<text x="380.00" y="204.00" text-anchor="middle" class="bold" style="font-size:14px;fill:#3859b5">Совет директоров: Общественное представительство</text>
+<text x="380.00" y="226.00" text-anchor="middle" class="" style="font-size:12px;fill:#18213a">• Председатель совета (статусное лицо, не сотрудник траста)</text>
+<text x="380.00" y="246.00" text-anchor="middle" class="" style="font-size:12px;fill:#18213a">• До 5 внешних неисполнительных директоров (профессора, эксперты, аудиторы)</text>
+<path d="M380.000,265.000 L380.000,300.000" fill="none" stroke="#178477" stroke-width="2"/>
+<text x="395.00" y="287.00" text-anchor="start" class="" style="font-size:11px;fill:#54627a">нанимает и контролирует</text>
+<rect x="160.00" y="300.00" width="440.00" height="75.00" rx="8" fill="#e6f4f1" stroke="#178477" stroke-width="2"/>
+<text x="380.00" y="325.00" text-anchor="middle" class="bold" style="font-size:14px;fill:#178477">Исполнительные директора (Менеджеры траста)</text>
+<text x="380.00" y="345.00" text-anchor="middle" class="" style="font-size:12px;fill:#18213a">Генеральный директор, главный врач, финансовый директор</text>
+<text x="380.00" y="363.00" text-anchor="middle" class="" style="font-size:11px;fill:#54627a">Оперативное управление глобальным бюджетом, штатом и активами</text>
+<text x="32.00" y="410.00" text-anchor="start" class="small" style="fill:#18213a">При неэффективной работе совет директоров может досрочно расторгнуть контракт с топ-менеджментом.</text>
+</svg>

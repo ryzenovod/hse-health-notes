@@ -78,7 +78,9 @@ nav:
               - "Власов: медицинские технологии, QALY и случай–контроль": module-1/vlasov-health-technology-assessment.md
           - Правовое обеспечение: year-1/legal-healthcare.md
           - Теория госуправления: year-1/public-administration.md
-          - Управление социальной сферой: year-1/social-sector.md
+          - Управление социальной сферой:
+              - Карта курса: year-1/social-sector.md
+              - Понятие и организационные формы: year-1/social-sector-intro-and-organizations.md
           - Медицинские и страховые организации:
               - Карта курса: year-1/medical-organizations.md
               - ОМС, госгарантии и тарифы: year-1/medical-organizations-oms-and-tariffs.md
