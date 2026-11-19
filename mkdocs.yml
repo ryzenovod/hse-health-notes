@@ -82,7 +82,9 @@ nav:
           - Управление социальной сферой:
               - Карта курса: year-1/social-sector.md
               - Понятие и организационные формы: year-1/social-sector-intro-and-organizations.md
-              - Социальное страхование и пенсионные системы: year-1/social-sector-kolosnitsyna-social-insurance-and-pensions.md
+              - "Основы социального страхования (1-я пара)": year-1/social-sector-kolosnitsyna-social-insurance.md
+              - "Пенсионные системы (2-я пара)": year-1/social-sector-kolosnitsyna-pensions.md
+              - "Сводный конспект блока": year-1/social-sector-kolosnitsyna-social-insurance-and-pensions.md
               - Экономические отношения и финансирование здравоохранения: year-1/social-sector-shishkin-healthcare-economics-and-financing.md
           - Медицинские и страховые организации:
               - Карта курса: year-1/medical-organizations.md
