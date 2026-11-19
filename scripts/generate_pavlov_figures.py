@@ -314,8 +314,144 @@ def generate_leadership_triad_figure():
     s.save("leadership-system-triad.svg")
 
 
+def generate_semmelweis_triad_figure():
+    s = SVG(
+        "Драма доктора Земмельвейса: три опоры внедрения инноваций",
+        "Почему даже безупречная доказанность гибнет без культуры диалога и поддержки институтов.",
+        w=760, h=470
+    )
+    s.text(32, 66, "Формула Павлова: мало быть правым по цифрам — инновация требует эмпатии и институтов", cls='small')
+
+    # Connecting triangle lines in the background
+    s.line(380, 140, 200, 270, color=GRID, width=3, dash=True)
+    s.line(380, 140, 560, 270, color=GRID, width=3, dash=True)
+    s.line(200, 290, 560, 290, color=GRID, width=3, dash=True)
+
+    # Center Hub badge
+    s.rect(325, 205, 110, 26, fill='#fff', rx=13, stroke=MUTED, stroke_width=1)
+    s.text(380, 222, "БАЛАНС 3 ОПОР", color=INK, anchor='middle', cls='bold', size=10)
+
+    # 1. Top Card: Facts & Data (Green / Success)
+    s.rect(200, 90, 360, 90, fill='#f0fdf4', rx=8, stroke=TEAL, stroke_width=1.5)
+    s.rect(212, 102, 185, 24, fill=TEAL, rx=6)
+    s.text(304, 118, "1. ФАКТЫ И ДАННЫЕ (Hard Data)", color='#fff', anchor='middle', cls='bold', size=10)
+    s.rect(435, 102, 112, 24, fill='#dcfce7', rx=6, stroke=TEAL, stroke_width=1)
+    s.text(491, 118, "УСПЕХ: ДОКАЗАНО", color=TEAL, anchor='middle', cls='bold', size=9.5)
+    s.text(214, 145, "• Смертность рожениц снижена с 18% до менее 1%", color=INK, size=10.5)
+    s.text(214, 163, "• Обработка рук хлорной водой: строгая статистика клиники", color=MUTED, size=10)
+
+    # 2. Bottom Left Card: Soft Skills & Communication (Red / Failure)
+    s.rect(32, 246, 335, 102, fill='#fff5f5', rx=8, stroke=RED, stroke_width=1.5)
+    s.rect(44, 258, 175, 24, fill=RED, rx=6)
+    s.text(131, 274, "2. КОММУНИКАЦИЯ (Soft Skills)", color='#fff', anchor='middle', cls='bold', size=10)
+    s.rect(238, 258, 116, 24, fill='#fee2e2', rx=6, stroke=RED, stroke_width=1)
+    s.text(296, 274, "ПРОВАЛ: АГРЕССИЯ", color=RED, anchor='middle', cls='bold', size=9.5)
+    s.text(46, 300, "• Публично называл профессоров «убийцами матерей»", color=INK, size=10)
+    s.text(46, 318, "• Высокомерный тон, отказ от академического диалога", color=MUTED, size=9.8)
+    s.text(46, 336, "• Полная изоляция от коллег и отсутствие союзников", color=MUTED, size=9.8)
+
+    # 3. Bottom Right Card: Institutions & Governance (Red / Failure)
+    s.rect(393, 246, 335, 102, fill='#fff5f5', rx=8, stroke=RED, stroke_width=1.5)
+    s.rect(405, 258, 175, 24, fill=RED, rx=6)
+    s.text(492, 274, "3. ИНСТИТУТЫ (Governance)", color='#fff', anchor='middle', cls='bold', size=10)
+    s.rect(599, 258, 116, 24, fill='#fee2e2', rx=6, stroke=RED, stroke_width=1)
+    s.text(657, 274, "ОТТОРЖЕНИЕ СРЕДОЙ", color=RED, anchor='middle', cls='bold', size=9)
+    s.text(407, 300, "• Теория микробов еще не открыта (до работ Пастера)", color=INK, size=10)
+    s.text(407, 318, "• Отсутствие поддержки руководства больницы и норм", color=MUTED, size=9.8)
+    s.text(407, 336, "• Финал: травля, увольнение и гибель в психбольнице", color=MUTED, size=9.8)
+
+    # Bottom Takeaway box
+    s.rect(32, 368, 696, 68, fill='#fff9e6', rx=8, stroke='#e6b800', stroke_width=1)
+    s.text(380, 392, "Управленческий закон инноваций: Результат = Данные × Эмпатия × Институты", color='#997a00', anchor='middle', cls='bold', size=11.5)
+    s.text(380, 410, "Если хотя бы один множитель равен нулю — инновация отторгается корпоративной средой.", color=INK, anchor='middle', size=10.5)
+    s.text(380, 426, "Одной лишь правоты по цифрам недостаточно: лидер обязан инвестировать в диалог и институционализацию.", color=MUTED, anchor='middle', size=10)
+
+    s.save("semmelweis-innovation-triad.svg")
+
+
+def generate_ted_lasso_figure():
+    s = SVG(
+        "Модель эмпатичного лидерства: уроки сериала «Тед Лассо»",
+        "Как вера в команду, неформальное доверие и внимание к деталям создают победную культуру.",
+        w=760, h=470
+    )
+    s.text(32, 66, "Инструменты мягкой силы лидера: от утреннего печенья до психологической безопасности", cls='small')
+
+    # Top Center Banner: BELIEVE Poster
+    s.rect(260, 90, 240, 52, fill='#fbc02d', rx=8, stroke='#f57f17', stroke_width=2)
+    s.text(380, 122, "BELIEVE", color='#0d47a1', anchor='middle', cls='heading', size=24)
+    s.text(380, 136, "Вера в потенциал команды и право на ошибку", color='#1565c0', anchor='middle', size=9.5)
+
+    # Connecting tree lines
+    s.line(380, 142, 142, 172, color='#fbc02d', width=2)
+    s.line(380, 142, 380, 172, color='#fbc02d', width=2)
+    s.line(380, 142, 618, 172, color='#fbc02d', width=2)
+
+    # 3 Column Cards
+    col_w = 220
+    col_h = 168
+
+    # 1. Coach Beard
+    s.rect(32, 172, col_w, col_h, fill='#f8fbff', rx=8, stroke='#1976d2', stroke_width=1.5)
+    s.rect(32, 172, col_w, 40, fill='#1976d2', rx=8)
+    s.rect(32, 198, col_w, 14, fill='#1976d2', rx=0)
+    s.text(142, 190, "Тренер Бирд (Coach Beard)", color='#fff', anchor='middle', cls='bold', size=11)
+    s.text(142, 204, "Системный балансир", color='#bbdefb', anchor='middle', size=9.5)
+
+    beard_pts = [
+        "• Тихий стратег за спиной лидера",
+        "• Знание правил и регламентов",
+        "• Холодный расчет без паники",
+        "• Балансирует эмоции команды"
+    ]
+    for i, pt in enumerate(beard_pts):
+        s.text(42, 230 + i * 26, pt, color=INK, size=10)
+
+    # 2. Biscuits with the Boss
+    s.rect(270, 172, col_w, col_h, fill='#f6fbf7', rx=8, stroke='#2e7d32', stroke_width=1.5)
+    s.rect(270, 172, col_w, 40, fill='#2e7d32', rx=8)
+    s.rect(270, 198, col_w, 14, fill='#2e7d32', rx=0)
+    s.text(380, 190, "Печенье с боссом (Biscuits)", color='#fff', anchor='middle', cls='bold', size=11)
+    s.text(380, 204, "Культура неформального доверия", color='#c8e6c9', anchor='middle', size=9.5)
+
+    bisc_pts = [
+        "• 15 минут в день без повесток",
+        "• Разрушение барьера власти",
+        "• Искренний интерес к человеку",
+        "• Гашение конфликтов на старте"
+    ]
+    for i, pt in enumerate(bisc_pts):
+        s.text(280, 230 + i * 26, pt, color=INK, size=10)
+
+    # 3. Nate the Great
+    s.rect(508, 172, col_w, col_h, fill='#fdf6f9', rx=8, stroke='#c2185b', stroke_width=1.5)
+    s.rect(508, 172, col_w, 40, fill='#c2185b', rx=8)
+    s.rect(508, 198, col_w, 14, fill='#c2185b', rx=0)
+    s.text(618, 190, "Трагедия Нейта (Nate)", color='#fff', anchor='middle', cls='bold', size=11)
+    s.text(618, 204, "Цена невнимания к талантам", color='#f8bbd0', anchor='middle', size=9.5)
+
+    nate_pts = [
+        "• Недооценка скромного ума",
+        "• Дефицит признания ранит эго",
+        "• Затаенная обида рождает яд",
+        "• Забота о невидимых героях"
+    ]
+    for i, pt in enumerate(nate_pts):
+        s.text(518, 230 + i * 26, pt, color=INK, size=10)
+
+    # Bottom Takeaway box
+    s.rect(32, 360, 696, 68, fill='#f0f7ff', rx=8, stroke=BLUE, stroke_width=1)
+    s.text(380, 384, "Принцип Уолта Уитмена: «Be curious, not judgmental» (Будь любознательным, а не осуждающим)", color=BLUE, anchor='middle', cls='bold', size=11.5)
+    s.text(380, 402, "При ошибке сотрудника лидер выясняет системную причину сбоя, вместо крика и поиска виновных.", color=INK, anchor='middle', size=10.5)
+    s.text(380, 418, "Побеждает культура психологической безопасности, а не страх репрессий.", color=MUTED, anchor='middle', size=10)
+
+    s.save("ted-lasso-leadership-model.svg")
+
+
 if __name__ == '__main__':
     generate_iceberg_figure()
     generate_digitalization_figure()
     generate_how_the_mighty_fall_figure()
     generate_leadership_triad_figure()
+    generate_semmelweis_triad_figure()
+    generate_ted_lasso_figure()

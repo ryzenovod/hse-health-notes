@@ -13,6 +13,8 @@ class PavlovFiguresTests(unittest.TestCase):
             "digitalization-babylon-vs-emias.svg",
             "how-the-mighty-fall-stages.svg",
             "leadership-system-triad.svg",
+            "semmelweis-innovation-triad.svg",
+            "ted-lasso-leadership-model.svg",
         ]
         for filename in expected_files:
             path = SVGS_DIR / filename

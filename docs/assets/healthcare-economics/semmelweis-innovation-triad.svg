@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 470" role="img" aria-labelledby="title desc">
+<title id="title">Драма доктора Земмельвейса: три опоры внедрения инноваций</title><desc id="desc">Почему даже безупречная доказанность гибнет без культуры диалога и поддержки институтов.</desc>
+<style>text{font-family:Inter,system-ui,-apple-system,sans-serif;fill:#18213a;font-size:15px} .small{font-size:13px;fill:#54627a} .heading{font-size:20px;font-weight:700} .bold{font-weight:600}</style>
+<rect width="760" height="470" rx="12" fill="#fff"/>
+<text x="32.00" y="40.00" text-anchor="start" class="heading" style="fill:#18213a">Драма доктора Земмельвейса: три опоры внедрения инноваций</text>
+<text x="32.00" y="66.00" text-anchor="start" class="small" style="fill:#18213a">Формула Павлова: мало быть правым по цифрам — инновация требует эмпатии и институтов</text>
+<path d="M380.000,140.000 L200.000,270.000" fill="none" stroke="#e0e5ee" stroke-width="3" stroke-dasharray="6 6"/>
+<path d="M380.000,140.000 L560.000,270.000" fill="none" stroke="#e0e5ee" stroke-width="3" stroke-dasharray="6 6"/>
+<path d="M200.000,290.000 L560.000,290.000" fill="none" stroke="#e0e5ee" stroke-width="3" stroke-dasharray="6 6"/>
+<rect x="325.00" y="205.00" width="110.00" height="26.00" rx="13" fill="#fff" stroke="#54627a" stroke-width="1"/>
+<text x="380.00" y="222.00" text-anchor="middle" class="bold" style="font-size:10px;fill:#18213a">БАЛАНС 3 ОПОР</text>
+<rect x="200.00" y="90.00" width="360.00" height="90.00" rx="8" fill="#f0fdf4" stroke="#178477" stroke-width="1.5"/>
+<rect x="212.00" y="102.00" width="185.00" height="24.00" rx="6" fill="#178477"/>
+<text x="304.00" y="118.00" text-anchor="middle" class="bold" style="font-size:10px;fill:#fff">1. ФАКТЫ И ДАННЫЕ (Hard Data)</text>
+<rect x="435.00" y="102.00" width="112.00" height="24.00" rx="6" fill="#dcfce7" stroke="#178477" stroke-width="1"/>
+<text x="491.00" y="118.00" text-anchor="middle" class="bold" style="font-size:9.5px;fill:#178477">УСПЕХ: ДОКАЗАНО</text>
+<text x="214.00" y="145.00" text-anchor="start" class="" style="font-size:10.5px;fill:#18213a">• Смертность рожениц снижена с 18% до менее 1%</text>
+<text x="214.00" y="163.00" text-anchor="start" class="" style="font-size:10px;fill:#54627a">• Обработка рук хлорной водой: строгая статистика клиники</text>
+<rect x="32.00" y="246.00" width="335.00" height="102.00" rx="8" fill="#fff5f5" stroke="#b23b54" stroke-width="1.5"/>
+<rect x="44.00" y="258.00" width="175.00" height="24.00" rx="6" fill="#b23b54"/>
+<text x="131.00" y="274.00" text-anchor="middle" class="bold" style="font-size:10px;fill:#fff">2. КОММУНИКАЦИЯ (Soft Skills)</text>
+<rect x="238.00" y="258.00" width="116.00" height="24.00" rx="6" fill="#fee2e2" stroke="#b23b54" stroke-width="1"/>
+<text x="296.00" y="274.00" text-anchor="middle" class="bold" style="font-size:9.5px;fill:#b23b54">ПРОВАЛ: АГРЕССИЯ</text>
+<text x="46.00" y="300.00" text-anchor="start" class="" style="font-size:10px;fill:#18213a">• Публично называл профессоров «убийцами матерей»</text>
+<text x="46.00" y="318.00" text-anchor="start" class="" style="font-size:9.8px;fill:#54627a">• Высокомерный тон, отказ от академического диалога</text>
+<text x="46.00" y="336.00" text-anchor="start" class="" style="font-size:9.8px;fill:#54627a">• Полная изоляция от коллег и отсутствие союзников</text>
+<rect x="393.00" y="246.00" width="335.00" height="102.00" rx="8" fill="#fff5f5" stroke="#b23b54" stroke-width="1.5"/>
+<rect x="405.00" y="258.00" width="175.00" height="24.00" rx="6" fill="#b23b54"/>
+<text x="492.00" y="274.00" text-anchor="middle" class="bold" style="font-size:10px;fill:#fff">3. ИНСТИТУТЫ (Governance)</text>
+<rect x="599.00" y="258.00" width="116.00" height="24.00" rx="6" fill="#fee2e2" stroke="#b23b54" stroke-width="1"/>
+<text x="657.00" y="274.00" text-anchor="middle" class="bold" style="font-size:9px;fill:#b23b54">ОТТОРЖЕНИЕ СРЕДОЙ</text>
+<text x="407.00" y="300.00" text-anchor="start" class="" style="font-size:10px;fill:#18213a">• Теория микробов еще не открыта (до работ Пастера)</text>
+<text x="407.00" y="318.00" text-anchor="start" class="" style="font-size:9.8px;fill:#54627a">• Отсутствие поддержки руководства больницы и норм</text>
+<text x="407.00" y="336.00" text-anchor="start" class="" style="font-size:9.8px;fill:#54627a">• Финал: травля, увольнение и гибель в психбольнице</text>
+<rect x="32.00" y="368.00" width="696.00" height="68.00" rx="8" fill="#fff9e6" stroke="#e6b800" stroke-width="1"/>
+<text x="380.00" y="392.00" text-anchor="middle" class="bold" style="font-size:11.5px;fill:#997a00">Управленческий закон инноваций: Результат = Данные × Эмпатия × Институты</text>
+<text x="380.00" y="410.00" text-anchor="middle" class="" style="font-size:10.5px;fill:#18213a">Если хотя бы один множитель равен нулю — инновация отторгается корпоративной средой.</text>
+<text x="380.00" y="426.00" text-anchor="middle" class="" style="font-size:10px;fill:#54627a">Одной лишь правоты по цифрам недостаточно: лидер обязан инвестировать в диалог и институционализацию.</text>
+</svg>
