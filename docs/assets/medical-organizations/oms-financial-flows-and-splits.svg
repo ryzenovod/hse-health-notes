@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" role="img" aria-labelledby="title desc">
+<title id="title">Финансовые потоки ОМС и модель амбулаторного финансирования 45% / 55%</title>
+<desc id="desc">Схема движения средств от ФФОМС до клиники и структура амбулаторного тарифа с риском кредиторской задолженности.</desc>
+<style>
+  text { font-family: Inter, system-ui, -apple-system, sans-serif; fill: #18213a; font-size: 13px; }
+  .title { font-size: 19px; font-weight: 700; fill: #18213a; }
+  .subtitle { font-size: 13px; fill: #54627a; }
+  .bold { font-weight: 600; }
+  .small { font-size: 11.5px; fill: #475569; }
+  .arrow { stroke-width: 2; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+</style>
+
+<rect width="760" height="500" rx="12" fill="#ffffff"/>
+
+<!-- Header -->
+<text x="32" y="34" class="title">Финансовые потоки ОМС и модель амбулаторной оплаты «45% / 55%»</text>
+<text x="32" y="56" class="subtitle">Движение субвенций через ТФОМС и СМО, структура амбулаторного тарифа и кассовые разрывы</text>
+
+<!-- TOP PART: FLOW OF FUNDS -->
+<rect x="30" y="75" width="700" height="155" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<rect x="30" y="75" width="700" height="26" rx="8" fill="#3b82f6"/>
+<text x="380" y="93" text-anchor="middle" class="bold" style="fill: #ffffff; font-size: 12px;">Архитектура движения денежных средств в системе ОМС</text>
+
+<!-- Block: FFOMS -->
+<rect x="50" y="115" width="130" height="50" rx="6" fill="#1e40af"/>
+<text x="115" y="137" text-anchor="middle" class="bold" style="fill: #ffffff; font-size: 12px;">ФФОМС</text>
+<text x="115" y="153" text-anchor="middle" style="fill: #bfdbfe; font-size: 10px;">Федеральный фонд</text>
+
+<!-- Arrow FFOMS -> TFOMS -->
+<path d="M 180,140 L 225,140" class="arrow" stroke="#2563eb"/>
+<polygon points="223,136 231,140 223,144" fill="#2563eb"/>
+<text x="205" y="133" text-anchor="middle" class="bold" style="font-size: 9.5px; fill: #2563eb;">Субвенции</text>
+
+<!-- Arrow FFOMS -> FMO (Direct) -->
+<path d="M 115,165 L 115,195 L 600,195 L 600,175" class="arrow" stroke="#94a3b8" stroke-dasharray="4,3"/>
+<polygon points="596,177 600,169 604,177" fill="#94a3b8"/>
+<text x="360" y="210" text-anchor="middle" style="font-size: 9.5px; fill: #64748b;">Прямые договоры на высокотехнологичную и спецпомощь (ФМО)</text>
+
+<!-- Block: TFOMS -->
+<rect x="235" y="115" width="130" height="50" rx="6" fill="#0284c7"/>
+<text x="300" y="137" text-anchor="middle" class="bold" style="fill: #ffffff; font-size: 12px;">ТФОМС</text>
+<text x="300" y="153" text-anchor="middle" style="fill: #e0f2fe; font-size: 10px;">Фонд субъекта РФ</text>
+
+<!-- Arrow TFOMS -> SMO -->
+<path d="M 365,140 L 405,140" class="arrow" stroke="#0284c7"/>
+<polygon points="403,136 411,140 403,144" fill="#0284c7"/>
+<text x="385" y="133" text-anchor="middle" class="bold" style="font-size: 9px; fill: #0284c7;">Подушевик</text>
+
+<!-- Block: SMO -->
+<rect x="415" y="115" width="135" height="50" rx="6" fill="#0f766e"/>
+<text x="482" y="136" text-anchor="middle" class="bold" style="fill: #ffffff; font-size: 12px;">СМО (Страховщики)</text>
+<text x="482" y="152" text-anchor="middle" class="bold" style="fill: #fef08a; font-size: 10px;">РВД = 0,5% (доход СМО)</text>
+
+<!-- Double Arrow SMO <-> MO -->
+<path d="M 550,135 L 585,135" class="arrow" stroke="#0f766e"/>
+<polygon points="583,131 591,135 583,139" fill="#0f766e"/>
+<path d="M 591,145 L 556,145" class="arrow" stroke="#e11d48"/>
+<polygon points="558,141 550,145 558,149" fill="#e11d48"/>
+<text x="568" y="127" text-anchor="middle" class="bold" style="font-size: 8.5px; fill: #0f766e;">Оплата</text>
+<text x="568" y="158" text-anchor="middle" class="bold" style="font-size: 8.5px; fill: #e11d48;">Реестры счетов</text>
+
+<!-- Block: MO -->
+<rect x="595" y="115" width="120" height="50" rx="6" fill="#15803d"/>
+<text x="655" y="137" text-anchor="middle" class="bold" style="fill: #ffffff; font-size: 12px;">МО (Клиника)</text>
+<text x="655" y="153" text-anchor="middle" style="fill: #bbf7d0; font-size: 10px;">Поликлиника / Больница</text>
+
+
+<!-- BOTTOM PART: AMBULATORY SPLIT 45% / 55% AND FINANCIAL TRAP -->
+<rect x="30" y="245" width="700" height="240" rx="8" fill="#fcfcfd" stroke="#cbd5e1" stroke-width="1.5"/>
+<rect x="30" y="245" width="700" height="30" rx="8" fill="#475569"/>
+<text x="380" y="265" text-anchor="middle" class="bold" style="fill: #ffffff; font-size: 13px;">Модель финансирования поликлиники «45% / 55%» и кассовые разрывы</text>
+
+<!-- Component 1: 45% Capitation -->
+<g transform="translate(50, 290)">
+  <rect x="0" y="0" width="190" height="180" rx="6" fill="#eff6ff" stroke="#3b82f6" stroke-width="1.5"/>
+  <rect x="0" y="0" width="190" height="32" rx="6" fill="#3b82f6"/>
+  <text x="95" y="21" text-anchor="middle" class="bold" style="fill: #ffffff; font-size: 12.5px;">Базовый подушевик (~45%)</text>
+  
+  <text x="12" y="52" class="bold" style="font-size: 11px; fill: #1e40af;">Проспективный аванс:</text>
+  <text x="12" y="70" class="small">• Приходит в начале месяца</text>
+  <text x="12" y="87" class="small">• За сам факт прикрепления</text>
+  <text x="12" y="104" class="small">• Покрывает заболевания,</text>
+  <text x="12" y="119" class="small">неотложку, КДЛ</text>
+  
+  <rect x="10" y="135" width="170" height="34" rx="4" fill="#dbeafe"/>
+  <text x="95" y="152" text-anchor="middle" class="bold" style="font-size: 10.5px; fill: #1e40af;">Гарантированная часть</text>
+  <text x="95" y="164" text-anchor="middle" style="font-size: 9px; fill: #475569;">Но её не хватает на весь ФОТ!</text>
+</g>
+
+<!-- Component 2: 55% Preventive Care -->
+<g transform="translate(260, 290)">
+  <rect x="0" y="0" width="200" height="180" rx="6" fill="#f0fdf4" stroke="#16a34a" stroke-width="1.5"/>
+  <rect x="0" y="0" width="200" height="32" rx="6" fill="#16a34a"/>
+  <text x="100" y="21" text-anchor="middle" class="bold" style="fill: #ffffff; font-size: 12.5px;">Диспансеризация (~55%)</text>
+  
+  <text x="12" y="52" class="bold" style="font-size: 11px; fill: #166534;">Ретроспективная оплата:</text>
+  <text x="12" y="70" class="small">• Оплата по факту в конце месяца</text>
+  <text x="12" y="87" class="small">• Зависит от выполнения плана</text>
+  <text x="12" y="104" class="small">• Профосмотры и диспансерное</text>
+  <text x="12" y="119" class="small">наблюдение хроников</text>
+  
+  <rect x="10" y="135" width="180" height="34" rx="4" fill="#dcfce7"/>
+  <text x="100" y="152" text-anchor="middle" class="bold" style="fill: #166534; font-size: 10.5px;">Переменный доход</text>
+  <text x="100" y="164" text-anchor="middle" style="font-size: 9px; fill: #475569;">Нужно зарабатывать ежемесячно</text>
+</g>
+
+<!-- Component 3: The Trap (FOT 75-80% + Debt) -->
+<g transform="translate(480, 290)">
+  <rect x="0" y="0" width="230" height="180" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="1.8"/>
+  <rect x="0" y="0" width="230" height="32" rx="6" fill="#dc2626"/>
+  <text x="115" y="21" text-anchor="middle" class="bold" style="fill: #ffffff; font-size: 12.5px;">Финансовая ловушка</text>
+  
+  <text x="12" y="50" class="bold" style="font-size: 11px; fill: #991b1b;">1. ФОТ = 75–80% бюджета</text>
+  <text x="12" y="65" class="small">Зарплата защищена законом РФ</text>
+  
+  <text x="12" y="85" class="bold" style="font-size: 11px; fill: #991b1b;">2. Срыв плана диспансеризации:</text>
+  <text x="12" y="100" class="small">Пациенты не пришли $\to$ нет 55%</text>
+  
+  <rect x="10" y="115" width="210" height="55" rx="4" fill="#fee2e2" stroke="#fca5a5"/>
+  <text x="115" y="133" text-anchor="middle" class="bold" style="font-size: 11px; fill: #b91c1c;">Кассовый разрыв и долги:</text>
+  <text x="115" y="150" text-anchor="middle" class="bold" style="font-size: 10px; fill: #b91c1c;">Просроченная кредиторская</text>
+  <text x="115" y="162" text-anchor="middle" class="bold" style="font-size: 10px; fill: #b91c1c;">задолженность перед поставщиками</text>
+</g>
+
+</svg>
