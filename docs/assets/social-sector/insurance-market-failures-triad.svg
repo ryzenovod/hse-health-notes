@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 460" role="img" aria-labelledby="title desc">
+<title id="title">Триада изъянов медицинского страхования и механизмы нейтрализации</title>
+<desc id="desc">Три классических провала рынка медицинского страхования: моральный риск, неблагоприятный отбор и селекция рисков.</desc>
+<style>
+  text { font-family: Inter, system-ui, -apple-system, sans-serif; fill: #18213a; font-size: 13px; }
+  .title { font-size: 19px; font-weight: 700; fill: #18213a; }
+  .subtitle { font-size: 13px; fill: #54627a; }
+  .bold { font-weight: 600; }
+  .small { font-size: 11.5px; fill: #475569; }
+</style>
+
+<rect width="760" height="460" rx="12" fill="#ffffff"/>
+
+<!-- Header -->
+<text x="32" y="34" class="title">Изъяны рынка медицинского страхования и механизмы их нейтрализации</text>
+<text x="32" y="56" class="subtitle">Информационная асимметрия, поведенческие искажения и инструменты государственного регулирования</text>
+
+<!-- CARD 1: Moral Hazard -->
+<g transform="translate(30, 85)">
+  <rect x="0" y="0" width="220" height="350" rx="8" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5"/>
+  <rect x="0" y="0" width="220" height="44" rx="8" fill="#ef4444"/>
+  <text x="110" y="27" text-anchor="middle" class="bold" style="fill: #ffffff; font-size: 13.5px;">1. Моральный риск</text>
+  
+  <rect x="12" y="56" width="196" height="30" rx="4" fill="#fee2e2"/>
+  <text x="110" y="75" text-anchor="middle" class="bold" style="fill: #991b1b; font-size: 11px;">Moral Hazard</text>
+  
+  <text x="14" y="108" class="bold" style="font-size: 11.5px; fill: #1e293b;">Суть проблемы:</text>
+  <text x="14" y="126" class="small">Отсутствие прямой платы в</text>
+  <text x="14" y="140" class="small">момент потребления искажает</text>
+  <text x="14" y="154" class="small">ценовой сигнал, провоцируя</text>
+  <text x="14" y="168" class="bold" style="fill: #b91c1c; font-size: 11.5px;">избыточное потребление.</text>
+  
+  <line x1="14" y1="184" x2="206" y2="184" stroke="#fecaca" stroke-width="1"/>
+  
+  <text x="14" y="202" class="bold" style="font-size: 11.5px; fill: #1e293b;">Механизмы защиты:</text>
+  <text x="14" y="222" class="small">• Соплатежи пациентов (Co-pay)</text>
+  <text x="14" y="242" class="small">• Франшиза (Deductible)</text>
+  <text x="14" y="262" class="small">• Фильтр врача общей практики</text>
+  <text x="24" y="276" class="small">(Gatekeeping)</text>
+  <text x="14" y="296" class="small">• Листы ожидания (рационирование)</text>
+  <text x="14" y="316" class="small">• Экспертный аудит счетов СМО</text>
+</g>
+
+<!-- CARD 2: Adverse Selection -->
+<g transform="translate(270, 85)">
+  <rect x="0" y="0" width="220" height="350" rx="8" fill="#fffbeb" stroke="#f59e0b" stroke-width="1.5"/>
+  <rect x="0" y="0" width="220" height="44" rx="8" fill="#f59e0b"/>
+  <text x="110" y="27" text-anchor="middle" class="bold" style="fill: #ffffff; font-size: 13.5px;">2. Неблагоприятный отбор</text>
+  
+  <rect x="12" y="56" width="196" height="30" rx="4" fill="#fef3c7"/>
+  <text x="110" y="75" text-anchor="middle" class="bold" style="fill: #92400e; font-size: 11px;">Adverse Selection</text>
+  
+  <text x="14" y="108" class="bold" style="font-size: 11.5px; fill: #1e293b;">Суть проблемы:</text>
+  <text x="14" y="126" class="small">Информационный перевес застра-</text>
+  <text x="14" y="140" class="small">хованного: больные охотно берут</text>
+  <text x="14" y="154" class="small">полис, здоровые выходят. Запуск</text>
+  <text x="14" y="168" class="bold" style="fill: #b45309; font-size: 11.5px;">«страховой спирали смерти».</text>
+  
+  <line x1="14" y1="184" x2="206" y2="184" stroke="#fde68a" stroke-width="1"/>
+  
+  <text x="14" y="202" class="bold" style="font-size: 11.5px; fill: #1e293b;">Механизмы защиты:</text>
+  <text x="14" y="222" class="small">• <tspan font-weight="600" fill="#b45309">Обязательное страхование</tspan></text>
+  <text x="24" y="236" class="small">(принудительный единый пул)</text>
+  <text x="14" y="256" class="small">• Страхование больших групп</text>
+  <text x="24" y="270" class="small">(корпоративные контракты)</text>
+  <text x="14" y="290" class="small">• Предварительный чекап здоровья</text>
+  <text x="14" y="310" class="small">• Дифференцированные ставки</text>
+</g>
+
+<!-- CARD 3: Risk Selection / Cream-Skimming -->
+<g transform="translate(510, 85)">
+  <rect x="0" y="0" width="220" height="350" rx="8" fill="#f0fdf4" stroke="#16a34a" stroke-width="1.5"/>
+  <rect x="0" y="0" width="220" height="44" rx="8" fill="#16a34a"/>
+  <text x="110" y="27" text-anchor="middle" class="bold" style="fill: #ffffff; font-size: 13.5px;">3. Селекция рисков</text>
+  
+  <rect x="12" y="56" width="196" height="30" rx="4" fill="#dcfce7"/>
+  <text x="110" y="75" text-anchor="middle" class="bold" style="fill: #166534; font-size: 11px;">Risk Selection / Cream-Skimming</text>
+  
+  <text x="14" y="108" class="bold" style="font-size: 11.5px; fill: #1e293b;">Суть проблемы:</text>
+  <text x="14" y="126" class="small">Страховщик отбирает «хорошие»</text>
+  <text x="14" y="140" class="small">риски (молодых, здоровых) и</text>
+  <text x="14" y="154" class="small">избавляется от «плохих» (хроников),</text>
+  <text x="14" y="168" class="bold" style="fill: #15803d; font-size: 11.5px;">разрушая солидарность.</text>
+  
+  <line x1="14" y1="184" x2="206" y2="184" stroke="#bbf7d0" stroke-width="1"/>
+  
+  <text x="14" y="202" class="bold" style="font-size: 11.5px; fill: #1e293b;">Механизмы защиты:</text>
+  <text x="14" y="222" class="small">• Прямой законодательный запрет</text>
+  <text x="24" y="236" class="small">на отказ в страховке</text>
+  <text x="14" y="256" class="small">• <tspan font-weight="600" fill="#15803d">Система Risk-Adjustment</tspan></text>
+  <text x="24" y="270" class="small">(выравнивание рисков между</text>
+  <text x="24" y="284" class="small">фондами: Германия, Нидерланды)</text>
+  <text x="14" y="304" class="small">• Субсидии государства за хроников</text>
+</g>
+
+</svg>

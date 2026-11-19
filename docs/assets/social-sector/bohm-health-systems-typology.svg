@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 490" role="img" aria-labelledby="title desc">
+<title id="title">Типология систем здравоохранения стран ОЭСР (Böhm et al., 2012)</title>
+<desc id="desc">Классификация 5 базовых моделей здравоохранения по доминирующему типу актора в сферах предоставления, финансирования и регулирования.</desc>
+<style>
+  text { font-family: Inter, system-ui, -apple-system, sans-serif; fill: #18213a; font-size: 13px; }
+  .title { font-size: 19px; font-weight: 700; fill: #18213a; }
+  .subtitle { font-size: 13px; fill: #54627a; }
+  .bold { font-weight: 600; }
+  .badge-gov { fill: #dbeafe; stroke: #2563eb; color: #1e40af; }
+  .badge-soc { fill: #dcfce7; stroke: #16a34a; color: #166534; }
+  .badge-pvt { fill: #ffedd5; stroke: #ea580c; color: #9a3412; }
+</style>
+
+<rect width="760" height="490" rx="12" fill="#ffffff"/>
+
+<!-- Header -->
+<text x="32" y="34" class="title">Типология систем здравоохранения стран ОЭСР (Böhm et al., 2012)</text>
+<text x="32" y="56" class="subtitle">Матрица классификации по доминирующим акторам: Государство (Гос), Общество (Общ), Частный сектор (Част)</text>
+
+<!-- Legend -->
+<g transform="translate(32, 70)">
+  <rect x="0" y="0" width="120" height="22" rx="4" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="60" y="15" text-anchor="middle" class="bold" style="fill: #1e40af; font-size: 11px;">Государственный</text>
+  
+  <rect x="135" y="0" width="120" height="22" rx="4" fill="#dcfce7" stroke="#16a34a"/>
+  <text x="195" y="15" text-anchor="middle" class="bold" style="fill: #166534; font-size: 11px;">Общественный (НКО)</text>
+  
+  <rect x="270" y="0" width="120" height="22" rx="4" fill="#ffedd5" stroke="#ea580c"/>
+  <text x="330" y="15" text-anchor="middle" class="bold" style="fill: #9a3412; font-size: 11px;">Частный сектор</text>
+</g>
+
+<!-- Table Header -->
+<rect x="30" y="105" width="700" height="32" rx="6" fill="#f1f5f9"/>
+<text x="45" y="126" class="bold" style="font-size: 12px; fill: #475569;">Тип системы</text>
+<text x="245" y="126" class="bold" style="font-size: 12px; fill: #475569;">Услуги</text>
+<text x="335" y="126" class="bold" style="font-size: 12px; fill: #475569;">Финансы</text>
+<text x="430" y="126" class="bold" style="font-size: 12px; fill: #475569;">Регулир.</text>
+<text x="530" y="126" class="bold" style="font-size: 12px; fill: #475569;">Примеры стран</text>
+
+<!-- Row 1: National Health Service -->
+<rect x="30" y="145" width="700" height="60" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="45" y="170" class="bold" style="font-size: 13.5px; fill: #1e293b;">1. Национальная служба</text>
+<text x="45" y="188" class="subtitle" style="font-size: 11.5px;">Модель Бевериджа</text>
+
+<rect x="235" y="160" width="65" height="26" rx="4" fill="#dbeafe" stroke="#2563eb"/>
+<text x="267" y="177" text-anchor="middle" class="bold" style="fill: #1e40af; font-size: 11px;">Гос</text>
+
+<rect x="325" y="160" width="65" height="26" rx="4" fill="#dbeafe" stroke="#2563eb"/>
+<text x="357" y="177" text-anchor="middle" class="bold" style="fill: #1e40af; font-size: 11px;">Гос</text>
+
+<rect x="420" y="160" width="65" height="26" rx="4" fill="#dbeafe" stroke="#2563eb"/>
+<text x="452" y="177" text-anchor="middle" class="bold" style="fill: #1e40af; font-size: 11px;">Гос</text>
+
+<text x="530" y="172" class="bold" style="font-size: 12px;">Великобритания (NHS), Дания,</text>
+<text x="530" y="189" style="font-size: 11.5px; fill: #64748b;">Норвегия, Швеция, Испания, Финляндия</text>
+
+<!-- Row 2: National Health Insurance -->
+<rect x="30" y="213" width="700" height="60" rx="6" fill="#ffffff" stroke="#e2e8f0"/>
+<text x="45" y="238" class="bold" style="font-size: 13.5px; fill: #1e293b;">2. Национальное страхование</text>
+<text x="45" y="256" class="subtitle" style="font-size: 11.5px;">Госстрахование + частные врачи</text>
+
+<rect x="235" y="228" width="65" height="26" rx="4" fill="#ffedd5" stroke="#ea580c"/>
+<text x="267" y="245" text-anchor="middle" class="bold" style="fill: #9a3412; font-size: 11px;">Част</text>
+
+<rect x="325" y="228" width="65" height="26" rx="4" fill="#dbeafe" stroke="#2563eb"/>
+<text x="357" y="245" text-anchor="middle" class="bold" style="fill: #1e40af; font-size: 11px;">Гос</text>
+
+<rect x="420" y="228" width="65" height="26" rx="4" fill="#dbeafe" stroke="#2563eb"/>
+<text x="452" y="245" text-anchor="middle" class="bold" style="fill: #1e40af; font-size: 11px;">Гос</text>
+
+<text x="530" y="240" class="bold" style="font-size: 12px;">Канада (Medicare), Австралия,</text>
+<text x="530" y="257" style="font-size: 11.5px; fill: #64748b;">Италия, Ирландия, Новая Зеландия</text>
+
+<!-- Row 3: Social Health Insurance -->
+<rect x="30" y="281" width="700" height="60" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="45" y="306" class="bold" style="font-size: 13.5px; fill: #1e293b;">3. Социальное страхование</text>
+<text x="45" y="324" class="subtitle" style="font-size: 11.5px;">Классический Бисмарк (больничные кассы)</text>
+
+<rect x="235" y="296" width="65" height="26" rx="4" fill="#ffedd5" stroke="#ea580c"/>
+<text x="267" y="313" text-anchor="middle" class="bold" style="fill: #9a3412; font-size: 11px;">Част</text>
+
+<rect x="325" y="296" width="65" height="26" rx="4" fill="#dcfce7" stroke="#16a34a"/>
+<text x="357" y="313" text-anchor="middle" class="bold" style="fill: #166534; font-size: 11px;">Общ</text>
+
+<rect x="420" y="296" width="65" height="26" rx="4" fill="#dcfce7" stroke="#16a34a"/>
+<text x="452" y="313" text-anchor="middle" class="bold" style="fill: #166534; font-size: 11px;">Общ</text>
+
+<text x="530" y="308" class="bold" style="font-size: 12px;">Германия, Австрия, Швейцария,</text>
+<text x="530" y="325" style="font-size: 11.5px; fill: #64748b;">Люксембург (самоуправление фондов)</text>
+
+<!-- Row 4: Statist Social Health Insurance -->
+<rect x="30" y="349" width="700" height="60" rx="6" fill="#ffffff" stroke="#e2e8f0"/>
+<text x="45" y="374" class="bold" style="font-size: 13.5px; fill: #1e293b;">4. Этатистское соцстрахование</text>
+<text x="45" y="392" class="subtitle" style="font-size: 11.5px;">ОМС с жестким госрегулированием</text>
+
+<rect x="235" y="364" width="65" height="26" rx="4" fill="#ffedd5" stroke="#ea580c"/>
+<text x="267" y="381" text-anchor="middle" class="bold" style="fill: #9a3412; font-size: 11px;">Част</text>
+
+<rect x="325" y="364" width="65" height="26" rx="4" fill="#dcfce7" stroke="#16a34a"/>
+<text x="357" y="381" text-anchor="middle" class="bold" style="fill: #166534; font-size: 11px;">Общ</text>
+
+<rect x="420" y="364" width="65" height="26" rx="4" fill="#dbeafe" stroke="#2563eb"/>
+<text x="452" y="381" text-anchor="middle" class="bold" style="fill: #1e40af; font-size: 11px;">Гос</text>
+
+<text x="530" y="376" class="bold" style="font-size: 12px;">Франция, Нидерланды, Япония, Бельгия,</text>
+<text x="530" y="393" style="font-size: 11.5px; fill: #64748b;">Чехия, Польша, Словакия, Эстония, Россия</text>
+
+<!-- Row 5: Private Health System -->
+<rect x="30" y="417" width="700" height="60" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="45" y="442" class="bold" style="font-size: 13.5px; fill: #1e293b;">5. Частная система</text>
+<text x="45" y="460" class="subtitle" style="font-size: 11.5px;">Рыночное добровольное страхование</text>
+
+<rect x="235" y="432" width="65" height="26" rx="4" fill="#ffedd5" stroke="#ea580c"/>
+<text x="267" y="449" text-anchor="middle" class="bold" style="fill: #9a3412; font-size: 11px;">Част</text>
+
+<rect x="325" y="432" width="65" height="26" rx="4" fill="#ffedd5" stroke="#ea580c"/>
+<text x="357" y="449" text-anchor="middle" class="bold" style="fill: #9a3412; font-size: 11px;">Част</text>
+
+<rect x="420" y="432" width="65" height="26" rx="4" fill="#ffedd5" stroke="#ea580c"/>
+<text x="452" y="449" text-anchor="middle" class="bold" style="fill: #9a3412; font-size: 11px;">Част</text>
+
+<text x="530" y="444" class="bold" style="font-size: 12px;">США (до реформы ACA / Obamacare)</text>
+<text x="530" y="461" style="font-size: 11.5px; fill: #64748b;">Частные коммерческие страховщики и клиники</text>
+
+</svg>
