@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 460" role="img" aria-labelledby="title desc">
+<title id="title">Модель неприятия риска и цена определенности (спрос на страхование)</title>
+<desc id="desc">Графическое представление вогнутой функции полезности, ожидаемой полезности и премии за риск (цены определенности).</desc>
+<style>
+  text { font-family: Inter, system-ui, -apple-system, sans-serif; fill: #18213a; font-size: 14px; }
+  .title { font-size: 20px; font-weight: 700; fill: #18213a; }
+  .subtitle { font-size: 13px; fill: #54627a; }
+  .axis { stroke: #94a3b8; stroke-width: 2; stroke-linecap: round; }
+  .grid { stroke: #e2e8f0; stroke-dasharray: 4,4; stroke-width: 1.5; }
+  .curve { stroke: #2563eb; stroke-width: 3.5; fill: none; }
+  .chord { stroke: #dc2626; stroke-width: 2.5; stroke-dasharray: 6,4; fill: none; }
+  .point { fill: #1e293b; stroke: #fff; stroke-width: 2; }
+  .bold { font-weight: 600; }
+  .accent { fill: #2563eb; font-weight: 600; }
+  .danger { fill: #dc2626; font-weight: 600; }
+  .note { font-size: 11.5px; fill: #64748b; }
+</style>
+
+<rect width="760" height="460" rx="12" fill="#ffffff"/>
+
+<!-- Header -->
+<text x="32" y="36" class="title">Модель неприятия риска: спрос на страхование и цена определенности</text>
+<text x="32" y="58" class="subtitle">Вогнутая функция полезности U(y), ожидаемая полезность E(U) и готовность платить за устранение риска</text>
+
+<!-- Axes -->
+<!-- Y-Axis (Utility) -->
+<line x1="80" y1="390" x2="80" y2="85" class="axis"/>
+<polygon points="76,90 80,78 84,90" fill="#94a3b8"/>
+<text x="75" y="75" text-anchor="middle" class="bold" style="font-size: 13px;">U(y)</text>
+
+<!-- X-Axis (Income) -->
+<line x1="80" y1="390" x2="710" y2="390" class="axis"/>
+<polygon points="705,386 718,390 705,394" fill="#94a3b8"/>
+<text x="710" y="415" text-anchor="end" class="bold" style="font-size: 13px;">Доход индивида (y)</text>
+
+<!-- Grid & Projection Lines -->
+<!-- y1 = 150 -->
+<line x1="150" y1="390" x2="150" y2="310" class="grid"/>
+<line x1="80" y1="310" x2="150" y2="310" class="grid"/>
+
+<!-- yc = 310 (income with certain utility equal to E(U)) -->
+<line x1="310" y1="390" x2="310" y2="210" class="grid"/>
+<line x1="80" y1="210" x2="410" y2="210" class="grid"/>
+
+<!-- E(y) = 410 -->
+<line x1="410" y1="390" x2="410" y2="210" class="grid"/>
+<line x1="410" y1="210" x2="410" y2="162" class="grid" stroke="#2563eb" stroke-dasharray="3,3"/>
+
+<!-- y2 = 630 -->
+<line x1="630" y1="390" x2="630" y2="110" class="grid"/>
+<line x1="80" y1="110" x2="630" y2="110" class="grid"/>
+
+<!-- Utility Curve U(y): strictly concave U''(y) < 0 -->
+<!-- Starts at (80, 390), passes through (150, 310), (310, 210), (410, 162), (630, 110) -->
+<path d="M 80,390 C 130,290 220,230 350,185 C 480,140 560,122 650,105" class="curve"/>
+
+<!-- Chord (Secant line connecting (y1, U(y1)) and (y2, U(y2))) -->
+<line x1="150" y1="310" x2="630" y2="110" class="chord"/>
+
+<!-- Risk Premium / Certainty Price Bracket: R = E(y) - yc -->
+<rect x="310" y="398" width="100" height="24" rx="4" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="360" y="415" text-anchor="middle" class="danger" style="font-size: 11.5px;">R (Цена опр.)</text>
+
+<!-- Points on Chart -->
+<circle cx="150" cy="310" r="5" class="point"/>
+<circle cx="630" cy="110" r="5" class="point"/>
+<circle cx="410" cy="210" r="5" fill="#dc2626" stroke="#fff" stroke-width="2"/>
+<circle cx="310" cy="210" r="5" fill="#2563eb" stroke="#fff" stroke-width="2"/>
+<circle cx="410" cy="162" r="5" fill="#2563eb" stroke="#fff" stroke-width="2"/>
+
+<!-- X-axis Labels -->
+<text x="150" y="410" text-anchor="middle" class="bold">y₁</text>
+<text x="150" y="425" text-anchor="middle" class="note">(ущерб)</text>
+
+<text x="310" y="438" text-anchor="middle" class="accent">y<tspan dy="3" font-size="10">c</tspan></text>
+<text x="310" y="452" text-anchor="middle" class="note">(гарант.)</text>
+
+<text x="410" y="438" text-anchor="middle" class="bold">E(y)</text>
+<text x="410" y="452" text-anchor="middle" class="note">(ожидаемый)</text>
+
+<text x="630" y="410" text-anchor="middle" class="bold">y₂</text>
+<text x="630" y="425" text-anchor="middle" class="note">(макс. доход)</text>
+
+<!-- Y-axis Labels -->
+<text x="70" y="315" text-anchor="end" class="bold">U(y₁)</text>
+<text x="70" y="214" text-anchor="end" class="danger">E(U) = U(y<tspan dy="2" font-size="10">c</tspan><tspan dy="-2">)</tspan></text>
+<text x="70" y="166" text-anchor="end" class="accent">U(E(y))</text>
+<text x="70" y="115" text-anchor="end" class="bold">U(y₂)</text>
+
+<!-- Legend Card -->
+<rect x="440" y="245" width="295" height="135" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="455" y="268" class="bold" style="font-size: 13px; fill: #1e293b;">Экономический смысл модели:</text>
+<text x="455" y="290" style="font-size: 12px; fill: #334155;">• Вогнутость U''(y) &lt; 0 означает <tspan font-weight="600">рискофобию</tspan></text>
+<text x="455" y="310" style="font-size: 12px; fill: #334155;">• Ожидаемая полезность <tspan class="danger">E(U) &lt; U(E(y))</tspan></text>
+<text x="455" y="332" style="font-size: 12px; fill: #334155;">• <tspan font-weight="600">y<tspan font-size="9">c</tspan></tspan> — эквивалент гарантированного дохода</text>
+<text x="455" y="354" style="font-size: 12px; fill: #dc2626; font-weight: 600;">• R = E(y) - y<tspan font-size="9">c</tspan> — максимальная надбавка,</text>
+<text x="465" y="370" style="font-size: 11px; fill: #64748b;">которую индивид готов платить за страхование</text>
+</svg>

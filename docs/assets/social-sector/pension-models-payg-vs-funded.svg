@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 480" role="img" aria-labelledby="title desc">
+<title id="title">Сравнение пенсионных систем: PAYG vs Fully Funded</title>
+<desc id="desc">Институциональные схемы движения финансовых потоков в солидарной и накопительной пенсионных моделях.</desc>
+<style>
+  text { font-family: Inter, system-ui, -apple-system, sans-serif; fill: #18213a; font-size: 13px; }
+  .title { font-size: 19px; font-weight: 700; fill: #18213a; }
+  .subtitle { font-size: 13px; fill: #54627a; }
+  .bold { font-weight: 600; }
+  .small { font-size: 11.5px; fill: #475569; }
+  .arrow { stroke-width: 2; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+  .payg-card { fill: #f0fdf4; stroke: #16a34a; stroke-width: 1.5; }
+  .funded-card { fill: #eff6ff; stroke: #2563eb; stroke-width: 1.5; }
+</style>
+
+<rect width="760" height="480" rx="12" fill="#ffffff"/>
+
+<!-- Header -->
+<text x="32" y="34" class="title">Две модели организации пенсионного обеспечения: PAYG vs Fully Funded</text>
+<text x="32" y="56" class="subtitle">Институциональные финансовые потоки, трансфер рисков и факторы устойчивости систем</text>
+
+<!-- LEFT COLUMN: PAYG (Распределительная / Солидарная) -->
+<rect x="30" y="80" width="340" height="380" rx="10" fill="#fcfdfd" stroke="#cbd5e1" stroke-width="1.5"/>
+
+<!-- Header Left -->
+<rect x="30" y="80" width="340" height="42" rx="10" fill="#16a34a"/>
+<text x="200" y="106" text-anchor="middle" class="bold" style="fill: #ffffff; font-size: 15px;">1. PAYG (Солидарность поколений)</text>
+
+<!-- Step 1: Workers -->
+<rect x="50" y="140" width="300" height="48" rx="6" fill="#f0fdf4" stroke="#16a34a" stroke-width="1.5"/>
+<text x="200" y="162" text-anchor="middle" class="bold" style="fill: #166534;">Текущее работающее поколение (t)</text>
+<text x="200" y="178" text-anchor="middle" class="small">Численность занятых N<tspan font-size="9">w</tspan>, фонд оплаты труда W</text>
+
+<!-- Arrow Down -->
+<path d="M 200,188 L 200,215" class="arrow" stroke="#16a34a"/>
+<polygon points="196,215 200,223 204,215" fill="#16a34a"/>
+<text x="210" y="206" class="bold" style="fill: #166534; font-size: 11px;">Взносы t · w</text>
+
+<!-- Step 2: State Pension Fund -->
+<rect x="50" y="225" width="300" height="54" rx="6" fill="#166534"/>
+<text x="200" y="248" text-anchor="middle" class="bold" style="fill: #ffffff; font-size: 13.5px;">Государственный пенсионный фонд</text>
+<text x="200" y="266" text-anchor="middle" style="fill: #bbf7d0; font-size: 11px;">Прямой текущий трансфер: взносы сразу идут на выплаты</text>
+
+<!-- Arrow Down -->
+<path d="M 200,279 L 200,305" class="arrow" stroke="#16a34a"/>
+<polygon points="196,305 200,313 204,305" fill="#16a34a"/>
+<text x="210" y="296" class="bold" style="fill: #166534; font-size: 11px;">Пенсии p · N<tspan font-size="8">p</tspan></text>
+
+<!-- Step 3: Current Pensioners -->
+<rect x="50" y="315" width="300" height="48" rx="6" fill="#f0fdf4" stroke="#16a34a" stroke-width="1.5"/>
+<text x="200" y="337" text-anchor="middle" class="bold" style="fill: #166534;">Текущие пенсионеры (t)</text>
+<text x="200" y="353" text-anchor="middle" class="small">Численность пенсионеров N<tspan font-size="9">p</tspan>, базовая пенсия p</text>
+
+<!-- Key Characteristics Card Left -->
+<rect x="50" y="375" width="300" height="72" rx="6" fill="#ffffff" stroke="#e2e8f0"/>
+<text x="60" y="394" class="bold" style="font-size: 11.5px; fill: #166534;">Ключевые свойства модели:</text>
+<text x="60" y="412" class="small">• Защищена от инфляции (индексация из текущего ФОТ)</text>
+<text x="60" y="428" class="small">• <tspan font-weight="600" fill="#dc2626">Критически уязвима</tspan> к демографическому старению</text>
+<text x="60" y="444" class="small">• Вертикальное перераспределение в пользу бедных</text>
+
+
+<!-- RIGHT COLUMN: Fully Funded (Накопительная) -->
+<rect x="390" y="80" width="340" height="380" rx="10" fill="#fcfdfd" stroke="#cbd5e1" stroke-width="1.5"/>
+
+<!-- Header Right -->
+<rect x="390" y="80" width="340" height="42" rx="10" fill="#2563eb"/>
+<text x="560" y="106" text-anchor="middle" class="bold" style="fill: #ffffff; font-size: 15px;">2. Fully Funded (Накопительная)</text>
+
+<!-- Step 1: Worker Saving -->
+<rect x="410" y="140" width="300" height="48" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="1.5"/>
+<text x="560" y="162" text-anchor="middle" class="bold" style="fill: #1e40af;">Работник в трудоспособный период (t)</text>
+<text x="560" y="178" text-anchor="middle" class="small">Индивидуальные взносы на именной пенсионный счет</text>
+
+<!-- Arrow Down -->
+<path d="M 560,188 L 560,215" class="arrow" stroke="#2563eb"/>
+<polygon points="556,215 560,223 564,215" fill="#2563eb"/>
+<text x="570" y="206" class="bold" style="fill: #1e40af; font-size: 11px;">Инвестирование s · w</text>
+
+<!-- Step 2: Capital Markets & Pension Fund -->
+<rect x="410" y="225" width="300" height="54" rx="6" fill="#1e40af"/>
+<text x="560" y="248" text-anchor="middle" class="bold" style="fill: #ffffff; font-size: 13.5px;">Фондовый рынок / НПФ / Управляющая компания</text>
+<text x="560" y="266" text-anchor="middle" style="fill: #bfdbfe; font-size: 11px;">Аккумулирование капитала + реальная доходность (r)</text>
+
+<!-- Arrow Down -->
+<path d="M 560,279 L 560,305" class="arrow" stroke="#2563eb"/>
+<polygon points="556,305 560,313 564,305" fill="#2563eb"/>
+<text x="570" y="296" class="bold" style="fill: #1e40af; font-size: 11px;">Капитал + Доходность</text>
+
+<!-- Step 3: Same Worker Retired -->
+<rect x="410" y="315" width="300" height="48" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="1.5"/>
+<text x="560" y="337" text-anchor="middle" class="bold" style="fill: #1e40af;">Тот же индивид на пенсии (t + 1)</text>
+<text x="560" y="353" text-anchor="middle" class="small">Пожизненный аннуитет из накопленного личного капитала</text>
+
+<!-- Key Characteristics Card Right -->
+<rect x="410" y="375" width="300" height="72" rx="6" fill="#ffffff" stroke="#e2e8f0"/>
+<text x="420" y="394" class="bold" style="font-size: 11.5px; fill: #1e40af;">Ключевые свойства модели:</text>
+<text x="420" y="412" class="small">• Менее чувствительна к демографическому спаду</text>
+<text x="420" y="428" class="small">• <tspan font-weight="600" fill="#dc2626">Критически уязвима</tspan> к инфляции и кризисам рынка</text>
+<text x="420" y="444" class="small">• Рыночная эквивалентность (нет перераспределения)</text>
+</svg>

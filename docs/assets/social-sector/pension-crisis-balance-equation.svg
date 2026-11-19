@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 480" role="img" aria-labelledby="title desc">
+<title id="title">Уравнение баланса пенсионного фонда и антикризисные рычаги</title>
+<desc id="desc">Модель равновесия доходов и расходов пенсионной системы и направления реформ со стороны спроса и предложения.</desc>
+<style>
+  text { font-family: Inter, system-ui, -apple-system, sans-serif; fill: #18213a; font-size: 13px; }
+  .title { font-size: 19px; font-weight: 700; fill: #18213a; }
+  .subtitle { font-size: 13px; fill: #54627a; }
+  .bold { font-weight: 600; }
+  .small { font-size: 11.5px; fill: #475569; }
+  .eq-box { fill: #f8fafc; stroke: #3b82f6; stroke-width: 2; rx: 8; }
+  .demand-box { fill: #fef2f2; stroke: #ef4444; stroke-width: 1.5; rx: 8; }
+  .supply-box { fill: #f0fdf4; stroke: #10b981; stroke-width: 1.5; rx: 8; }
+</style>
+
+<rect width="760" height="480" rx="12" fill="#ffffff"/>
+
+<!-- Header -->
+<text x="32" y="34" class="title">Баланс пенсионного фонда: антикризисные рычаги реформ</text>
+<text x="32" y="56" class="subtitle">Уравнение долгосрочного финансового равновесия распределительной системы при старении населения</text>
+
+<!-- Central Equation Card -->
+<rect x="110" y="78" width="540" height="74" rx="8" class="eq-box"/>
+<text x="380" y="108" text-anchor="middle" class="bold" style="font-size: 18px; fill: #1e40af;">
+  Доходы фонда [ t · w · N<tspan font-size="12">w</tspan> ]  =  [ p · N<tspan font-size="12">p</tspan> ] Расходы фонда
+</text>
+<text x="380" y="132" text-anchor="middle" class="small" style="fill: #3b82f6;">
+  t — ставка страхового взноса | w — средняя зарплата | N<tspan font-size="9">w</tspan> — число занятых || p — средняя пенсия | N<tspan font-size="9">p</tspan> — число пенсионеров
+</text>
+
+<!-- Core Challenge Arrow / Callout -->
+<rect x="180" y="165" width="400" height="34" rx="6" fill="#fef3c7" stroke="#f59e0b" stroke-width="1"/>
+<text x="380" y="187" text-anchor="middle" class="bold" style="font-size: 12.5px; fill: #b45309;">
+  Демографический шок: N<tspan font-size="9">p</tspan> растет быстрее, чем N<tspan font-size="9">w</tspan> (рост нагрузки N<tspan font-size="9">p</tspan> / N<tspan font-size="9">w</tspan>)
+</text>
+
+<!-- TWO SIDES OF REFORM -->
+
+<!-- LEFT: Demand-side Levers (Спрос / Обязательства) -->
+<rect x="30" y="215" width="340" height="240" rx="8" class="demand-box"/>
+<rect x="30" y="215" width="340" height="38" rx="8" fill="#ef4444"/>
+<text x="200" y="239" text-anchor="middle" class="bold" style="fill: #ffffff; font-size: 14px;">Рычаги со стороны спроса (Снижение выплат)</text>
+
+<!-- Item 1 -->
+<rect x="45" y="265" width="310" height="54" rx="6" fill="#ffffff" stroke="#fecaca"/>
+<text x="55" y="285" class="bold" style="fill: #b91c1c; font-size: 12px;">1. Повышение пенсионного возраста (N<tspan font-size="9">p</tspan> ↓)</text>
+<text x="55" y="303" class="small">Снижает численность пенсионеров и одновременно</text>
+<text x="55" y="315" class="small">увеличивает рабочую силу (N<tspan font-size="9">w</tspan> ↑). Непопулярная мера.</text>
+
+<!-- Item 2 -->
+<rect x="45" y="330" width="310" height="54" rx="6" fill="#ffffff" stroke="#fecaca"/>
+<text x="55" y="350" class="bold" style="fill: #b91c1c; font-size: 12px;">2. Сокращение размера пенсий (p ↓)</text>
+<text x="55" y="368" class="small">Снижение коэффициента замещения заработка;</text>
+<text x="55" y="380" class="small">индексация ниже фактической инфляции.</text>
+
+<!-- Item 3 -->
+<rect x="45" y="395" width="310" height="46" rx="6" fill="#ffffff" stroke="#fecaca"/>
+<text x="55" y="414" class="bold" style="fill: #b91c1c; font-size: 12px;">3. Отмена досрочных пенсий и льготных стажей</text>
+<text x="55" y="430" class="small">Ужесточение балльной системы и страхового стажа.</text>
+
+
+<!-- RIGHT: Supply-side Levers (Предложение / Ресурсы) -->
+<rect x="390" y="215" width="340" height="240" rx="8" class="supply-box"/>
+<rect x="390" y="215" width="340" height="38" rx="8" fill="#10b981"/>
+<text x="560" y="239" text-anchor="middle" class="bold" style="fill: #ffffff; font-size: 14px;">Рычаги со стороны предложения (Рост доходов)</text>
+
+<!-- Item 1 -->
+<rect x="405" y="265" width="310" height="54" rx="6" fill="#ffffff" stroke="#a7f3d0"/>
+<text x="415" y="285" class="bold" style="fill: #047857; font-size: 12px;">1. Повышение тарифа взносов (t ↑)</text>
+<text x="415" y="303" class="small">Увеличение нагрузки на ФОТ бизнеса. Риск:</text>
+<text x="415" y="315" class="small">уход зарплат в «теневой сектор» и рост безработицы.</text>
+
+<!-- Item 2 -->
+<rect x="405" y="330" width="310" height="54" rx="6" fill="#ffffff" stroke="#a7f3d0"/>
+<text x="415" y="350" class="bold" style="fill: #047857; font-size: 12px;">2. Расширение занятости и рабочей силы (N<tspan font-size="9">w</tspan> ↑)</text>
+<text x="415" y="368" class="small">Привлечение гостевой миграции, стимулирование</text>
+<text x="415" y="380" class="small">занятости женщин и активное долголетие пожилых.</text>
+
+<!-- Item 3 -->
+<rect x="405" y="395" width="310" height="46" rx="6" fill="#ffffff" stroke="#a7f3d0"/>
+<text x="415" y="414" class="bold" style="fill: #047857; font-size: 12px;">3. Рост продуктивности труда и зарплат (w ↑)</text>
+<text x="415" y="430" class="small">Инвестиции в человеческий капитал и новые технологии.</text>
+
+</svg>
