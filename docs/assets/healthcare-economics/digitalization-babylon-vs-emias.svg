@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 450" role="img" aria-labelledby="title desc">
+<title id="title">Ловушка цифровизации: Процесс → Цифровой контур → ИИ</title><desc id="desc">Почему автоматизация хаоса приводит к катастрофе: сравнение Babylon Health и ЕМИАС Москвы.</desc>
+<style>text{font-family:Inter,system-ui,-apple-system,sans-serif;fill:#18213a;font-size:16px} .small{font-size:13px;fill:#54627a} .heading{font-size:20px;font-weight:700} .bold{font-weight:600}</style>
+<rect width="760" height="450" rx="12" fill="#fff"/>
+<text x="32.00" y="40.00" text-anchor="start" class="heading" style="fill:#18213a">Ловушка цифровизации: Процесс → Цифровой контур → ИИ</text>
+<text x="32.00" y="68.00" text-anchor="start" class="small" style="fill:#18213a">Формула Ростислава Павлова: сначала стандартизация процессов, затем цифра, затем ИИ</text>
+<rect x="32.00" y="95.00" width="696.00" height="130.00" rx="8" fill="#fff5f5" stroke="#b23b54" stroke-width="1.5"/>
+<rect x="32.00" y="95.00" width="220.00" height="32.00" rx="8" fill="#b23b54"/>
+<rect x="32.00" y="115.00" width="220.00" height="12.00" rx="0" fill="#b23b54"/>
+<text x="142.00" y="117.00" text-anchor="middle" class="bold" style="font-size:12px;fill:#fff">Крах: Babylon Health (UK/USA)</text>
+<text x="265.00" y="117.00" text-anchor="start" class="bold" style="font-size:12px;fill:#b23b54">Оценка $4.2 млрд → Банкротство с долгами -$1 млрд</text>
+<rect x="46.00" y="137.00" width="160.00" height="72.00" rx="6" fill="#fff" stroke="#ffcdd2" stroke-width="1"/>
+<text x="54.00" y="159.00" text-anchor="start" class="bold" style="font-size:11px;fill:#b23b54">1. Хаос в процессах</text>
+<text x="54.00" y="177.00" text-anchor="start" class="" style="font-size:9px;fill:#54627a">Попытка перепрыгнуть баз</text>
+<text x="54.00" y="191.00" text-anchor="start" class="" style="font-size:9px;fill:#54627a">овые клинические протоколы</text>
+<text x="209.00" y="177.00" text-anchor="start" class="bold" style="font-size:14px;fill:#b23b54">→</text>
+<rect x="214.00" y="137.00" width="160.00" height="72.00" rx="6" fill="#fff" stroke="#ffcdd2" stroke-width="1"/>
+<text x="222.00" y="159.00" text-anchor="start" class="bold" style="font-size:11px;fill:#b23b54">2. Хайповый чат-бот</text>
+<text x="222.00" y="177.00" text-anchor="start" class="" style="font-size:9px;fill:#54627a">ИИ-триаж на неподготовле</text>
+<text x="222.00" y="191.00" text-anchor="start" class="" style="font-size:9px;fill:#54627a">нных данных симптомов</text>
+<text x="377.00" y="177.00" text-anchor="start" class="bold" style="font-size:14px;fill:#b23b54">→</text>
+<rect x="382.00" y="137.00" width="160.00" height="72.00" rx="6" fill="#fff" stroke="#ffcdd2" stroke-width="1"/>
+<text x="390.00" y="159.00" text-anchor="start" class="bold" style="font-size:11px;fill:#b23b54">3. Клинический провал</text>
+<text x="390.00" y="177.00" text-anchor="start" class="" style="font-size:9px;fill:#54627a">Пропуск стенокардии у ку</text>
+<text x="390.00" y="191.00" text-anchor="start" class="" style="font-size:9px;fill:#54627a">рильщиков, риск для жизней</text>
+<text x="545.00" y="177.00" text-anchor="start" class="bold" style="font-size:14px;fill:#b23b54">→</text>
+<rect x="550.00" y="137.00" width="160.00" height="72.00" rx="6" fill="#fff" stroke="#ffcdd2" stroke-width="1"/>
+<text x="558.00" y="159.00" text-anchor="start" class="bold" style="font-size:11px;fill:#b23b54">4. Финал</text>
+<text x="558.00" y="177.00" text-anchor="start" class="" style="font-size:9px;fill:#54627a">Отзыв контрактов NHS, ли</text>
+<text x="558.00" y="191.00" text-anchor="start" class="" style="font-size:9px;fill:#54627a">квидация бизнеса</text>
+<rect x="32.00" y="245.00" width="696.00" height="145.00" rx="8" fill="#f0fdf4" stroke="#178477" stroke-width="1.5"/>
+<rect x="32.00" y="245.00" width="220.00" height="32.00" rx="8" fill="#178477"/>
+<rect x="32.00" y="265.00" width="220.00" height="12.00" rx="0" fill="#178477"/>
+<text x="142.00" y="267.00" text-anchor="middle" class="bold" style="font-size:12px;fill:#fff">Эталон: ЕМИАС (Москва)</text>
+<text x="265.00" y="267.00" text-anchor="start" class="bold" style="font-size:12px;fill:#178477">Крупнейшая в мире единая система лучевой диагностики и ИИ</text>
+<rect x="46.00" y="287.00" width="218.00" height="86.00" rx="6" fill="#fff" stroke="#c8e6c9" stroke-width="1"/>
+<text x="56.00" y="311.00" text-anchor="start" class="bold" style="font-size:12px;fill:#178477">Шаг 1. Процессы</text>
+<text x="56.00" y="331.00" text-anchor="start" class="" style="font-size:10px;fill:#54627a">Унификация расписаний, нозологий, протоколов</text>
+<text x="56.00" y="345.00" text-anchor="start" class="" style="font-size:10px;fill:#54627a">приема и регламентов времени</text>
+<text x="56.00" y="359.00" text-anchor="start" class="" style="font-size:10px;fill:#54627a"></text>
+<text x="267.00" y="333.00" text-anchor="start" class="bold" style="font-size:14px;fill:#178477">→</text>
+<rect x="272.00" y="287.00" width="218.00" height="86.00" rx="6" fill="#fff" stroke="#c8e6c9" stroke-width="1"/>
+<text x="282.00" y="311.00" text-anchor="start" class="bold" style="font-size:12px;fill:#178477">Шаг 2. Цифровой контур</text>
+<text x="282.00" y="331.00" text-anchor="start" class="" style="font-size:10px;fill:#54627a">Сквозная электронная медкарта (ЭМК),</text>
+<text x="282.00" y="345.00" text-anchor="start" class="" style="font-size:10px;fill:#54627a">подключение всех аппаратов КТ/МРТ</text>
+<text x="282.00" y="359.00" text-anchor="start" class="" style="font-size:10px;fill:#54627a"></text>
+<text x="493.00" y="333.00" text-anchor="start" class="bold" style="font-size:14px;fill:#178477">→</text>
+<rect x="498.00" y="287.00" width="218.00" height="86.00" rx="6" fill="#fff" stroke="#c8e6c9" stroke-width="1"/>
+<text x="508.00" y="311.00" text-anchor="start" class="bold" style="font-size:12px;fill:#178477">Шаг 3. ИИ-ассистент</text>
+<text x="508.00" y="331.00" text-anchor="start" class="" style="font-size:10px;fill:#54627a">Автоматический второй просмотр КТ/маммографии,</text>
+<text x="508.00" y="345.00" text-anchor="start" class="" style="font-size:10px;fill:#54627a">подсказки врачу-рентгенологу</text>
+<text x="508.00" y="359.00" text-anchor="start" class="" style="font-size:10px;fill:#54627a"></text>
+<rect x="32.00" y="405.00" width="696.00" height="36.00" rx="6" fill="#edf2fc"/>
+<text x="48.00" y="428.00" text-anchor="start" class="bold" style="font-size:11px;fill:#3859b5">Золотое правило цифровизации: Оцифрованный хаос = Автоматизированный хаос с тройным бюджетом.</text>
+</svg>

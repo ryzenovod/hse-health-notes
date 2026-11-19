@@ -23,6 +23,8 @@ hide:
 
 ### Организация и экономика здравоохранения
 
+[Павлов: управление МО, процессы, ИИ и культура безопасности →](healthcare-economics-pavlov-management-principles.md)
+
 [Открыть обзор курса →](healthcare-economics.md)
 
 [Конспект по доказательной медицине →](../module-1/epidemiology-lecture-1.md)

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 460" role="img" aria-labelledby="title desc">
+<title id="title">Модель айсберга: восприятие качества медицины пациентом</title><desc id="desc">Сравнение видимой верхушки (сервис и эмпатия) и подводной толщи (клиническая безопасность и стерильность).</desc>
+<style>text{font-family:Inter,system-ui,-apple-system,sans-serif;fill:#18213a;font-size:16px} .small{font-size:13px;fill:#54627a} .heading{font-size:20px;font-weight:700} .bold{font-weight:600}</style>
+<rect width="760" height="460" rx="12" fill="#fff"/>
+<text x="32.00" y="40.00" text-anchor="start" class="heading" style="fill:#18213a">Модель айсберга: восприятие качества медицины пациентом</text>
+<text x="32.00" y="68.00" text-anchor="start" class="small" style="fill:#18213a">Пациент оценивает отношение и чистоту, но его жизнь спасает подводная часть системы</text>
+<rect x="32.00" y="95.00" width="696.00" height="80.00" rx="8" fill="#f0f7ff"/>
+<rect x="32.00" y="175.00" width="696.00" height="220.00" rx="8" fill="#e6f0fa"/>
+<path d="M32.000,175.000 L728.000,175.000" fill="none" stroke="#0288d1" stroke-width="3" stroke-dasharray="6 6"/>
+<text x="716.00" y="167.00" text-anchor="end" class="bold" style="font-size:11px;fill:#0288d1">Ватерлиния восприятия пациента</text>
+<rect x="48.00" y="108.00" width="140.00" height="28.00" rx="6" fill="#0288d1"/>
+<text x="118.00" y="127.00" text-anchor="middle" class="bold" style="font-size:11px;fill:#fff">ВЕРХУШКА (15%)</text>
+<text x="202.00" y="127.00" text-anchor="start" class="bold" style="font-size:13px;fill:#0277bd">Видимый сервис (то, на основе чего пациент делает осознанный выбор)</text>
+<text x="52.00" y="148.00" text-anchor="start" class="" style="font-size:11px;fill:#18213a">• Эмпатия врача, уважительный тон, отсутствие снисходительности</text>
+<text x="392.00" y="148.00" text-anchor="start" class="" style="font-size:11px;fill:#18213a">• Чистота палат, свежий ремонт, опрятный вид медперсонала</text>
+<text x="52.00" y="166.00" text-anchor="start" class="" style="font-size:11px;fill:#18213a">• Вкусное горячее питание и прозрачная навигация в коридорах</text>
+<text x="392.00" y="166.00" text-anchor="start" class="" style="font-size:11px;fill:#18213a">• Скорость записи, отсутствие очередей, мобильное приложение</text>
+<rect x="48.00" y="190.00" width="140.00" height="28.00" rx="6" fill="#1a365d"/>
+<text x="118.00" y="209.00" text-anchor="middle" class="bold" style="font-size:10px;fill:#fff">ПОДВОДНАЯ ЧАСТЬ (85%)</text>
+<text x="202.00" y="209.00" text-anchor="start" class="bold" style="font-size:13px;fill:#1a365d">Фундамент безопасности (пациент не может оценить профессионально)</text>
+<rect x="48.00" y="226.00" width="326.00" height="46.00" rx="6" fill="#fff" stroke="#b0bec5" stroke-width="1"/>
+<text x="58.00" y="244.00" text-anchor="start" class="bold" style="font-size:11px;fill:#0d47a1">Стерильность и санэпидрежим</text>
+<text x="58.00" y="262.00" text-anchor="start" class="" style="font-size:10px;fill:#54627a">Контроль ИСМП, вентиляция с ламинарным потоком в операционных</text>
+<rect x="388.00" y="226.00" width="326.00" height="46.00" rx="6" fill="#fff" stroke="#b0bec5" stroke-width="1"/>
+<text x="398.00" y="244.00" text-anchor="start" class="bold" style="font-size:11px;fill:#0d47a1">Чек-листы ВОЗ и тайм-ауты</text>
+<text x="398.00" y="262.00" text-anchor="start" class="" style="font-size:10px;fill:#54627a">Идентификация пациента, стороны операции, подсчет салфеток и игл</text>
+<rect x="48.00" y="278.00" width="326.00" height="46.00" rx="6" fill="#fff" stroke="#b0bec5" stroke-width="1"/>
+<text x="58.00" y="296.00" text-anchor="start" class="bold" style="font-size:11px;fill:#0d47a1">Калибровка оборудования</text>
+<text x="58.00" y="314.00" text-anchor="start" class="" style="font-size:10px;fill:#54627a">Поверка томографов, наркозно-дыхательных аппаратов и дозаторов</text>
+<rect x="388.00" y="278.00" width="326.00" height="46.00" rx="6" fill="#fff" stroke="#b0bec5" stroke-width="1"/>
+<text x="398.00" y="296.00" text-anchor="start" class="bold" style="font-size:11px;fill:#0d47a1">Фармаконадзор и совместимость</text>
+<text x="398.00" y="314.00" text-anchor="start" class="" style="font-size:10px;fill:#54627a">Двойной контроль введения высокорисковых лекарств и антибиотиков</text>
+<rect x="48.00" y="330.00" width="326.00" height="46.00" rx="6" fill="#fff" stroke="#b0bec5" stroke-width="1"/>
+<text x="58.00" y="348.00" text-anchor="start" class="bold" style="font-size:11px;fill:#0d47a1">Учет осложнений (M&amp;M Conferences)</text>
+<text x="58.00" y="366.00" text-anchor="start" class="" style="font-size:10px;fill:#54627a">Регулярный разбор клинических инцидентов без поиска козла отпущения</text>
+<rect x="388.00" y="330.00" width="326.00" height="46.00" rx="6" fill="#fff" stroke="#b0bec5" stroke-width="1"/>
+<text x="398.00" y="348.00" text-anchor="start" class="bold" style="font-size:11px;fill:#0d47a1">Командная слаженность бригад</text>
+<text x="398.00" y="366.00" text-anchor="start" class="" style="font-size:10px;fill:#54627a">Регулярные симуляционные учения при экстренных реанимациях</text>
+<rect x="32.00" y="405.00" width="696.00" height="42.00" rx="6" fill="#fff9e6" stroke="#fbc02d" stroke-width="1"/>
+<text x="48.00" y="431.00" text-anchor="start" class="bold" style="font-size:12px;fill:#e65100">Управленческий парадокс: плохой кофе отпугнет пациента быстрее, чем отсутствие протокола стерильности.</text>
+</svg>

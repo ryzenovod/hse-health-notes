@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" role="img" aria-labelledby="title desc">
+<title id="title">5 стадий гибели великих компаний (по Джиму Коллинзу)</title><desc id="desc">Закономерности деградации лидеров рынка и клиник при потере контакта с реальностью.</desc>
+<style>text{font-family:Inter,system-ui,-apple-system,sans-serif;fill:#18213a;font-size:16px} .small{font-size:13px;fill:#54627a} .heading{font-size:20px;font-weight:700} .bold{font-weight:600}</style>
+<rect width="760" height="440" rx="12" fill="#fff"/>
+<text x="32.00" y="40.00" text-anchor="start" class="heading" style="fill:#18213a">5 стадий гибели великих компаний (по Джиму Коллинзу)</text>
+<text x="32.00" y="68.00" text-anchor="start" class="small" style="fill:#18213a">От Kodak и Nokia до неэффективных медицинских гигантов: траектория упадка</text>
+<rect x="32.00" y="95.00" width="195.00" height="46.00" rx="6" fill="#1e88e5"/>
+<text x="44.00" y="115.00" text-anchor="start" class="bold" style="font-size:11px;fill:#fff">1. Высокомерие от успехов</text>
+<text x="44.00" y="131.00" text-anchor="start" class="" style="font-size:9px;fill:#bbdefb">Hubris Born of Success</text>
+<rect x="237.00" y="95.00" width="491.00" height="46.00" rx="6" fill="#f8fafd" stroke="#1e88e5" stroke-width="1"/>
+<text x="250.00" y="122.00" text-anchor="start" class="" style="font-size:11px;fill:#18213a">«Мы непререкаемые лидеры, конкуренты бессильны, пациенты никуда не денутся». Потеря самокритики.</text>
+<path d="M129.000,141.000 L129.000,153.000" fill="none" stroke="#1e88e5" stroke-width="2"/>
+<rect x="32.00" y="153.00" width="195.00" height="46.00" rx="6" fill="#3949ab"/>
+<text x="44.00" y="173.00" text-anchor="start" class="bold" style="font-size:11px;fill:#fff">2. Безудержная экспансия</text>
+<text x="44.00" y="189.00" text-anchor="start" class="" style="font-size:9px;fill:#bbdefb">Undisciplined Pursuit of More</text>
+<rect x="237.00" y="153.00" width="491.00" height="46.00" rx="6" fill="#f8fafd" stroke="#3949ab" stroke-width="1"/>
+<text x="250.00" y="180.00" text-anchor="start" class="" style="font-size:11px;fill:#18213a">Неконтролируемый рост коек и филиалов в ущерб клиническому качеству и компетентности врачей.</text>
+<path d="M129.000,199.000 L129.000,211.000" fill="none" stroke="#3949ab" stroke-width="2"/>
+<rect x="32.00" y="211.00" width="195.00" height="46.00" rx="6" fill="#fb8c00"/>
+<text x="44.00" y="231.00" text-anchor="start" class="bold" style="font-size:11px;fill:#fff">3. Отрицание рисков</text>
+<text x="44.00" y="247.00" text-anchor="start" class="" style="font-size:9px;fill:#ffecb3">Denial of Risk and Peril</text>
+<rect x="237.00" y="211.00" width="491.00" height="46.00" rx="6" fill="#f8fafd" stroke="#fb8c00" stroke-width="1"/>
+<text x="250.00" y="238.00" text-anchor="start" class="" style="font-size:11px;fill:#18213a">Игнорирование тревожных сигналов (рост осложнений, жалобы). Наказание за плохие новости.</text>
+<path d="M129.000,257.000 L129.000,269.000" fill="none" stroke="#fb8c00" stroke-width="2"/>
+<rect x="32.00" y="269.00" width="195.00" height="46.00" rx="6" fill="#e53935"/>
+<text x="44.00" y="289.00" text-anchor="start" class="bold" style="font-size:11px;fill:#fff">4. Поиски «чудо-таблетки»</text>
+<text x="44.00" y="305.00" text-anchor="start" class="" style="font-size:9px;fill:#ffecb3">Grasping for Salvation</text>
+<rect x="237.00" y="269.00" width="491.00" height="46.00" rx="6" fill="#f8fafd" stroke="#e53935" stroke-width="1"/>
+<text x="250.00" y="296.00" text-anchor="start" class="" style="font-size:11px;fill:#18213a">Судорожная смена главврачей, слепая покупка дорогого ИИ или хайпового оборудования без процессов.</text>
+<path d="M129.000,315.000 L129.000,327.000" fill="none" stroke="#e53935" stroke-width="2"/>
+<rect x="32.00" y="327.00" width="195.00" height="46.00" rx="6" fill="#8e0000"/>
+<text x="44.00" y="347.00" text-anchor="start" class="bold" style="font-size:11px;fill:#fff">5. Капитуляция и крах</text>
+<text x="44.00" y="363.00" text-anchor="start" class="" style="font-size:9px;fill:#ffecb3">Capitulation to Irrelevance</text>
+<rect x="237.00" y="327.00" width="491.00" height="46.00" rx="6" fill="#f8fafd" stroke="#8e0000" stroke-width="1"/>
+<text x="250.00" y="354.00" text-anchor="start" class="" style="font-size:11px;fill:#18213a">Потеря доверия врачей и пациентов, финансовая яма, банкротство или передача под внешнее управление.</text>
+<text x="32.00" y="405.00" text-anchor="start" class="small" style="fill:#18213a">Главный симптом стадии 3: подчиненные боятся сообщать руководителю о реальных инцидентах и врачебных ошибках.</text>
+</svg>
