@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" role="img" aria-labelledby="title desc">
+<title id="title">Эволюция оплаты стационарной помощи: от перечней к КСГ</title><desc id="desc">Исторический кейс В. И. Бураковского в Институте Бакулева: конфликт стимулов и переход к укрупненным тарифам.</desc>
+<style>text{font-family:Inter,system-ui,-apple-system,sans-serif;fill:#18213a;font-size:16px} .small{font-size:14px;fill:#54627a} .heading{font-size:21px;font-weight:700} .bold{font-weight:600}</style>
+<rect width="760" height="420" rx="12" fill="#fff"/>
+<text x="32.00" y="40.00" text-anchor="start" class="heading" style="fill:#18213a">Эволюция оплаты стационарной помощи: от перечней к КСГ</text>
+<text x="32.00" y="68.00" text-anchor="start" class="small" style="fill:#18213a">Как клинический интерес медиков к тарифам трансформировался в модель укрупнённых групп</text>
+<rect x="32.00" y="95.00" width="175.00" height="42.00" rx="6" fill="#dd5a24"/>
+<text x="44.00" y="121.00" text-anchor="start" class="bold" style="font-size:13px;fill:#fff">1. Поуслуговой расчет</text>
+<rect x="217.00" y="95.00" width="511.00" height="42.00" rx="6" fill="#f5f6ff" stroke="#dd5a24" stroke-width="1"/>
+<text x="232.00" y="121.00" text-anchor="start" class="" style="font-size:13px;fill:#18213a">Детальные протоколы (напр. тетрада Фалло). Хирурги расписывают каждый шов.</text>
+<path d="M120.000,137.000 L120.000,150.000" fill="none" stroke="#dd5a24" stroke-width="2"/>
+<rect x="32.00" y="150.00" width="175.00" height="42.00" rx="6" fill="#b23b54"/>
+<text x="44.00" y="176.00" text-anchor="start" class="bold" style="font-size:13px;fill:#fff">2. Ловушка стимулов</text>
+<rect x="217.00" y="150.00" width="511.00" height="42.00" rx="6" fill="#f5f6ff" stroke="#b23b54" stroke-width="1"/>
+<text x="232.00" y="176.00" text-anchor="start" class="" style="font-size:13px;fill:#18213a">Поняв влияние на зарплату, врачи бесконечно удлиняют списки услуг ради тарифа.</text>
+<path d="M120.000,192.000 L120.000,205.000" fill="none" stroke="#b23b54" stroke-width="2"/>
+<rect x="32.00" y="205.00" width="175.00" height="42.00" rx="6" fill="#3859b5"/>
+<text x="44.00" y="231.00" text-anchor="start" class="bold" style="font-size:13px;fill:#fff">3. Инсайт Бураковского</text>
+<rect x="217.00" y="205.00" width="511.00" height="42.00" rx="6" fill="#f5f6ff" stroke="#3859b5" stroke-width="1"/>
+<text x="232.00" y="231.00" text-anchor="start" class="" style="font-size:13px;fill:#18213a">«Хирурги тебя дурят — давайте укрупнять!» Системный взгляд на клиническую однородность.</text>
+<path d="M120.000,247.000 L120.000,260.000" fill="none" stroke="#3859b5" stroke-width="2"/>
+<rect x="32.00" y="260.00" width="175.00" height="42.00" rx="6" fill="#178477"/>
+<text x="44.00" y="286.00" text-anchor="start" class="bold" style="font-size:13px;fill:#fff">4. 7 групп Института</text>
+<rect x="217.00" y="260.00" width="511.00" height="42.00" rx="6" fill="#f5f6ff" stroke="#178477" stroke-width="1"/>
+<text x="232.00" y="286.00" text-anchor="start" class="" style="font-size:13px;fill:#18213a">Сведение сотен манипуляций в 7 базовых клинико-экономических групп с твердым тарифом.</text>
+<path d="M120.000,302.000 L120.000,315.000" fill="none" stroke="#178477" stroke-width="2"/>
+<rect x="32.00" y="315.00" width="175.00" height="42.00" rx="6" fill="#6a3cbc"/>
+<text x="44.00" y="341.00" text-anchor="start" class="bold" style="font-size:13px;fill:#fff">5. Прообраз системы КСГ</text>
+<rect x="217.00" y="315.00" width="511.00" height="42.00" rx="6" fill="#f5f6ff" stroke="#6a3cbc" stroke-width="1"/>
+<text x="232.00" y="341.00" text-anchor="start" class="" style="font-size:13px;fill:#18213a">Основа современного финансирования стационаров по клинико-статистическим группам.</text>
+<text x="32.00" y="395.00" text-anchor="start" class="small" style="fill:#18213a">Урок: попытка учесть каждую мелочь в тарифе ведёт к инфляции расходов; работает только укрупнение.</text>
+</svg>

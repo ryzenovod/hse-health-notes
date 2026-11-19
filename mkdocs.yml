@@ -114,7 +114,9 @@ nav:
                   - Модуль 5: year-1/public-sector-economics-microeconomics-module-5.md
                   - Шпаргалка: year-1/public-sector-economics-microeconomics-cheatsheet.md
       - Ключевые семинары:
-          - Научно-исследовательский семинар: year-1/research-seminar.md
+          - Научно-исследовательский семинар:
+              - Карта семинара: year-1/research-seminar.md
+              - Вводное занятие и Case Study: year-1/research-seminar-sheiman-intro-and-case-study.md
           - Семинар наставника: year-1/mentor-seminar.md
       - По выбору:
           - Бизнес-планирование: year-1/business-planning.md

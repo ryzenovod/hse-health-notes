@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 450" role="img" aria-labelledby="title desc">
+<title id="title">Роль врача общей практики: барьерная функция (Gatekeeping)</title><desc id="desc">Сравнение эффективности фильтрации первичных обращений в зарубежных системах и в России.</desc>
+<style>text{font-family:Inter,system-ui,-apple-system,sans-serif;fill:#18213a;font-size:16px} .small{font-size:14px;fill:#54627a} .heading{font-size:21px;font-weight:700} .bold{font-weight:600}</style>
+<rect width="760" height="450" rx="12" fill="#fff"/>
+<text x="32.00" y="40.00" text-anchor="start" class="heading" style="fill:#18213a">Роль врача общей практики: барьерная функция (Gatekeeping)</text>
+<text x="32.00" y="68.00" text-anchor="start" class="small" style="fill:#18213a">Полномочия ВОП, маршрутизация пациентов и предотвратимые госпитализации</text>
+<rect x="32.00" y="95.00" width="336.00" height="300.00" rx="8" fill="#f0f7f5" stroke="#178477" stroke-width="2"/>
+<rect x="32.00" y="95.00" width="336.00" height="40.00" rx="8" fill="#178477"/>
+<rect x="32.00" y="123.00" width="336.00" height="12.00" rx="0" fill="#178477"/>
+<text x="200.00" y="121.00" text-anchor="middle" class="bold" style="font-size:14px;fill:#fff">Европа и Канада (Сильная ПМСП)</text>
+<text x="200.00" y="170.00" text-anchor="middle" class="heading" style="font-size:24px;fill:#178477">70–95% (ср. 80%)</text>
+<text x="200.00" y="193.00" text-anchor="middle" class="" style="font-size:12px;fill:#54627a">обращений решает сам ВОП</text>
+<text x="48.00" y="225.00" text-anchor="start" class="" style="font-size:13px;fill:#18213a">• Доля ВОП в кадрах: 30–45%</text>
+<text x="48.00" y="250.00" text-anchor="start" class="" style="font-size:12px;fill:#18213a">• Компетенция: ЛОР, офтальмология, неврология</text>
+<text x="48.00" y="275.00" text-anchor="start" class="" style="font-size:12px;fill:#18213a">• Трудный доступ к узким спецам = фильтр</text>
+<text x="48.00" y="300.00" text-anchor="start" class="" style="font-size:12px;fill:#18213a">• Кейс Йорка: самоизлечение за время очереди</text>
+<path d="M48.000,320.000 L352.000,320.000" fill="none" stroke="#c5e6df" stroke-width="2"/>
+<text x="48.00" y="345.00" text-anchor="start" class="bold" style="font-size:13px;fill:#178477">Результат:</text>
+<text x="48.00" y="367.00" text-anchor="start" class="" style="font-size:12px;fill:#18213a">Минимум avoidable admissions и ниже расходы</text>
+<rect x="392.00" y="95.00" width="336.00" height="300.00" rx="8" fill="#fff4f2" stroke="#dd5a24" stroke-width="2"/>
+<rect x="392.00" y="95.00" width="336.00" height="40.00" rx="8" fill="#dd5a24"/>
+<rect x="392.00" y="123.00" width="336.00" height="12.00" rx="0" fill="#dd5a24"/>
+<text x="560.00" y="121.00" text-anchor="middle" class="bold" style="font-size:14px;fill:#fff">Россия (Слабая фильтрация)</text>
+<text x="560.00" y="170.00" text-anchor="middle" class="heading" style="font-size:24px;fill:#dd5a24">~33% (падение с 50%)</text>
+<text x="560.00" y="193.00" text-anchor="middle" class="" style="font-size:12px;fill:#54627a">обращений замыкается на терапевте</text>
+<text x="408.00" y="225.00" text-anchor="start" class="" style="font-size:13px;fill:#18213a">• Доля участковых врачей: всего ~16%</text>
+<text x="408.00" y="250.00" text-anchor="start" class="" style="font-size:12px;fill:#18213a">• Раздвоение врачей: стационарные vs «не оперирующие»</text>
+<text x="408.00" y="275.00" text-anchor="start" class="" style="font-size:12px;fill:#18213a">• Любая жалоба перенаправляется к специалисту</text>
+<text x="408.00" y="300.00" text-anchor="start" class="" style="font-size:12px;fill:#18213a">• Искусственное удвоение дефицита кадров</text>
+<path d="M408.000,320.000 L712.000,320.000" fill="none" stroke="#ffd5ce" stroke-width="2"/>
+<text x="408.00" y="345.00" text-anchor="start" class="bold" style="font-size:13px;fill:#dd5a24">Результат:</text>
+<text x="408.00" y="367.00" text-anchor="start" class="" style="font-size:12px;fill:#18213a">Перегрузка узких специалистов и стационаров</text>
+<text x="32.00" y="425.00" text-anchor="start" class="small" style="fill:#18213a">Avoidable mortality &amp; admissions — ключевые эконометрические маркеры эффективности ПМСП.</text>
+</svg>

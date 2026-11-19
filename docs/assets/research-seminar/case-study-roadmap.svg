@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" role="img" aria-labelledby="title desc">
+<title id="title">Дорожная карта подготовки Case Study (НИС, 1 курс)</title><desc id="desc">Сроки, контрольные точки и ключевые требования к письменной работе по организации здравоохранения.</desc>
+<style>text{font-family:Inter,system-ui,-apple-system,sans-serif;fill:#18213a;font-size:16px} .small{font-size:14px;fill:#54627a} .heading{font-size:21px;font-weight:700} .bold{font-weight:600}</style>
+<rect width="760" height="420" rx="12" fill="#fff"/>
+<text x="32.00" y="40.00" text-anchor="start" class="heading" style="fill:#18213a">Дорожная карта подготовки Case Study (НИС, 1 курс)</text>
+<text x="32.00" y="68.00" text-anchor="start" class="small" style="fill:#18213a">Кейс-стади — не реферат, а доказательный разбор интриги и управленческого противоречия</text>
+<rect x="32.00" y="95.00" width="130.00" height="44.00" rx="6" fill="#3859b5"/>
+<text x="97.00" y="122.00" text-anchor="middle" class="bold" style="font-size:12px;fill:#fff">До 1 декабря</text>
+<rect x="172.00" y="95.00" width="160.00" height="44.00" rx="6" fill="#edf2fc"/>
+<text x="184.00" y="122.00" text-anchor="start" class="bold" style="font-size:13px;fill:#18213a">Выбор темы и группы</text>
+<rect x="342.00" y="95.00" width="386.00" height="44.00" rx="6" fill="#f5f6ff" stroke="#3859b5" stroke-width="1"/>
+<text x="354.00" y="122.00" text-anchor="start" class="" style="font-size:12px;fill:#54627a">Группы 1–5 чел. Формулировка темы в виде проблемного вопроса с интригой.</text>
+<path d="M97.000,139.000 L97.000,153.000" fill="none" stroke="#3859b5" stroke-width="2"/>
+<rect x="32.00" y="153.00" width="130.00" height="44.00" rx="6" fill="#178477"/>
+<text x="97.00" y="180.00" text-anchor="middle" class="bold" style="font-size:12px;fill:#fff">Декабрь</text>
+<rect x="172.00" y="153.00" width="160.00" height="44.00" rx="6" fill="#edf2fc"/>
+<text x="184.00" y="180.00" text-anchor="start" class="bold" style="font-size:13px;fill:#18213a">Проверка данных</text>
+<rect x="342.00" y="153.00" width="386.00" height="44.00" rx="6" fill="#f5f6ff" stroke="#178477" stroke-width="1"/>
+<text x="354.00" y="180.00" text-anchor="start" class="" style="font-size:12px;fill:#54627a">Анализ доступности статистики (формы №30, 47), интервью с ~30 коллегами.</text>
+<path d="M97.000,197.000 L97.000,211.000" fill="none" stroke="#178477" stroke-width="2"/>
+<rect x="32.00" y="211.00" width="130.00" height="44.00" rx="6" fill="#6a3cbc"/>
+<text x="97.00" y="238.00" text-anchor="middle" class="bold" style="font-size:12px;fill:#fff">Декабрь – Январь</text>
+<rect x="172.00" y="211.00" width="160.00" height="44.00" rx="6" fill="#edf2fc"/>
+<text x="184.00" y="238.00" text-anchor="start" class="bold" style="font-size:13px;fill:#18213a">Итерации текста</text>
+<rect x="342.00" y="211.00" width="386.00" height="44.00" rx="6" fill="#f5f6ff" stroke="#6a3cbc" stroke-width="1"/>
+<text x="354.00" y="238.00" text-anchor="start" class="" style="font-size:12px;fill:#54627a">Серия правок с научруком. Тестирование на ясность («правило домохозяйки»).</text>
+<path d="M97.000,255.000 L97.000,269.000" fill="none" stroke="#6a3cbc" stroke-width="2"/>
+<rect x="32.00" y="269.00" width="130.00" height="44.00" rx="6" fill="#dd5a24"/>
+<text x="97.00" y="296.00" text-anchor="middle" class="bold" style="font-size:12px;fill:#fff">20–23 января</text>
+<rect x="172.00" y="269.00" width="160.00" height="44.00" rx="6" fill="#edf2fc"/>
+<text x="184.00" y="296.00" text-anchor="start" class="bold" style="font-size:13px;fill:#18213a">Сдача финала</text>
+<rect x="342.00" y="269.00" width="386.00" height="44.00" rx="6" fill="#f5f6ff" stroke="#dd5a24" stroke-width="1"/>
+<text x="354.00" y="296.00" text-anchor="start" class="" style="font-size:12px;fill:#54627a">Текст до 15 стр. Ссылки на эмпирику в тексте, баланс управления и экономики.</text>
+<path d="M97.000,313.000 L97.000,327.000" fill="none" stroke="#dd5a24" stroke-width="2"/>
+<rect x="32.00" y="327.00" width="130.00" height="44.00" rx="6" fill="#b23b54"/>
+<text x="97.00" y="354.00" text-anchor="middle" class="bold" style="font-size:12px;fill:#fff">Конец января</text>
+<rect x="172.00" y="327.00" width="160.00" height="44.00" rx="6" fill="#edf2fc"/>
+<text x="184.00" y="354.00" text-anchor="start" class="bold" style="font-size:13px;fill:#18213a">Доклады лучших</text>
+<rect x="342.00" y="327.00" width="386.00" height="44.00" rx="6" fill="#f5f6ff" stroke="#b23b54" stroke-width="1"/>
+<text x="354.00" y="354.00" text-anchor="start" class="" style="font-size:12px;fill:#54627a">10 минут, 4–5 слайдов на семинаре. Оценка 8 (отлично), 9–10 (публикация).</text>
+<text x="32.00" y="400.00" text-anchor="start" class="small" style="fill:#18213a">Запрещены бытовые суждения («мне кажется») — только доказательные выводы и строгие ссылки.</text>
+</svg>

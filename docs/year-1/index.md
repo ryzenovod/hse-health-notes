@@ -98,7 +98,7 @@ hide:
 
 ## Ключевые семинары
 
-- [Научно-исследовательский семинар](research-seminar.md)
+- [Научно-исследовательский семинар](research-seminar.md) · [Вводное занятие и Case Study →](research-seminar-sheiman-intro-and-case-study.md)
 - [Семинар наставника](mentor-seminar.md)
 
 ## Дисциплины по выбору

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 450" role="img" aria-labelledby="title desc">
+<title id="title">Структурный дефицит кадров: модель «Too Many / Too Few»</title><desc id="desc">Матрица кадровых диспропорций в российском здравоохранении и пределы 3-летней отработки.</desc>
+<style>text{font-family:Inter,system-ui,-apple-system,sans-serif;fill:#18213a;font-size:16px} .small{font-size:14px;fill:#54627a} .heading{font-size:21px;font-weight:700} .bold{font-weight:600}</style>
+<rect width="760" height="450" rx="12" fill="#fff"/>
+<text x="32.00" y="40.00" text-anchor="start" class="heading" style="fill:#18213a">Структурный дефицит кадров: модель «Too Many / Too Few»</text>
+<text x="32.00" y="68.00" text-anchor="start" class="small" style="fill:#18213a">Дефицит кадров в РФ носит не абсолютный, а структурный и географический характер</text>
+<text x="42.00" y="92.00" text-anchor="start" class="bold" style="font-size:13px;fill:#54627a">Ось дисбаланса</text>
+<text x="202.00" y="92.00" text-anchor="start" class="bold" style="font-size:13px;fill:#3859b5">Где «ГУСТО» (профицит / концентрация)</text>
+<text x="472.00" y="92.00" text-anchor="start" class="bold" style="font-size:13px;fill:#b23b54">Где «ПУСТО» (острый дефицит)</text>
+<rect x="32.00" y="100.00" width="150.00" height="46.00" rx="6" fill="#edf2fc"/>
+<text x="44.00" y="128.00" text-anchor="start" class="bold" style="font-size:13px;fill:#18213a">География</text>
+<rect x="192.00" y="100.00" width="260.00" height="46.00" rx="6" fill="#eef3fa" stroke="#3859b5" stroke-width="1"/>
+<text x="204.00" y="128.00" text-anchor="start" class="" style="font-size:11px;fill:#3859b5">Москва, региональные центры, Татарстан</text>
+<rect x="462.00" y="100.00" width="266.00" height="46.00" rx="6" fill="#fff0f0" stroke="#b23b54" stroke-width="1"/>
+<text x="474.00" y="128.00" text-anchor="start" class="" style="font-size:11px;fill:#b23b54">Малые города, ЦРБ, периферия областей</text>
+<rect x="32.00" y="156.00" width="150.00" height="46.00" rx="6" fill="#edf2fc"/>
+<text x="44.00" y="184.00" text-anchor="start" class="bold" style="font-size:13px;fill:#18213a">Специальности</text>
+<rect x="192.00" y="156.00" width="260.00" height="46.00" rx="6" fill="#eef3fa" stroke="#3859b5" stroke-width="1"/>
+<text x="204.00" y="184.00" text-anchor="start" class="" style="font-size:11px;fill:#3859b5">«Доходные» платные профили (УЗИ, гинекология, стоматология)</text>
+<rect x="462.00" y="156.00" width="266.00" height="46.00" rx="6" fill="#fff0f0" stroke="#b23b54" stroke-width="1"/>
+<text x="474.00" y="184.00" text-anchor="start" class="" style="font-size:11px;fill:#b23b54">Участковые терапевты, педиатры, врачи общей практики</text>
+<rect x="32.00" y="212.00" width="150.00" height="46.00" rx="6" fill="#edf2fc"/>
+<text x="44.00" y="240.00" text-anchor="start" class="bold" style="font-size:13px;fill:#18213a">Уровни помощи</text>
+<rect x="192.00" y="212.00" width="260.00" height="46.00" rx="6" fill="#eef3fa" stroke="#3859b5" stroke-width="1"/>
+<text x="204.00" y="240.00" text-anchor="start" class="" style="font-size:11px;fill:#3859b5">Стационары (в т. ч. неоперирующие хирурги)</text>
+<rect x="462.00" y="212.00" width="266.00" height="46.00" rx="6" fill="#fff0f0" stroke="#b23b54" stroke-width="1"/>
+<text x="474.00" y="240.00" text-anchor="start" class="" style="font-size:11px;fill:#b23b54">Поликлиники, амбулатории, первичное звено (ПМСП)</text>
+<rect x="32.00" y="268.00" width="150.00" height="46.00" rx="6" fill="#edf2fc"/>
+<text x="44.00" y="296.00" text-anchor="start" class="bold" style="font-size:13px;fill:#18213a">Возраст</text>
+<rect x="192.00" y="268.00" width="260.00" height="46.00" rx="6" fill="#eef3fa" stroke="#3859b5" stroke-width="1"/>
+<text x="204.00" y="296.00" text-anchor="start" class="" style="font-size:11px;fill:#3859b5">Высокая доля врачей предпенсионного возраста</text>
+<rect x="462.00" y="268.00" width="266.00" height="46.00" rx="6" fill="#fff0f0" stroke="#b23b54" stroke-width="1"/>
+<text x="474.00" y="296.00" text-anchor="start" class="" style="font-size:11px;fill:#b23b54">Низкое закрепление молодых выпускников на местах</text>
+<rect x="32.00" y="340.00" width="696.00" height="65.00" rx="8" fill="#fff9e6" stroke="#e6b800" stroke-width="1"/>
+<text x="48.00" y="362.00" text-anchor="start" class="bold" style="font-size:13px;fill:#997a00">Ограничение обязательной 3-летней отработки выпускников:</text>
+<text x="48.00" y="385.00" text-anchor="start" class="" style="font-size:12px;fill:#18213a">Удерживает 25% оттока ровно 3 года. Без ликвидации профессиональной изоляции и роста зарплат</text>
+<text x="48.00" y="401.00" text-anchor="start" class="" style="font-size:12px;fill:#18213a">на 4-й год врачи уходят, а новые выпуски лишь компенсируют отток без накопления кадров.</text>
+</svg>
