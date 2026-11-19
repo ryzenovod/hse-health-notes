@@ -1,41 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 480" role="img" aria-labelledby="title desc">
 <title id="title">Куда уходит время системного лидера медицинской организации</title><desc id="desc">Разделение зон ответственности: почему главврач не должен проверять полы и карты пациентов.</desc>
-<style>text{font-family:Inter,system-ui,-apple-system,sans-serif;fill:#18213a;font-size:16px} .small{font-size:13px;fill:#54627a} .heading{font-size:20px;font-weight:700} .bold{font-weight:600}</style>
-<rect width="760" height="440" rx="12" fill="#fff"/>
+<style>text{font-family:Inter,system-ui,-apple-system,sans-serif;fill:#18213a;font-size:15px} .small{font-size:13px;fill:#54627a} .heading{font-size:20px;font-weight:700} .bold{font-weight:600}</style>
+<rect width="760" height="480" rx="12" fill="#fff"/>
 <text x="32.00" y="40.00" text-anchor="start" class="heading" style="fill:#18213a">Куда уходит время системного лидера медицинской организации</text>
-<text x="32.00" y="68.00" text-anchor="start" class="small" style="fill:#18213a">Архитектура управления: внешний контур, стратегическая культура и автономные процессы</text>
-<rect x="32.00" y="95.00" width="218.00" height="245.00" rx="8" fill="#fcfdfe" stroke="#1565c0" stroke-width="1.5"/>
-<rect x="32.00" y="95.00" width="218.00" height="42.00" rx="8" fill="#1565c0"/>
-<rect x="32.00" y="125.00" width="218.00" height="12.00" rx="0" fill="#1565c0"/>
-<text x="141.00" y="115.00" text-anchor="middle" class="bold" style="font-size:11px;fill:#fff">1. Защита и ресурсы (GR)</text>
-<text x="141.00" y="129.00" text-anchor="middle" class="" style="font-size:9px;fill:#e0e0e0">Внешний контур и безопасность</text>
-<text x="44.00" y="163.00" text-anchor="start" class="" style="font-size:10px;fill:#18213a">• «Крыша» и щит для коллектива</text>
-<text x="44.00" y="197.00" text-anchor="start" class="" style="font-size:10px;fill:#18213a">• Защита врачей от силового давления</text>
-<text x="44.00" y="231.00" text-anchor="start" class="" style="font-size:10px;fill:#18213a">• Переговоры с Минздравом и ТФОМС</text>
-<text x="44.00" y="265.00" text-anchor="start" class="" style="font-size:10px;fill:#18213a">• Привлечение субсидий и инвестиций</text>
-<text x="44.00" y="299.00" text-anchor="start" class="" style="font-size:10px;fill:#18213a">• Защита фонда заработной платы</text>
-<rect x="271.00" y="95.00" width="218.00" height="245.00" rx="8" fill="#fcfdfe" stroke="#2e7d32" stroke-width="1.5"/>
-<rect x="271.00" y="95.00" width="218.00" height="42.00" rx="8" fill="#2e7d32"/>
-<rect x="271.00" y="125.00" width="218.00" height="12.00" rx="0" fill="#2e7d32"/>
-<text x="380.00" y="115.00" text-anchor="middle" class="bold" style="font-size:11px;fill:#fff">2. Стратегия и культура</text>
-<text x="380.00" y="129.00" text-anchor="middle" class="" style="font-size:9px;fill:#e0e0e0">Внутренний климат и инновации</text>
-<text x="283.00" y="163.00" text-anchor="start" class="" style="font-size:10px;fill:#18213a">• Культура No-Blame (без поиска виновных)</text>
-<text x="283.00" y="197.00" text-anchor="start" class="" style="font-size:10px;fill:#18213a">• Внедрение стандартов ISO 9001 / JCI</text>
-<text x="283.00" y="231.00" text-anchor="start" class="" style="font-size:10px;fill:#18213a">• Психологическая безопасность в команде</text>
-<text x="283.00" y="265.00" text-anchor="start" class="" style="font-size:10px;fill:#18213a">• Выращивание лидеров и работа с Gen Z</text>
-<text x="283.00" y="299.00" text-anchor="start" class="" style="font-size:10px;fill:#18213a">• Внедрение ИИ и цифровых помощников</text>
-<rect x="510.00" y="95.00" width="218.00" height="245.00" rx="8" fill="#fcfdfe" stroke="#c2185b" stroke-width="1.5"/>
-<rect x="510.00" y="95.00" width="218.00" height="42.00" rx="8" fill="#c2185b"/>
-<rect x="510.00" y="125.00" width="218.00" height="12.00" rx="0" fill="#c2185b"/>
-<text x="619.00" y="115.00" text-anchor="middle" class="bold" style="font-size:11px;fill:#fff">3. Продукт и исходы (VBHC)</text>
-<text x="619.00" y="129.00" text-anchor="middle" class="" style="font-size:9px;fill:#e0e0e0">Ценность для пациента</text>
-<text x="522.00" y="163.00" text-anchor="start" class="" style="font-size:10px;fill:#18213a">• Клинические исходы (PROMs / PREMs)</text>
-<text x="522.00" y="197.00" text-anchor="start" class="" style="font-size:10px;fill:#18213a">• Снижение летальности и осложнений</text>
-<text x="522.00" y="231.00" text-anchor="start" class="" style="font-size:10px;fill:#18213a">• Развитие симуляционного центра</text>
-<text x="522.00" y="265.00" text-anchor="start" class="" style="font-size:10px;fill:#18213a">• Пациентский сервис и репутация</text>
-<text x="522.00" y="299.00" text-anchor="start" class="" style="font-size:10px;fill:#18213a">• Доверие и долгосрочная лояльность</text>
-<rect x="32.00" y="355.00" width="696.00" height="65.00" rx="8" fill="#263238"/>
-<text x="380.00" y="380.00" text-anchor="middle" class="bold" style="font-size:12px;fill:#80cbc4">ФУНДАМЕНТ: АВТОНОМНЫЕ ОПЕРАЦИОННЫЕ ПРОЦЕССЫ</text>
-<text x="380.00" y="402.00" text-anchor="middle" class="" style="font-size:10px;fill:#eceff1">Если главврач лично указывает санитаркам, как мыть полы, или вручную проверяет каждую историю болезни —</text>
-<text x="380.00" y="414.00" text-anchor="middle" class="" style="font-size:10px;fill:#b0bec5">организация обречена на стагнацию. Рутина должна работать по четким чек-листам без ручного вмешательства.</text>
+<text x="32.00" y="66.00" text-anchor="start" class="small" style="fill:#18213a">Архитектура управления: внешний контур, стратегическая культура и автономные процессы</text>
+<rect x="32.00" y="90.00" width="222.00" height="245.00" rx="8" fill="#fcfdfe" stroke="#1565c0" stroke-width="1.5"/>
+<rect x="32.00" y="90.00" width="222.00" height="42.00" rx="8" fill="#1565c0"/>
+<rect x="32.00" y="120.00" width="222.00" height="12.00" rx="0" fill="#1565c0"/>
+<text x="143.00" y="110.00" text-anchor="middle" class="bold" style="font-size:11px;fill:#fff">1. Защита и ресурсы (GR)</text>
+<text x="143.00" y="124.00" text-anchor="middle" class="" style="font-size:9.5px;fill:#e0e0e0">Внешний контур и безопасность</text>
+<text x="42.00" y="160.00" text-anchor="start" class="" style="font-size:9.8px;fill:#18213a">• «Крыша» и защита коллектива</text>
+<text x="42.00" y="194.00" text-anchor="start" class="" style="font-size:9.8px;fill:#18213a">• Щит от силового давления</text>
+<text x="42.00" y="228.00" text-anchor="start" class="" style="font-size:9.8px;fill:#18213a">• Диалог с ТФОМС и Минздравом</text>
+<text x="42.00" y="262.00" text-anchor="start" class="" style="font-size:9.8px;fill:#18213a">• Привлечение инвестиций и субсидий</text>
+<text x="42.00" y="296.00" text-anchor="start" class="" style="font-size:9.8px;fill:#18213a">• Защита фонда оплаты труда</text>
+<rect x="269.00" y="90.00" width="222.00" height="245.00" rx="8" fill="#fcfdfe" stroke="#2e7d32" stroke-width="1.5"/>
+<rect x="269.00" y="90.00" width="222.00" height="42.00" rx="8" fill="#2e7d32"/>
+<rect x="269.00" y="120.00" width="222.00" height="12.00" rx="0" fill="#2e7d32"/>
+<text x="380.00" y="110.00" text-anchor="middle" class="bold" style="font-size:11px;fill:#fff">2. Стратегия и культура</text>
+<text x="380.00" y="124.00" text-anchor="middle" class="" style="font-size:9.5px;fill:#e0e0e0">Внутренний климат и инновации</text>
+<text x="279.00" y="160.00" text-anchor="start" class="" style="font-size:9.8px;fill:#18213a">• Культура No-Blame (без вины)</text>
+<text x="279.00" y="194.00" text-anchor="start" class="" style="font-size:9.8px;fill:#18213a">• Стандарты ISO 9001 и JCI</text>
+<text x="279.00" y="228.00" text-anchor="start" class="" style="font-size:9.8px;fill:#18213a">• Психологическая безопасность</text>
+<text x="279.00" y="262.00" text-anchor="start" class="" style="font-size:9.8px;fill:#18213a">• Наставничество, кадры Gen Z</text>
+<text x="279.00" y="296.00" text-anchor="start" class="" style="font-size:9.8px;fill:#18213a">• Внедрение ИИ-ассистентов</text>
+<rect x="506.00" y="90.00" width="222.00" height="245.00" rx="8" fill="#fcfdfe" stroke="#c2185b" stroke-width="1.5"/>
+<rect x="506.00" y="90.00" width="222.00" height="42.00" rx="8" fill="#c2185b"/>
+<rect x="506.00" y="120.00" width="222.00" height="12.00" rx="0" fill="#c2185b"/>
+<text x="617.00" y="110.00" text-anchor="middle" class="bold" style="font-size:11px;fill:#fff">3. Продукт и исходы (VBHC)</text>
+<text x="617.00" y="124.00" text-anchor="middle" class="" style="font-size:9.5px;fill:#e0e0e0">Ценность для пациента</text>
+<text x="516.00" y="160.00" text-anchor="start" class="" style="font-size:9.8px;fill:#18213a">• Исходы лечения (PROMs / PREMs)</text>
+<text x="516.00" y="194.00" text-anchor="start" class="" style="font-size:9.8px;fill:#18213a">• Снижение летальности и сепсиса</text>
+<text x="516.00" y="228.00" text-anchor="start" class="" style="font-size:9.8px;fill:#18213a">• Симуляционный тренинг бригад</text>
+<text x="516.00" y="262.00" text-anchor="start" class="" style="font-size:9.8px;fill:#18213a">• Пациентский опыт и сервис</text>
+<text x="516.00" y="296.00" text-anchor="start" class="" style="font-size:9.8px;fill:#18213a">• Доверие и лояльность пациентов</text>
+<rect x="32.00" y="355.00" width="696.00" height="85.00" rx="8" fill="#263238"/>
+<text x="380.00" y="380.00" text-anchor="middle" class="bold" style="font-size:11.5px;fill:#80cbc4">ФУНДАМЕНТ: АВТОНОМНЫЕ ОПЕРАЦИОННЫЕ ПРОЦЕССЫ</text>
+<text x="380.00" y="404.00" text-anchor="middle" class="" style="font-size:10.5px;fill:#eceff1">Если главврач лично указывает санитаркам, как мыть полы, или вручную правит карты — система мертва.</text>
+<text x="380.00" y="422.00" text-anchor="middle" class="" style="font-size:10px;fill:#b0bec5">Рутина обязана работать по отточенным СОПам и чек-листам без постоянного ручного вмешательства лидера.</text>
 </svg>
